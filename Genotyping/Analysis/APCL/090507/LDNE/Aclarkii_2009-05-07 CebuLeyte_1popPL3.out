@@ -1,0 +1,296 @@
+     Output From Program LDNe by Robin Waples and Chi Do
+            Version 1.31   Modified December 2007
+            Date: 10/13/2009, Time: 10:30:51
+
+            Input File: Aclarkii_2009-05-07 CebuLeyte_1pop.txt
+            Mating Model is monogamy
+
+Lowest Allele Frequency Used =   0.05000   0.02000   0.01000
+------------------------------------------------------------
+Population 1[7]
+---------------
+Harmonic Mean Sample Size =         19.6      19.7      19.7
+Independent Comparisons =          1261      1660      1660
+OverAll r^2 =                    0.05735   0.06017   0.06017
+Expected r^2 Sample =            0.05959   0.05943   0.05943
+Estimated Ne^ =                   -277.9     828.6     828.6
+
+95% CIs for Ne^
+* Parametric                       243.8     120.1     120.1
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                274.2     145.9     145.8
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 2[8]
+---------------
+Harmonic Mean Sample Size =         19.7      19.6      19.6
+Independent Comparisons =          1211      1777      1777
+OverAll r^2 =                    0.05774   0.05855   0.05855
+Expected r^2 Sample =            0.05944   0.05961   0.05961
+Estimated Ne^ =                   -364.4    -587.7    -587.7
+
+95% CIs for Ne^
+* Parametric                       191.9     204.3     204.3
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                177.8     164.1     164.1
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 3[9]
+---------------
+Harmonic Mean Sample Size =         19.5      19.5      19.5
+Independent Comparisons =          1105      1990      1990
+OverAll r^2 =                    0.05758   0.06056   0.06056
+Expected r^2 Sample =            0.06002   0.05981   0.05981
+Estimated Ne^ =                   -255.4     821.4     821.4
+
+95% CIs for Ne^
+* Parametric                       228.5     129.4     129.4
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                211.3     116.1     116.1
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 4[10]
+----------------
+Harmonic Mean Sample Size =         19.7      19.8      19.8
+Independent Comparisons =          1258      1875      1875
+OverAll r^2 =                    0.06132   0.05812   0.05812
+Expected r^2 Sample =            0.05922   0.05906   0.05906
+Estimated Ne^ =                    292.3    -662.2    -662.2
+
+95% CIs for Ne^
+* Parametric                        83.8     205.8     205.8
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 86.3     257.9     257.9
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 5[11]
+----------------
+Harmonic Mean Sample Size =         19.3      19.3      19.3
+Independent Comparisons =          1192      1799      1799
+OverAll r^2 =                    0.05901   0.06259   0.06259
+Expected r^2 Sample =            0.06078   0.06085   0.06085
+Estimated Ne^ =                   -351.2     351.7     351.7
+
+95% CIs for Ne^
+* Parametric                       186.9     100.0     100.0
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                228.5     104.2     104.2
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 6[13]
+----------------
+Harmonic Mean Sample Size =         19.6      19.5      19.5
+Independent Comparisons =          1170      1719      1719
+OverAll r^2 =                    0.05616   0.05862   0.05862
+Expected r^2 Sample =            0.05963   0.05993   0.05993
+Estimated Ne^ =                   -180.2    -472.0    -472.0
+
+95% CIs for Ne^
+* Parametric                       447.9     217.8     217.8
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                314.0     215.0     215.0
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 7[14]
+----------------
+Harmonic Mean Sample Size =         20.4      20.6      20.6
+Independent Comparisons =          1028      1941      1941
+OverAll r^2 =                    0.05659   0.05450   0.05450
+Expected r^2 Sample =            0.05700   0.05633   0.05633
+Estimated Ne^ =                  -1519.2    -340.6    -340.6
+
+95% CIs for Ne^
+* Parametric                       126.0     346.5     346.5
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                121.4     416.9     416.9
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 8[15]
+----------------
+Harmonic Mean Sample Size =         20.2      20.4      20.4
+Independent Comparisons =          1021      1820      1820
+OverAll r^2 =                    0.05938   0.05490   0.05490
+Expected r^2 Sample =            0.05746   0.05698   0.05698
+Estimated Ne^ =                    319.5    -299.7    -299.7
+
+95% CIs for Ne^
+* Parametric                        81.0     367.4     367.4
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 69.9     361.2     361.0
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 9[16]
+----------------
+Harmonic Mean Sample Size =         19.8      19.7      19.7
+Independent Comparisons =          1354      2009      2009
+OverAll r^2 =                    0.06127   0.05959   0.05959
+Expected r^2 Sample =            0.05892   0.05912   0.05912
+Estimated Ne^ =                    260.2    1335.3    1335.3
+
+95% CIs for Ne^
+* Parametric                        83.1     140.7     140.7
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 78.6     134.1     134.1
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 10[17]
+-----------------
+Harmonic Mean Sample Size =         19.5      19.4      19.4
+Independent Comparisons =          1503      2132      2132
+OverAll r^2 =                    0.06112   0.05869   0.05869
+Expected r^2 Sample =            0.06000   0.06031   0.06031
+Estimated Ne^ =                    546.2    -384.6    -384.6
+
+95% CIs for Ne^
+* Parametric                       105.4     295.9     295.9
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 96.2     285.4     285.4
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 11[18]
+-----------------
+Harmonic Mean Sample Size =         16.7      16.7      16.7
+Independent Comparisons =          1026      1818      1818
+OverAll r^2 =                    0.07461   0.07137   0.07137
+Expected r^2 Sample =            0.07228   0.07221   0.07221
+Estimated Ne^ =                    263.6    -738.7    -738.7
+
+95% CIs for Ne^
+* Parametric                        64.8     150.9     150.9
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 64.8     200.2     200.2
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 12[19]
+-----------------
+Harmonic Mean Sample Size =         18.7      18.7      18.7
+Independent Comparisons =          1284      1866      1866
+OverAll r^2 =                    0.06364   0.06385   0.06385
+Expected r^2 Sample =            0.06301   0.06308   0.06308
+Estimated Ne^ =                    978.0     801.1     801.1
+
+95% CIs for Ne^
+* Parametric                       103.4     119.7     119.7
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 87.3     142.3     142.3
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 13[20]
+-----------------
+Harmonic Mean Sample Size =         17.5      17.5      17.5
+Independent Comparisons =          1162      1542      1542
+OverAll r^2 =                    0.06597   0.06684   0.06684
+Expected r^2 Sample =            0.06816   0.06815   0.06815
+Estimated Ne^ =                   -284.3    -474.1    -474.1
+
+95% CIs for Ne^
+* Parametric                       173.4     166.2     166.2
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                159.1     184.6     184.6
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 14[22]
+-----------------
+Harmonic Mean Sample Size =         32.1      32.0      31.7
+Independent Comparisons =          1040      1549      2489
+OverAll r^2 =                    0.03532   0.03638   0.03797
+Expected r^2 Sample =            0.03425   0.03435   0.03469
+Estimated Ne^ =                    621.7     325.8     200.7
+
+95% CIs for Ne^
+* Parametric                       151.9     138.1     118.9
+                                Infinite  Infinite     529.2
+
+* JackKnife on Loci                134.4     132.9     103.7
+                                Infinite  Infinite    1091.7
+
+------------------------------------------------------------
+Population 15[23]
+-----------------
+Harmonic Mean Sample Size =         18.5      18.5      18.5
+Independent Comparisons =          1297      2280      2280
+OverAll r^2 =                    0.06159   0.06235   0.06235
+Expected r^2 Sample =            0.06365   0.06373   0.06373
+Estimated Ne^ =                   -302.6    -451.6    -451.6
+
+95% CIs for Ne^
+* Parametric                       205.7     254.4     254.4
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                226.1     381.0     380.9
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 16[24]
+-----------------
+Harmonic Mean Sample Size =         19.8      19.7      19.7
+Independent Comparisons =          1066      1761      1761
+OverAll r^2 =                    0.06057   0.05929   0.05929
+Expected r^2 Sample =            0.05895   0.05912   0.05912
+Estimated Ne^ =                    379.8    3721.3    3721.3
+
+95% CIs for Ne^
+* Parametric                        84.8     142.0     142.0
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                 84.3     152.3     152.3
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 17[25]
+-----------------
+Harmonic Mean Sample Size =         19.3      19.3      19.3
+Independent Comparisons =          1294      1700      1700
+OverAll r^2 =                    0.05959   0.05960   0.05960
+Expected r^2 Sample =            0.06083   0.06073   0.06073
+Estimated Ne^ =                   -500.5    -549.5    -549.5
+
+95% CIs for Ne^
+* Parametric                       168.0     197.8     197.8
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                184.7     270.8     270.8
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 18[27]
+-----------------
+Harmonic Mean Sample Size =         19.2      19.1      19.1
+Independent Comparisons =          1203      2024      2024
+OverAll r^2 =                    0.05958   0.05935   0.05935
+Expected r^2 Sample =            0.06125   0.06143   0.06143
+Estimated Ne^ =                   -372.4    -299.9    -299.9
+
+95% CIs for Ne^
+* Parametric                       179.9     349.4     349.4
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                165.9     316.7     316.7
+                                Infinite  Infinite  Infinite
+

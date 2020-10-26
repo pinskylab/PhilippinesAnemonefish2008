@@ -1,0 +1,19 @@
+Pop_1	Handumon
+Pop_2	Santander
+Pop_3	Boljoon
+Pop_4	Argao
+Pop_5	Carcar
+Pop_6	Minglanilla
+Pop_7	Danao
+Pop_8	Sogod
+Pop_9	Tabogon
+Pop_10	Daanbantayan
+Pop_11	Malapascua
+Pop_12	Pintuyan
+Pop_13	Padre Burgos
+Pop_14	Maasin
+Pop_15	Inopacan
+Pop_16	Baybay
+Pop_17	Albuera
+Pop_18	Ormoc
+Pop_19	Palompon

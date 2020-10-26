@@ -1,0 +1,58 @@
+Missing Data in file PRBI_genepop_2009-09-23.txt
+
+Population     Sample     Locus     Genotype     Comments
+       1           9         6        000000     Missing Data!                 
+       1          14         3        000000     Missing Data!                 
+       2          12         4        000000     Missing Data!                 
+       3           1        16        000000     Missing Data!                 
+       3           7        10        000000     Missing Data!                 
+       3           7        11        000000     Missing Data!                 
+       3          10        11        000000     Missing Data!                 
+       3          11        11        000000     Missing Data!                 
+       3          15         2        000000     Missing Data!                 
+       3          16        11        000000     Missing Data!                 
+       4           1         6        000000     Missing Data!                 
+       4           2        16        000000     Missing Data!                 
+       4           3         1        000000     Missing Data!                 
+       4           3         2        000000     Missing Data!                 
+       4           3         3        000000     Missing Data!                 
+       4           3        16        000000     Missing Data!                 
+       4           6        16        000000     Missing Data!                 
+       4          11        11        000000     Missing Data!                 
+       4          11        16        000000     Missing Data!                 
+       4          12        10        000000     Missing Data!                 
+       4          12        11        000000     Missing Data!                 
+       5           1        16        000000     Missing Data!                 
+       5           2         2        000000     Missing Data!                 
+       5           3         2        000000     Missing Data!                 
+       5           3         4        000000     Missing Data!                 
+       5           3        16        000000     Missing Data!                 
+       5          14         1        000000     Missing Data!                 
+       5          14         2        000000     Missing Data!                 
+       5          14         3        000000     Missing Data!                 
+       5          14         4        000000     Missing Data!                 
+       5          15        11        000000     Missing Data!                 
+       6           3        16        000000     Missing Data!                 
+       6           8        10        000000     Missing Data!                 
+       6          13        10        000000     Missing Data!                 
+       6          15         2        000000     Missing Data!                 
+       6          15         4        000000     Missing Data!                 
+       6          15        16        000000     Missing Data!                 
+       7           3         5        000000     Missing Data!                 
+       7           3         7        000000     Missing Data!                 
+       7           3        13        000000     Missing Data!                 
+       7           3        16        000000     Missing Data!                 
+       7           5         9        000000     Missing Data!                 
+       7           5        10        000000     Missing Data!                 
+       7           9         2        000000     Missing Data!                 
+       7          10        16        000000     Missing Data!                 
+       7          17         2        000000     Missing Data!                 
+       7          17        11        000000     Missing Data!                 
+       9           2        16        000000     Missing Data!                 
+      11           3        16        000000     Missing Data!                 
+      11           8        10        000000     Missing Data!                 
+      11          14         5        000000     Missing Data!                 
+      11          15         2        000000     Missing Data!                 
+      11          15        16        000000     Missing Data!                 
+
+Total of missing data:     53

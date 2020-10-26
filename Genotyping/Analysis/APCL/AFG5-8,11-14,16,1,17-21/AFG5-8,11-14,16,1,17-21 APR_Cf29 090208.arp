@@ -1,0 +1,889 @@
+[Profile]
+  Title = "Anemonefish partial data file 090208" 
+  NbSamples = 19
+  GenotypicData = 1
+  LocusSeparator = WHITESPACE
+  GameticPhase = 0  # = unknown gametic phase
+  MissingData = '?'
+  CompDistMatrix = 1
+  DataType = MICROSAT
+
+[Data]
+
+[[Samples]]
+    SampleName = "Handumon" 
+    SampleSize = 7
+    SampleData = {
+    APCL21   1  10
+                11
+    APCL27   1  11
+                11
+    APCL28   1   7
+                 8
+    APCL38   1  17
+                17
+    APCL39   1  17
+                17
+    APCL47   1  11
+                14
+    APCL48   1  17
+                17
+    }
+
+    SampleName = "Santander" 
+    SampleSize = 20
+    SampleData = {
+    APCL49   1   6
+                17
+    APCL50   1   7
+                10
+    APCL52   1   7
+                 7
+    APCL53   1   7
+                17
+    APCL54   1   7
+                 7
+    APCL55   1   8
+                 8
+    APCL56   1   7
+                 8
+    APCL57   1   7
+                 8
+    APCL58   1   7
+                 7
+    APCL59   1   7
+                 9
+    APCL60   1   7
+                 8
+    APCL61   1  10
+                17
+    APCL62   1   7
+                11
+    APCL63   1   5
+                 7
+    APCL64   1   8
+                11
+    APCL65   1   6
+                 6
+    APCL67   1   7
+                 7
+    APCL68   1   7
+                 7
+    APCL69   1   7
+                11
+    APCL70   1   7
+                 7
+    }
+
+    SampleName = "Boljoon" 
+    SampleSize = 20
+    SampleData = {
+    APCL124  1   7
+                 7
+    APCL125  1   7
+                 7
+    APCL126  1  10
+                10
+    APCL127  1   7
+                17
+    APCL128  1   7
+                17
+    APCL129  1   6
+                 6
+    APCL130  1   7
+                 7
+    APCL131  1   8
+                11
+    APCL132  1  17
+                17
+    APCL133  1   7
+                 7
+    APCL134  1   6
+                 7
+    APCL135  1   7
+                11
+    APCL136  1   7
+                11
+    APCL139  1   7
+                11
+    APCL140  1   8
+                10
+    APCL141  1  10
+                17
+    APCL142  1   7
+                11
+    APCL143  1   6
+                 6
+    APCL144  1   7
+                 7
+    APCL145  1   7
+                 7
+    }
+
+    SampleName = "Argao" 
+    SampleSize = 20
+    SampleData = {
+    APCL100  1   5
+                17
+    APCL101  1   8
+                17
+    APCL102  1   7
+                 7
+    APCL103  1   7
+                 7
+    APCL104  1   8
+                10
+    APCL105  1   7
+                17
+    APCL106  1   7
+                 7
+    APCL107  1  12
+                17
+    APCL108  1   8
+                17
+    APCL111  1  10
+                11
+    APCL88   1   9
+                17
+    APCL89   1   7
+                13
+    APCL90   1   6
+                10
+    APCL91   1  11
+                11
+    APCL92   1   7
+                14
+    APCL93   1   7
+                 9
+    APCL94   1   8
+                11
+    APCL95   1   7
+                 8
+    APCL96   1   7
+                 9
+    APCL97   1   7
+                17
+    }
+
+    SampleName = "Carcar" 
+    SampleSize = 20
+    SampleData = {
+    APCL199  1   6
+                17
+    APCL200  1   7
+                 7
+    APCL201  1   7
+                10
+    APCL202  1   5
+                12
+    APCL203  1   7
+                11
+    APCL204  1   7
+                10
+    APCL205  1   7
+                11
+    APCL206  1   8
+                17
+    APCL207  1   6
+                 8
+    APCL208  1   6
+                 7
+    APCL212  1   7
+                 8
+    APCL217  1   7
+                 7
+    APCL218  1   7
+                 9
+    APCL219  1  11
+                11
+    APCL220  1   7
+                 8
+    APCL221  1   7
+                 7
+    APCL222  1   7
+                17
+    APCL223  1  17
+                17
+    APCL224  1   2
+                 7
+    APCL225  1   7
+                 9
+    }
+
+    SampleName = "Minglanilla" 
+    SampleSize = 20
+    SampleData = {
+    APCL162  1   7
+                 8
+    APCL163  1   5
+                 8
+    APCL165  1  10
+                17
+    APCL166  1   7
+                10
+    APCL171  1   7
+                11
+    APCL172  1   9
+                11
+    APCL173  1   7
+                 7
+    APCL176  1   7
+                 7
+    APCL177  1   7
+                 7
+    APCL182  1   7
+                17
+    APCL187  1   7
+                11
+    APCL190  1   7
+                10
+    APCL191  1   5
+                 7
+    APCL192  1   6
+                11
+    APCL193  1   7
+                17
+    APCL194  1   7
+                 7
+    APCL195  1   7
+                 9
+    APCL196  1   6
+                11
+    APCL197  1   7
+                11
+    APCL198  1   7
+                 7
+    }
+
+    SampleName = "Danao" 
+    SampleSize = 20
+    SampleData = {
+    APCL240  1   7
+                 8
+    APCL241  1   7
+                 7
+    APCL242  1   8
+                17
+    APCL243  1   7
+                17
+    APCL244  1  17
+                17
+    APCL245  1   7
+                 7
+    APCL246  1   5
+                 6
+    APCL247  1   7
+                17
+    APCL248  1  10
+                17
+    APCL249  1   7
+                 8
+    APCL250  1   7
+                 8
+    APCL251  1   7
+                 8
+    APCL252  1   8
+                12
+    APCL253  1   8
+                10
+    APCL254  1   7
+                17
+    APCL255  1   8
+                11
+    APCL256  1   7
+                 7
+    APCL257  1   8
+                 9
+    APCL258  1   6
+                 7
+    APCL259  1   8
+                 8
+    }
+
+    SampleName = "Sogod" 
+    SampleSize = 21
+    SampleData = {
+    APCL467  1  17
+                17
+    APCL468  1   7
+                10
+    APCL469  1  10
+                17
+    APCL470  1   8
+                 9
+    APCL471  1   9
+                10
+    APCL472  1   7
+                17
+    APCL473  1   7
+                 8
+    APCL474  1   6
+                 7
+    APCL475  1   7
+                 7
+    APCL476  1   7
+                 9
+    APCL477  1   8
+                 9
+    APCL478  1   4
+                 9
+    APCL479  1   7
+                11
+    APCL480  1   6
+                 7
+    APCL481  1   7
+                 7
+    APCL482  1   7
+                 7
+    APCL483  1   6
+                10
+    APCL484  1   8
+                10
+    APCL485  1   7
+                17
+    APCL486  1   7
+                 7
+    APCL487  1   6
+                 6
+    }
+
+    SampleName = "Tabogon" 
+    SampleSize = 21
+    SampleData = {
+    APCL488  1   7
+                10
+    APCL489  1   7
+                 7
+    APCL490  1   7
+                10
+    APCL491  1   7
+                10
+    APCL492  1   7
+                11
+    APCL493  1   6
+                 8
+    APCL494  1   6
+                12
+    APCL495  1   5
+                 8
+    APCL496  1   6
+                 7
+    APCL497  1  11
+                12
+    APCL498  1   7
+                 8
+    APCL499  1   7
+                17
+    APCL500  1   7
+                 8
+    APCL501  1   7
+                17
+    APCL502  1   6
+                11
+    APCL503  1   ?
+                 ?
+    APCL504  1  10
+                17
+    APCL506  1   6
+                17
+    APCL507  1   7
+                 7
+    APCL508  1   6
+                12
+    APCL509  1   7
+                 8
+    }
+
+    SampleName = "Daanbantayan" 
+    SampleSize = 20
+    SampleData = {
+    APCL532  1   7
+                 7
+    APCL533  1   7
+                11
+    APCL534  1   7
+                 8
+    APCL535  1   5
+                 8
+    APCL536  1   ?
+                 ?
+    APCL537  1   7
+                 9
+    APCL538  1   6
+                10
+    APCL539  1  10
+                11
+    APCL540  1   7
+                11
+    APCL541  1   6
+                 7
+    APCL542  1   6
+                 6
+    APCL543  1   7
+                17
+    APCL544  1   6
+                11
+    APCL545  1   6
+                 7
+    APCL546  1   ?
+                 ?
+    APCL547  1   7
+                 7
+    APCL549  1   ?
+                 ?
+    APCL550  1   6
+                 9
+    APCL551  1   5
+                 8
+    APCL552  1   7
+                 7
+    }
+
+    SampleName = "Malapascua" 
+    SampleSize = 20
+    SampleData = {
+    APCL511  1   7
+                17
+    APCL512  1   8
+                17
+    APCL513  1   7
+                17
+    APCL514  1   8
+                11
+    APCL515  1   5
+                13
+    APCL516  1  11
+                17
+    APCL517  1   5
+                17
+    APCL518  1  17
+                17
+    APCL519  1   6
+                 9
+    APCL520  1  10
+                11
+    APCL521  1   6
+                 6
+    APCL522  1   6
+                 7
+    APCL523  1   7
+                 7
+    APCL524  1   8
+                17
+    APCL525  1   6
+                 8
+    APCL526  1   4
+                17
+    APCL527  1   2
+                17
+    APCL528  1   7
+                 7
+    APCL529  1   7
+                17
+    APCL531  1   7
+                 7
+    }
+
+    SampleName = "Pintuyan" 
+    SampleSize = 17
+    SampleData = {
+    APCL306  1   7
+                 8
+    APCL307  1  11
+                17
+    APCL308  1   7
+                 8
+    APCL309  1   8
+                11
+    APCL310  1   7
+                11
+    APCL311  1   8
+                11
+    APCL312  1   7
+                11
+    APCL313  1   8
+                17
+    APCL314  1   7
+                 7
+    APCL315  1   6
+                 8
+    APCL316  1   8
+                 8
+    APCL317  1   8
+                10
+    APCL318  1   7
+                 7
+    APCL319  1  11
+                17
+    APCL320  1   1
+                 7
+    APCL321  1   6
+                 8
+    APCL322  1   7
+                10
+    }
+
+    SampleName = "Padre Burgos" 
+    SampleSize = 20
+    SampleData = {
+    APCL286  1   1
+                11
+    APCL287  1  11
+                17
+    APCL288  1   7
+                 8
+    APCL289  1   5
+                 8
+    APCL290  1  11
+                11
+    APCL291  1   6
+                 7
+    APCL292  1   7
+                17
+    APCL293  1   7
+                 9
+    APCL294  1   8
+                17
+    APCL295  1   7
+                 8
+    APCL296  1   7
+                10
+    APCL297  1   8
+                17
+    APCL298  1   7
+                17
+    APCL299  1   7
+                 7
+    APCL300  1   6
+                 7
+    APCL301  1   8
+                17
+    APCL302  1   7
+                17
+    APCL303  1   7
+                11
+    APCL304  1  12
+                17
+    APCL305  1   5
+                 5
+    }
+
+    SampleName = "Maasin" 
+    SampleSize = 19
+    SampleData = {
+    APCL264  1   7
+                 7
+    APCL265  1   8
+                11
+    APCL266  1   7
+                 8
+    APCL267  1   7
+                 7
+    APCL268  1   6
+                 8
+    APCL269  1   8
+                 8
+    APCL270  1   7
+                17
+    APCL271  1   4
+                 7
+    APCL272  1   8
+                10
+    APCL273  1   7
+                10
+    APCL274  1   7
+                13
+    APCL275  1   7
+                 7
+    APCL279  1   7
+                 8
+    APCL280  1   6
+                 8
+    APCL281  1   6
+                 8
+    APCL282  1   7
+                17
+    APCL283  1   8
+                17
+    APCL284  1   7
+                 8
+    APCL285  1   1
+                11
+    }
+
+    SampleName = "Inopacan" 
+    SampleSize = 34
+    SampleData = {
+    APCL343  1   ?
+                 ?
+    APCL344  1   7
+                11
+    APCL345  1   ?
+                 ?
+    APCL346  1   7
+                 7
+    APCL347  1  10
+                17
+    APCL348  1   6
+                17
+    APCL349  1   6
+                 8
+    APCL350  1   7
+                 8
+    APCL351  1   7
+                 7
+    APCL352  1   7
+                 7
+    APCL353  1   7
+                 8
+    APCL354  1   ?
+                 ?
+    APCL355  1   6
+                 7
+    APCL356  1   8
+                 8
+    APCL357  1   6
+                 7
+    APCL358  1   7
+                 8
+    APCL359  1   7
+                 8
+    APCL360  1   7
+                17
+    APCL361  1   6
+                11
+    APCL362  1   7
+                 8
+    APCL365  1  17
+                17
+    APCL366  1   7
+                17
+    APCL367  1   6
+                 7
+    APCL368  1   7
+                11
+    APCL369  1   8
+                 8
+    APCL370  1   7
+                 9
+    APCL371  1   4
+                 8
+    APCL372  1   7
+                 7
+    APCL373  1  11
+                11
+    APCL374  1   5
+                 8
+    APCL375  1  11
+                14
+    APCL376  1  10
+                17
+    APCL377  1   7
+                 7
+    APCL378  1   7
+                17
+    }
+
+    SampleName = "Baybay" 
+    SampleSize = 19
+    SampleData = {
+    APCL399  1   6
+                17
+    APCL400  1   7
+                17
+    APCL401  1   7
+                 7
+    APCL402  1   6
+                17
+    APCL403  1   ?
+                 ?
+    APCL404  1   8
+                17
+    APCL405  1  10
+                17
+    APCL406  1   5
+                 7
+    APCL407  1   8
+                17
+    APCL408  1   6
+                 6
+    APCL409  1   6
+                17
+    APCL410  1   6
+                 6
+    APCL411  1   4
+                 7
+    APCL412  1   ?
+                 ?
+    APCL413  1   7
+                 8
+    APCL414  1   7
+                11
+    APCL416  1   2
+                 7
+    APCL417  1   7
+                 8
+    APCL418  1   7
+                11
+    }
+
+    SampleName = "Albuera" 
+    SampleSize = 20
+    SampleData = {
+    APCL379  1   7
+                17
+    APCL380  1   8
+                17
+    APCL381  1   6
+                 8
+    APCL382  1   7
+                 9
+    APCL383  1  10
+                11
+    APCL384  1   7
+                17
+    APCL385  1   7
+                11
+    APCL386  1   7
+                 7
+    APCL387  1  17
+                17
+    APCL388  1   7
+                 7
+    APCL389  1   6
+                 7
+    APCL390  1   7
+                 8
+    APCL391  1   8
+                 8
+    APCL392  1   ?
+                 ?
+    APCL393  1   8
+                17
+    APCL394  1   7
+                 7
+    APCL395  1   5
+                 7
+    APCL396  1   7
+                 8
+    APCL397  1   6
+                 7
+    APCL398  1  10
+                11
+    }
+
+    SampleName = "Ormoc" 
+    SampleSize = 20
+    SampleData = {
+    APCL445  1   ?
+                 ?
+    APCL446  1   7
+                 8
+    APCL447  1   7
+                 7
+    APCL448  1   7
+                10
+    APCL449  1   7
+                17
+    APCL450  1   8
+                10
+    APCL451  1  11
+                17
+    APCL452  1   7
+                11
+    APCL453  1   6
+                10
+    APCL454  1   8
+                 8
+    APCL455  1   ?
+                 ?
+    APCL456  1   8
+                12
+    APCL457  1   7
+                 7
+    APCL458  1   6
+                 6
+    APCL459  1  17
+                17
+    APCL460  1  11
+                17
+    APCL461  1   6
+                11
+    APCL462  1   6
+                 7
+    APCL463  1   7
+                 7
+    APCL464  1   8
+                11
+    }
+
+    SampleName = "Palompon" 
+    SampleSize = 20
+    SampleData = {
+    APCL419  1   5
+                10
+    APCL420  1   7
+                11
+    APCL421  1  11
+                17
+    APCL422  1   7
+                 7
+    APCL423  1   2
+                11
+    APCL424  1   ?
+                 ?
+    APCL425  1   7
+                 8
+    APCL426  1   ?
+                 ?
+    APCL427  1   7
+                 8
+    APCL428  1   8
+                12
+    APCL429  1   7
+                11
+    APCL430  1   7
+                10
+    APCL431  1   7
+                10
+    APCL432  1   5
+                11
+    APCL433  1   7
+                 7
+    APCL434  1  10
+                10
+    APCL435  1  13
+                17
+    APCL436  1   6
+                 7
+    APCL437  1   7
+                11
+    APCL438  1   ?
+                 ?
+    }
+
+[[Structure]]
+    StructureName = "One Group"
+    NbGroups = 1
+    IndividualLevel = 1
+    Group = {
+          "Handumon" 
+          "Santander" 
+          "Boljoon" 
+          "Argao" 
+          "Carcar" 
+          "Minglanilla" 
+          "Danao" 
+          "Sogod" 
+          "Tabogon" 
+          "Daanbantayan" 
+          "Malapascua" 
+          "Pintuyan" 
+          "Padre Burgos" 
+          "Maasin" 
+          "Inopacan" 
+          "Baybay" 
+          "Albuera" 
+          "Ormoc" 
+          "Palompon" 
+    }

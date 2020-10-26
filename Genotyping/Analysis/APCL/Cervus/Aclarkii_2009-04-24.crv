@@ -1,0 +1,167 @@
+[ProgramInfo]
+ProgramName=Cervus
+ProgramVersion=3.0
+FileVersion=3.0.3.0
+
+[Registration]
+UserName=
+UserCompany=
+Code=
+
+[FileInfo]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24.crv
+FileType=.crv
+CreationDate=5/28/2009 5:28:25 PM
+
+[GenotypeFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24-CERVUS-GENOTYPES.txt
+HeaderRow=1
+ReadLocusNames=1
+FirstAlleleColumnNumber=4
+NLoci=13
+IDColumnNumber=2
+SexColumn=0
+UnknownSexLabel=
+
+[AlleleFrequencySummaryFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_create_2009-04-24-CERVUS-allelefreq.txt
+DoHardyWeinberg=1
+HWMinExpectedFrequency=5
+UseYatesCorrection=1
+UseBonferroniCorrection=1
+DoNullAllele=1
+
+[AlleleFrequencyDataFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24-CERVUS-allelefreq.alf
+HeaderRow=1
+
+[SimulationParameters]
+AnalysisType=Parent pair (sexes unknown)
+NOffspring=10000
+NCandidateMales=0
+PropCandidateMalesSampled=0
+NCandidateFemales=1000
+PropCandidateFemalesSampled=0.5
+PropLociTyped=0.988748
+PropLociMistyped=0
+MinTypedLoci=6
+CriticalStatisticName=Delta
+TruncateAtZero=1
+RelaxedConfidence=80
+StrictConfidence=95
+SimulateInbreeding=0
+ParentRelatedness=0
+InbreedingRate=0
+AlwaysTestSelfing=0
+SimulateFemaleRelatives=0
+FemalePropRelatives=0
+FemaleRelatedTo=Offspring
+FemaleRelatedness=0
+SimulateMaleRelatives=0
+MalePropRelatives=0
+MaleRelatedTo=Offspring
+MaleRelatedness=0
+UseCorrectedLikelihoods=1
+UseMistypingRateAsLikelihoodErrorRate=1
+LikelihoodErrorRate=0
+
+[SimulationSummaryFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_create_2009-04-24-CERVUS-sim10kerr0prop0.5delta.txt
+
+[SimulationDataFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_create_2009-04-24-CERVUS-sim10kerr0prop0.5delta.sim
+
+[SimulationOutput]
+RepeatSimulation=0
+NRepeats=1
+ApplyPreviousSimulationData=0
+GenerateTables=1
+SaveRawStatisticScores=0
+GenerateHistograms=1
+NCategories=10
+MinStatistic=0
+MaxStatistic=10
+
+[PreviousSimulationDataFile]
+FileName=
+
+[ParentageParameters]
+AnalysisType=Parent pair (sexes unknown)
+UseSimulationParameters=1
+CalculateConfidenceLevels=1
+AlwaysTestSelfing=0
+MinTypedLoci=6
+UseCorrectedLikelihoods=1
+UseMistypingRateAsLikelihoodErrorRate=0
+LikelihoodErrorRate=0
+CriticalStatisticName=LOD
+TruncateAtZero=0
+
+[OffspringFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24-CERVUS-OFFSPRING.txt
+HeaderRow=1
+OffspringIDColumnNumber=1
+IncludesKnownParents=0
+KnownParentIDColumnNumber=0
+IncludesCandidateParents=0
+CandidateParentIDColumnNumber=0
+
+[CandidateFemaleFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24-CERVUS-PARENTS.txt
+HeaderRow=1
+CandidateParentFormat=One column for all offspring
+OffspringIDColumnNumber=0
+CandidateParentIDColumnNumber=1
+
+[CandidateMaleFile]
+FileName=
+HeaderRow=1
+CandidateParentFormat=One column for all offspring
+OffspringIDColumnNumber=0
+CandidateParentIDColumnNumber=1
+
+[ParentageSummaryFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24_par090520.txt
+
+[ParentageDataFile]
+FileName=C:\Documents and Settings\Lab\Desktop\Users\Malin\Philippines\2008 Surveys\Genotype Analysis\Cervus\Aclarkii_2009-04-24_par090520.csv
+OutputType=The most-likely parent
+SortedBy=Joint LOD score
+IncludeNonExclusionProbabilities=1
+
+[IdentityParameters]
+TestSexesSeparately=0
+MinMatchingLoci=1
+AllowFuzzyMatching=0
+MaxMismatchingLoci=0
+ShowAllComparisons=0
+
+[IdentitySummaryFile]
+FileName=
+
+[IdentityDataFile]
+FileName=
+
+[ConversionSourceFile]
+FileName=
+HeaderRow=0
+AlleleIDLength=2
+UseFirstIDAsPopulationName=0
+PopulationColumnNumber=0
+IDColumnNumber=0
+MumIDColumnNumber=0
+DadIDColumnNumber=0
+FirstAlleleColumnNumber=0
+NLoci=0
+ContainsAlleleFrequencyData=0
+
+[ConversionSourceAlleleFrequencyDataFile]
+FileName=
+HeaderRow=0
+
+[ConversionDestinationFile]
+FileName=
+WriteAlleleFrequencyData=0
+AlleleIDLength=2
+WritePopulationNames=0
+

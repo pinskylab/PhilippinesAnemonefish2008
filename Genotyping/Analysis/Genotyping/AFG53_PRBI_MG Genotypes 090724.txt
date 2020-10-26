@@ -1,0 +1,385 @@
+Sample File	Sample Name	Run Name	Panel	Marker	Dye	Allele 1	Allele 2	Size 1	Size 2	Height 1	Height 2	Peak Area 1	Peak Area 2	Data Point 1	Data Point 2	ADO	AE	OS	SHP	OBA	SPA	SP	BIN	PHR	LPH	SPU	AN	BD	XTLK	GQ	UD1	UD2	UD3	
+D12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+C10_PRBI10.fsa	PRBI10	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F12_PRBI109.fsa	PRBI109	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A06_PRBI113.fsa	PRBI113	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G10_PRBI115.fsa	PRBI115	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y	?		295.51		673		3600.0		4812		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0877				
+B01_PRBI116.fsa	PRBI116	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI117.fsa	PRBI117	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI12.fsa	PRBI12	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E02_PRBI123.fsa	PRBI123	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A07_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E03_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C05_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F07_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E06_PRBI148.fsa	PRBI148	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G05_PRBI149.fsa	PRBI149	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_PRBI151.fsa	PRBI151	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F11_PRBI152.fsa	PRBI152	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B04_PRBI153.fsa	PRBI153	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B11_PRBI156.fsa	PRBI156	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E05_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B07_PRBI158.fsa	PRBI158	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D07_PRBI161.fsa	PRBI161	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A02_PRBI164.fsa	PRBI164	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G04_PRBI17.fsa	PRBI17	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B08_PRBI170.fsa	PRBI170	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H05_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E09_PRBI179.fsa	PRBI179	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E07_PRBI183.fsa	PRBI183	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C09_PRBI184.fsa	PRBI184	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F03_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G06_PRBI2.fsa	PRBI2	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D02_PRBI20.fsa	PRBI20	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A03_PRBI209.fsa	PRBI209	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C04_PRBI210.fsa	PRBI210	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A11_PRBI213.fsa	PRBI213	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI215.fsa	PRBI215	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G03_PRBI216.fsa	PRBI216	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D03_PRBI22.fsa	PRBI22	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F08_PRBI226.fsa	PRBI226	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A04_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E01_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E12_PRBI229.fsa	PRBI229	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A10_PRBI230.fsa	PRBI230	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C06_PRBI231.fsa	PRBI231	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F05_PRBI232.fsa	PRBI232	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI233.fsa	PRBI233	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B05_PRBI234.fsa	PRBI234	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C01_PRBI235.fsa	PRBI235	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_PRBI239.fsa	PRBI239	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G12_PRBI24.fsa	PRBI24	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D08_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A08_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E04_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G07_PRBI29.fsa	PRBI29	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C11_PRBI3.fsa	PRBI3	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI324.fsa	PRBI324	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H01_PRBI325.fsa	PRBI325	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_PRBI327.fsa	PRBI327	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI329.fsa	PRBI329	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D06_PRBI33.fsa	PRBI33	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G01_PRBI331.fsa	PRBI331	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_PRBI334.fsa	PRBI334	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B12_PRBI335.fsa	PRBI335	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F04_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI337.fsa	PRBI337	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E11_PRBI339.fsa	PRBI339	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H06_PRBI363.fsa	PRBI363	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G08_PRBI37.fsa	PRBI37	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G09_PRBI4.fsa	PRBI4	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C12_PRBI40.fsa	PRBI40	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D04_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G11_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H03_PRBI45.fsa	PRBI45	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_PRBI466.fsa	PRBI466	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D05_PRBI73.fsa	PRBI73	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D09_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H04_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B09_PRBI81.fsa	PRBI81	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F09_PRBI82.fsa	PRBI82	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A12_PRBI83.fsa	PRBI83	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI87.fsa	PRBI87	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C08_PRBI99.fsa	PRBI99	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D11_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A11	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+C10_PRBI10.fsa	PRBI10	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F12_PRBI109.fsa	PRBI109	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A06_PRBI113.fsa	PRBI113	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G10_PRBI115.fsa	PRBI115	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B01_PRBI116.fsa	PRBI116	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI117.fsa	PRBI117	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI12.fsa	PRBI12	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E02_PRBI123.fsa	PRBI123	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A07_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E03_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C05_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F07_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E06_PRBI148.fsa	PRBI148	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G05_PRBI149.fsa	PRBI149	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F02_PRBI151.fsa	PRBI151	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F11_PRBI152.fsa	PRBI152	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B04_PRBI153.fsa	PRBI153	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B11_PRBI156.fsa	PRBI156	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E05_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B07_PRBI158.fsa	PRBI158	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D07_PRBI161.fsa	PRBI161	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_PRBI164.fsa	PRBI164	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G04_PRBI17.fsa	PRBI17	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B08_PRBI170.fsa	PRBI170	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H05_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E09_PRBI179.fsa	PRBI179	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E07_PRBI183.fsa	PRBI183	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C09_PRBI184.fsa	PRBI184	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F03_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G06_PRBI2.fsa	PRBI2	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D02_PRBI20.fsa	PRBI20	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A03_PRBI209.fsa	PRBI209	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C04_PRBI210.fsa	PRBI210	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A11_PRBI213.fsa	PRBI213	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI215.fsa	PRBI215	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G03_PRBI216.fsa	PRBI216	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D03_PRBI22.fsa	PRBI22	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F08_PRBI226.fsa	PRBI226	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A04_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E01_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E12_PRBI229.fsa	PRBI229	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A10_PRBI230.fsa	PRBI230	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C06_PRBI231.fsa	PRBI231	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F05_PRBI232.fsa	PRBI232	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E08_PRBI233.fsa	PRBI233	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B05_PRBI234.fsa	PRBI234	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C01_PRBI235.fsa	PRBI235	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_PRBI239.fsa	PRBI239	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G12_PRBI24.fsa	PRBI24	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D08_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A08_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E04_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G07_PRBI29.fsa	PRBI29	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C11_PRBI3.fsa	PRBI3	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI324.fsa	PRBI324	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H01_PRBI325.fsa	PRBI325	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_PRBI327.fsa	PRBI327	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI329.fsa	PRBI329	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D06_PRBI33.fsa	PRBI33	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R	185		185.52		875		10795.0		3315		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.487				
+C07_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G01_PRBI331.fsa	PRBI331	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B03_PRBI334.fsa	PRBI334	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B12_PRBI335.fsa	PRBI335	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F04_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI337.fsa	PRBI337	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E11_PRBI339.fsa	PRBI339	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H06_PRBI363.fsa	PRBI363	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G08_PRBI37.fsa	PRBI37	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G09_PRBI4.fsa	PRBI4	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C12_PRBI40.fsa	PRBI40	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D04_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G11_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H03_PRBI45.fsa	PRBI45	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_PRBI466.fsa	PRBI466	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D05_PRBI73.fsa	PRBI73	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D09_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H04_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B09_PRBI81.fsa	PRBI81	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F09_PRBI82.fsa	PRBI82	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A12_PRBI83.fsa	PRBI83	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI87.fsa	PRBI87	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C08_PRBI99.fsa	PRBI99	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D11_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_A4	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+C10_PRBI10.fsa	PRBI10	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.3		32366		221440.0		3300		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F12_PRBI109.fsa	PRBI109	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A06_PRBI113.fsa	PRBI113	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G10_PRBI115.fsa	PRBI115	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B01_PRBI116.fsa	PRBI116	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.47		28322		165234.0		3367		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E10_PRBI117.fsa	PRBI117	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI12.fsa	PRBI12	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.47		16875		100410.0		3372		false	false	0.0	0.0	0.0	1.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+E02_PRBI123.fsa	PRBI123	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A07_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.38		30997		180907.0		3320		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E03_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C05_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167		166.66		32389		240740.0		3096		false	false	1.0	0.0	0.0	1.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1561				
+F07_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E06_PRBI148.fsa	PRBI148	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G05_PRBI149.fsa	PRBI149	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F02_PRBI151.fsa	PRBI151	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F11_PRBI152.fsa	PRBI152	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B11_PRBI156.fsa	PRBI156	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.23		32464		279503.0		3344		false	false	1.0	0.0	0.0	1.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0781				
+E05_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D07_PRBI161.fsa	PRBI161	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.03		31883		302446.0		3281		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_PRBI164.fsa	PRBI164	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G04_PRBI17.fsa	PRBI17	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B08_PRBI170.fsa	PRBI170	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H05_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E09_PRBI179.fsa	PRBI179	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E07_PRBI183.fsa	PRBI183	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F03_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G06_PRBI2.fsa	PRBI2	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G03_PRBI216.fsa	PRBI216	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F08_PRBI226.fsa	PRBI226	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E01_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E12_PRBI229.fsa	PRBI229	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F05_PRBI232.fsa	PRBI232	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI233.fsa	PRBI233	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G12_PRBI24.fsa	PRBI24	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A08_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	202		202.1		29168		174741.0		3551		false	false	0.0	0.0	0.0	1.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+E04_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G07_PRBI29.fsa	PRBI29	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI324.fsa	PRBI324	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H01_PRBI325.fsa	PRBI325	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_PRBI327.fsa	PRBI327	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI329.fsa	PRBI329	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G01_PRBI331.fsa	PRBI331	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.33		16993		98509.0		3308		false	false	0.0	0.0	0.0	1.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.487				
+F04_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI337.fsa	PRBI337	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E11_PRBI339.fsa	PRBI339	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H06_PRBI363.fsa	PRBI363	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G08_PRBI37.fsa	PRBI37	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G09_PRBI4.fsa	PRBI4	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C12_PRBI40.fsa	PRBI40	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182		182.39		21923		130823.0		3336		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G11_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H03_PRBI45.fsa	PRBI45	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H04_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F09_PRBI82.fsa	PRBI82	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D11_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	171	182	170.32	182.3	30855	31139	292818.0	178009.0	3167	3316	false	false	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0867				
+C09_PRBI184.fsa	PRBI184	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	179	182	178.36	182.38	32306	7279	214050.0	42769.0	3263	3313	false	false	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0781				
+B05_PRBI234.fsa	PRBI234	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	171	182	170.63	182.34	32493	3008	217369.0	17052.0	3181	3327	false	false	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0781				
+D04_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	182	166.63	182.34	31269	26576	275920.0	149610.0	3122	3317	false	false	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.3855				
+A01_PRBI466.fsa	PRBI466	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	182	166.89	182.43	1542	961	10205.0	6736.0	3166	3361	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+D06_PRBI33.fsa	PRBI33	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	186	182.2	186.17	31372	32104	237714.0	206438.0	3274	3323	false	false	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1735				
+C08_PRBI99.fsa	PRBI99	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	186	182.32	186.29	14435	12512	89784.0	72424.0	3279	3328	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+C04_PRBI210.fsa	PRBI210	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	190	166.65	190.17	32274	19154	250633.0	110540.0	3105	3396	false	false	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1735				
+A10_PRBI230.fsa	PRBI230	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	190	182.43	190.2	13383	33099	86671.0	207123.0	3338	3436	false	false	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0781				
+A05_PRBI239.fsa	PRBI239	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	190	182.45	190.29	27530	32353	161587.0	195463.0	3352	3450	false	false	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1561				
+D08_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	190	182.23	190.03	31182	31671	183966.0	225664.0	3272	3368	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C07_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	190	182.4	190.21	10686	31316	61655.0	186322.0	3299	3396	false	false	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.1735				
+D09_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	190	166.56	190.16	31821	31232	322556.0	201826.0	3120	3413	false	false	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0781				
+C02_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	171	194	170.82	194.14	28821	14439	179799.0	84475.0	3209	3502	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+A04_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	194	182.3	194.11	22891	20810	131276.0	123177.0	3319	3467	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C06_PRBI231.fsa	PRBI231	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	194	182.32	194.12	9471	23853	52604.0	140352.0	3275	3421	false	false	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.1735				
+C11_PRBI3.fsa	PRBI3	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	179	194	178.49	194.22	6770	4901	40231.0	30745.0	3306	3504	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.3123				
+D05_PRBI73.fsa	PRBI73	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	194	182.44	194.21	3730	4115	21243.0	24201.0	3292	3438	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.3123				
+A12_PRBI83.fsa	PRBI83	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	194	166.82	194.21	32150	20781	278494.0	124727.0	3191	3539	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B07_PRBI158.fsa	PRBI158	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	194	198	194.15	198.0	20557	16043	119659.0	95438.0	3447	3495	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+D02_PRBI20.fsa	PRBI20	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	198	182.36	198.03	18505	21363	107585.0	127431.0	3396	3594	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1405				
+A03_PRBI209.fsa	PRBI209	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	182	198	182.36	198.09	22433	18429	129026.0	107908.0	3334	3531	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+B06_PRBI215.fsa	PRBI215	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	190	198	190.22	198.08	14386	11720	85083.0	67856.0	3414	3512	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+D03_PRBI22.fsa	PRBI22	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	190	198	190.16	198.0	32174	32961	221588.0	194461.0	3419	3517	false	false	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.2192				
+B04_PRBI153.fsa	PRBI153	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	202	166.83	202.11	30977	8864	180101.0	52255.0	3101	3537	false	false	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.2435				
+A11_PRBI213.fsa	PRBI213	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	175	202	174.49	202.16	32328	28603	269082.0	175249.0	3291	3642	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B12_PRBI335.fsa	PRBI335	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	198	202	198.1	202.17	16346	13092	94843.0	77500.0	3544	3594	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+B10_PRBI87.fsa	PRBI87	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	190	202	190.27	202.17	16093	11439	94259.0	68125.0	3433	3581	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_PRBI334.fsa	PRBI334	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	186	206	186.27	206.23	13142	8411	75141.0	49363.0	3355	3600	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+B09_PRBI81.fsa	PRBI81	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	202	206	202.09	206.27	14327	11856	85511.0	69929.0	3584	3634	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+C01_PRBI235.fsa	PRBI235	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	ACH_B9	B	167	210	166.99	210.4	33134	10651	230806.0	64604.0	3167	3706	false	false	1.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0781				
+D12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_BLANK.fsa	BLANK	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+C10_PRBI10.fsa	PRBI10	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F12_PRBI109.fsa	PRBI109	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A06_PRBI113.fsa	PRBI113	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B01_PRBI116.fsa	PRBI116	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI117.fsa	PRBI117	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI12.fsa	PRBI12	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E02_PRBI123.fsa	PRBI123	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A07_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E03_PRBI137.fsa	PRBI137	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		293.87		30585		323859.0		4740		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.347				
+C05_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F07_PRBI138.fsa	PRBI138	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.18		1648		10507.0		4750		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F02_PRBI151.fsa	PRBI151	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F11_PRBI152.fsa	PRBI152	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B04_PRBI153.fsa	PRBI153	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B11_PRBI156.fsa	PRBI156	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E05_PRBI157.fsa	PRBI157	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.1		29845		213751.0		4733		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+B07_PRBI158.fsa	PRBI158	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D07_PRBI161.fsa	PRBI161	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A02_PRBI164.fsa	PRBI164	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B08_PRBI170.fsa	PRBI170	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H05_PRBI174.fsa	PRBI174	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.22		30266		249404.0		4819		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C09_PRBI184.fsa	PRBI184	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F03_PRBI186.fsa	PRBI186	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.17		3109		22318.0		4736		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G06_PRBI2.fsa	PRBI2	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D02_PRBI20.fsa	PRBI20	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A03_PRBI209.fsa	PRBI209	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C04_PRBI210.fsa	PRBI210	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A11_PRBI213.fsa	PRBI213	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI215.fsa	PRBI215	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D03_PRBI22.fsa	PRBI22	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F08_PRBI226.fsa	PRBI226	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.09		3671		25153.0		4735		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A04_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A10_PRBI230.fsa	PRBI230	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C06_PRBI231.fsa	PRBI231	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F05_PRBI232.fsa	PRBI232	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	296		296.05		1473		9087.0		4756		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.974				
+E08_PRBI233.fsa	PRBI233	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B05_PRBI234.fsa	PRBI234	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C01_PRBI235.fsa	PRBI235	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_PRBI239.fsa	PRBI239	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D08_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A08_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E04_PRBI261.fsa	PRBI261	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.01		31078		242783.0		4732		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.3855				
+G07_PRBI29.fsa	PRBI29	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.21		31260		235749.0		4749		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C11_PRBI3.fsa	PRBI3	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI324.fsa	PRBI324	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI329.fsa	PRBI329	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D06_PRBI33.fsa	PRBI33	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI330.fsa	PRBI330	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.28		3059		19922.0		4764		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G01_PRBI331.fsa	PRBI331	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	296		296.04		27518		196037.0		4857		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+B03_PRBI334.fsa	PRBI334	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B12_PRBI335.fsa	PRBI335	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F04_PRBI336.fsa	PRBI336	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI337.fsa	PRBI337	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H06_PRBI363.fsa	PRBI363	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.06		28962		311935.0		4795		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C12_PRBI40.fsa	PRBI40	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D04_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H03_PRBI45.fsa	PRBI45	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	296		296.04		29649		221611.0		4850		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_PRBI466.fsa	PRBI466	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D05_PRBI73.fsa	PRBI73	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D09_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H04_PRBI78.fsa	PRBI78	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B09_PRBI81.fsa	PRBI81	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F09_PRBI82.fsa	PRBI82	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294		294.21		4009		24800.0		4762		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A12_PRBI83.fsa	PRBI83	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI87.fsa	PRBI87	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C08_PRBI99.fsa	PRBI99	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D11_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_PRBINeg.fsa	PRBINeg	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G04_PRBI17.fsa	PRBI17	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	296	294.13	296.06	8074	4791	50203.0	27731.0	4758	4784	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G12_PRBI24.fsa	PRBI24	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	296	294.18	296.07	27435	23158	180927.0	133152.0	4825	4851	false	false	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+H02_PRBI25.fsa	PRBI25	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	296	294.21	296.16	26451	24960	190043.0	146507.0	4884	4911	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H01_PRBI325.fsa	PRBI325	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	296	294.22	296.17	29144	28409	197688.0	178569.0	4890	4917	false	false	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+G10_PRBI115.fsa	PRBI115	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	296	335	296.1	335.12	23392	3266	150937.0	20534.0	4820	5314	false	false	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+G05_PRBI149.fsa	PRBI149	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	335	294.12	335.16	29644	4327	191417.0	26076.0	4737	5253	false	false	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.2192				
+E09_PRBI179.fsa	PRBI179	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	335	294.24	335.05	27935	3292	175370.0	18714.0	4729	5241	false	false	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+G03_PRBI216.fsa	PRBI216	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	335	294.07	335.09	31253	6105	255652.0	37408.0	4764	5281	false	false	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.2192				
+G09_PRBI4.fsa	PRBI4	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	339	294.18	339.12	14012	1464	85936.0	8482.0	4794	5363	false	false	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+E01_PRBI228.fsa	PRBI228	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	341	294.04	341.08	30588	5954	269041.0	35979.0	4809	5405	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E07_PRBI183.fsa	PRBI183	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	350	294.15	350.38	15042	1384	101300.0	8392.0	4720	5425	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_PRBI327.fsa	PRBI327	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	354	294.06	354.13	31332	2754	269921.0	16741.0	4821	5592	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G08_PRBI37.fsa	PRBI37	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	354	294.2	354.21	30665	1845	219554.0	10774.0	4738	5497	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E11_PRBI339.fsa	PRBI339	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	335	356	335.19	356.01	5116	2065	31342.0	12650.0	5303	5574	false	false	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+G11_PRBI42.fsa	PRBI42	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	294	360	294.18	359.68	30988	2123	257013.0	12327.0	4833	5683	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E06_PRBI148.fsa	PRBI148	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	354	364	354.09	363.33	4716	3116	28897.0	18894.0	5466	5588	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E12_PRBI229.fsa	PRBI229	MPinsky_AFG53_071709_2009-07-17	NNG_028,ACH_A4,ACH_A11,ACH_B9	NNG_028	G	335	364	335.12	363.38	4644	1303	27255.0	8247.0	5299	5670	false	false	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.4383				

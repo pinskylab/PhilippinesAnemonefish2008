@@ -1,0 +1,58 @@
+                   Output from the program
+
+ Estimating Ne and m jointly, assuming an infinite source
+
+**************** Likelihood estimates ***************
+   PARAMETER      POINT_EST         +95%CI         -95%CI
+          Ne     7.6236E+02  >  1.0000E+04     5.1672E+01
+           m     7.8717E-02  >  1.0000E+00         0.0006
+
+Relative profile log-likelihood as a function of Ne
+              Ne          Log(L)
+           51.67         -2.0000
+           56.38         -1.7017
+           61.83         -1.4650
+           69.10         -1.2334
+           80.02         -0.9705
+           98.20         -0.6903
+          116.39         -0.4987
+          130.94         -0.3573
+          155.18         -0.1805
+          229.90         -0.0634
+          340.59         -0.0206
+          500.87         -0.0047
+          648.01         -0.0009
+          762.36          0.0000
+          964.39          0.0003
+         1446.58         -0.0009
+         2559.91         -0.0034
+         6270.64         -0.0062
+        10000.00         -0.0070
+
+Relative profile log-likelihood as a function of  m
+               m          Log(L)
+          0.0006         -2.0000
+          0.0022         -0.4448
+          0.0027         -0.2336
+          0.0042         -0.0330
+          0.0088         -0.0061
+          0.0184         -0.0040
+          0.0304         -0.0021
+          0.0450         -0.0005
+          0.0637          0.0003
+          0.0787          0.0000
+          0.1065         -0.0016
+          0.1557         -0.0078
+          0.2732         -0.0276
+          0.6489         -0.0809
+          1.0000         -0.1123
+
+**************** Moment     estimates ***************
+
+ NO valid MT estimate of Ne, MT_m=        0.77
+ Ne<0 indicates an infinitely large estimate of Ne
+
+
+
+ Program started:  Date(d/m/y)=03/07/2009,  Time(s/m/hr)=08/13/09
+ Program finished: Date(d/m/y)=03/07/2009,  Time(s/m/hr)=54/57/20

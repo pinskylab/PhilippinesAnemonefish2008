@@ -1,0 +1,188 @@
+***Simulating offspring with genotyped parents or parents generated from allele frequencies***
+
+FaMoz In Progress !
+
+ Number of loci: 13
+ Of which 0 cytoplasmic markers
+ Number of parents: 35 number of simulated offspring: 10000
+
+***** Simulating offpring with genotyped parents *****
+
+ Simulation error 0.000000
+ Lod calculation error 0.000000, Heterozygote deficit 0.000000
+
+ Simulation step
+ End of simulation step 
+
+ Calculation step
+ End of calculation step 
+
+ The two most likely parents are the right parents 19187 times over 2*10000 simulated offspring (95.94 %)
+
+ The most likely parent pair is the right parent pair in 9928 simulations (99.28 %)
+ Single parent scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.34 	1.03 	1.72 	2.41 	3.10 	3.79 	4.48 	5.17 	5.86 	6.55 	7.24 	7.93 	8.62 	9.31 	10.00 	10.69 	11.38 	12.07 	12.76 	13.44 	14.13 	14.82 	15.51 	16.20 	16.89 	17.58 	18.27 	18.96 	19.65 	20.34 
+	 355	 147	 349	 586	 922	 1192	 1453	 1776	 1810	 1882	 1800	 1543	 1377	 1160	 882	 725	 549	 474	 308	 254	 171	 105	 84	 40	 24	 11	 9	 7	 2	 3
+	0.02 	0.01 	0.02 	0.03 	0.05 	0.06 	0.07 	0.09 	0.09 	0.09 	0.09 	0.08 	0.07 	0.06 	0.04 	0.04 	0.03 	0.02 	0.02 	0.01 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.02	0.03	0.04	0.07	0.12	0.18	0.25	0.34	0.43	0.52	0.61	0.69	0.76	0.82	0.86	0.90	0.93	0.95	0.96	0.98	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Parent pair scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.73 	2.20 	3.67 	5.14 	6.61 	8.07 	9.54 	11.01 	12.48 	13.94 	15.41 	16.88 	18.35 	19.82 	21.28 	22.75 	24.22 	25.69 	27.15 	28.62 	30.09 	31.56 	33.03 	34.49 	35.96 	37.43 	38.90 	40.37 
+	 34	 0	 0	 0	 1	 35	 119	 291	 478	 824	 1087	 1245	 1309	 1206	 987	 791	 625	 396	 238	 156	 92	 37	 19	 10	 9	 5	 3	 3
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.01 	0.03 	0.05 	0.08 	0.11 	0.12 	0.13 	0.12 	0.10 	0.08 	0.06 	0.04 	0.02 	0.02 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.00	0.00	0.01	0.02	0.05	0.10	0.18	0.29	0.41	0.54	0.66	0.76	0.84	0.90	0.94	0.97	0.98	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Delta, true parents scores class names, class sizes, class frequencies and cumulated class frequencies 
+	-14.18 	-12.99 	-11.81 	-10.63 	-9.45 	-8.27 	-7.09 	-5.90 	-4.72 	-3.54 	-2.36 	-1.18 	0.00 	1.19 	2.37 	3.55 	4.73 	5.91 	7.09 	8.28 	9.46 	10.64 	11.82 	13.00 	14.18 	15.37 	16.55 	17.73 	18.91 	20.09 
+	 9	 18	 51	 105	 175	 320	 559	 726	 1031	 1416	 1736	 2061	 1045	 4	 38	 175	 600	 1202	 1712	 1743	 1578	 1112	 775	 489	 273	 147	 48	 25	 10	 4
+	0.00 	0.00 	0.00 	0.01 	0.01 	0.02 	0.03 	0.04 	0.05 	0.07 	0.09 	0.11 	0.05 	0.00 	0.00 	0.01 	0.03 	0.06 	0.09 	0.09 	0.08 	0.06 	0.04 	0.03 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.01	0.02	0.04	0.06	0.10	0.16	0.23	0.32	0.43	0.48	0.48	0.48	0.49	0.52	0.59	0.68	0.77	0.85	0.91	0.95	0.97	0.99	1.00	1.00	1.00	1.00	1.00
+
+ Delta, true parent pairs scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.51 	1.52 	2.53 	3.55 	4.56 	5.57 	6.58 	7.60 	8.61 	9.62 	10.64 	11.65 	12.66 	13.68 	14.69 	15.70 	16.71 	17.73 	18.74 	19.75 	20.77 	21.78 	22.79 	23.81 	24.82 	25.83 	26.85 	27.86 	28.87 	29.88 
+	 19986	 0	 0	 0	 0	 0	 0	 0	 0	 0	 1	 0	 0	 1	 0	 0	 0	 2	 0	 2	 2	 0	 0	 1	 0	 2	 1	 1	 0	 1
+	1.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+FaMoz In Progress !
+
+ Number of loci: 13
+ Of which 0 cytoplasmic markers
+ Number of parents: 35 number of simulated offspring: 10000
+
+***** Simulating offpring according to allele frequencies *****
+
+ Lod calculation error 0.000000, Heterozygote deficit 0.000000
+
+ Simulation step
+ End of simulation step 
+
+ Calculation step
+ End of calculation step 
+
+ Single parent scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.16 	0.49 	0.82 	1.15 	1.48 	1.81 	2.14 	2.47 	2.80 	3.13 	3.46 	3.78 	4.11 	4.44 	4.77 	5.10 	5.43 	5.76 	6.09 	6.42 	6.75 	7.08 	7.41 	7.73 	8.06 	8.39 	8.72 	9.05 	9.38 	9.71 
+	 17008	 166	 225	 258	 278	 294	 271	 259	 225	 195	 175	 152	 110	 96	 65	 67	 35	 36	 25	 12	 16	 7	 7	 4	 3	 3	 0	 2	 3	 3
+	0.85 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.85	0.86	0.87	0.88	0.90	0.91	0.93	0.94	0.95	0.96	0.97	0.98	0.98	0.99	0.99	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Parent pair scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.25 	0.74 	1.23 	1.72 	2.21 	2.70 	3.20 	3.69 	4.18 	4.67 	5.16 	5.65 	6.14 	6.64 	7.13 	7.62 	8.11 	8.60 	9.09 	9.59 	10.08 	10.57 	11.06 	11.55 	12.04 	12.54 	13.03 	13.52 
+	 9991	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 2	 1	 2	 0	 0	 0	 1	 1	 1	 0	 0	 1
+	1.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Delta, wrong parents scores class names, class sizes, class frequencies and cumulated class frequencies 
+	-8.12 	-7.55 	-6.98 	-6.41 	-5.84 	-5.27 	-4.69 	-4.12 	-3.55 	-2.98 	-2.41 	-1.84 	-1.27 	-0.70 	-0.12 	0.45 	1.02 	1.59 	2.16 	2.73 	3.30 	3.88 	4.45 	5.02 	5.59 	6.16 	6.73 	7.30 	7.87 	8.45 	9.02 	9.59 
+	 1	 0	 0	 1	 2	 3	 14	 9	 16	 36	 51	 71	 109	 149	 37026	 190	 296	 376	 399	 325	 290	 218	 156	 113	 59	 36	 23	 14	 5	 4	 2	 6
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.93 	0.00 	0.01 	0.01 	0.01 	0.01 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.01	0.01	0.01	0.94	0.94	0.95	0.96	0.97	0.98	0.98	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Delta, wrong parent pairs scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.22 	0.65 	1.08 	1.51 	1.94 	2.37 	2.80 	3.23 	3.66 	4.09 	4.52 	4.95 	5.38 	5.81 	6.24 	6.67 	7.10 	7.53 	7.96 	8.39 	8.82 	9.25 	9.68 	10.11 	10.54 	10.97 	11.40 	11.83 	12.26 	12.69 	13.12 	13.55 
+	 39991	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 2	 0	 3	 0	 0	 0	 0	 1	 0	 2	 0	 0	 0	 1
+	1.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+
+***Most likely parents and parent pair for each offspring ***
+
+FaMoz In Progress !
+
+ Number of loci: 13
+ Among them, number of cytoplasmic markers: 0
+ Number of parents: 35 offspring: 18
+
+ Lod calculation error: 0.000000, Heterozygote deficit: 0.000000
+ Number of best parent / pair displayed: 4
+
+ For each likely parent: 
+
+ -Parent name -Parent lod-score -Parent delta score
+ -Nb of missing allele in parent / nb of nuclear loci with a > 0 contribution in score 
+   / nb of parent-offspring mismatch among them
+
+ For each likely parent pair:
+
+ -Names of parents -Parent pair score -Parent pair delta score
+ -Nb of nuclear loci with a > 0 contribution in score / nb of pair-offspring mismatch among them
+
+ kid 1 : (1 missing data on 26 alleles)
+ 2 likely parent(s)
+ 1 	 2 	 2.25 	 2.25 	0/10/0 
+ 1 	 35 	 2.22 	 0.03 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 2 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 3 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 4 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 5 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 5 	 29 	 1.19 	 1.19 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 6 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 7 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 8 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 8 	 2 	 5.20 	 5.20 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 9 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 10 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 11 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 12 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 12 	 6 	 5.36 	 5.36 	0/11/0 
+ 12 	 5 	 3.63 	 1.73 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 13 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 14 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 15 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 16 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 17 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 18 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 18 	 24 	 1.61 	 1.61 	0/8/0 
+ 0 likely parent pair(s)
+ 

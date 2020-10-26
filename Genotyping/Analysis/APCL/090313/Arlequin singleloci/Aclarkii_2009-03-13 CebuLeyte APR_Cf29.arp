@@ -1,0 +1,852 @@
+[Profile]
+     Title="Aclarkii CebuLeyte APR_Cf29"
+     NbSamples=18
+     GenotypicData=1
+     GameticPhase=0
+     RecessiveData=0
+     DataType=STANDARD
+     LocusSeparator=WHITESPACE
+     MissingData='?'
+     CompDistMatrix=1
+[Data]
+  [[Samples]]   #Data for 1Loci: APR_Cf29 
+     SampleName="7"
+     SampleSize=20
+     SampleData=     {
+       APCL49     1  209
+                     231
+       APCL50     1  211
+                     217
+       APCL52     1  211
+                     211
+       APCL53     1  211
+                     231
+       APCL54     1  211
+                     249
+       APCL55     1  213
+                     249
+       APCL56     1  211
+                     213
+       APCL57     1  211
+                     213
+       APCL58     1  211
+                     211
+       APCL59     1  211
+                     215
+       APCL60     1  211
+                     213
+       APCL61     1  217
+                     231
+       APCL62     1  211
+                     219
+       APCL63     1  ?
+                     ?
+       APCL64     1  213
+                     219
+       APCL65     1  209
+                     249
+       APCL67     1  211
+                     211
+       APCL68     1  211
+                     249
+       APCL69     1  211
+                     219
+       APCL70     1  211
+                     249
+     }
+     SampleName="8"
+     SampleSize=20
+     SampleData=     {
+       APCL124    1  211
+                     211
+       APCL125    1  211
+                     249
+       APCL126    1  217
+                     249
+       APCL127    1  211
+                     231
+       APCL128    1  211
+                     231
+       APCL129    1  209
+                     251
+       APCL130    1  211
+                     249
+       APCL131    1  213
+                     219
+       APCL132    1  231
+                     249
+       APCL133    1  211
+                     249
+       APCL134    1  209
+                     211
+       APCL135    1  211
+                     219
+       APCL136    1  211
+                     219
+       APCL139    1  211
+                     219
+       APCL140    1  213
+                     217
+       APCL141    1  217
+                     231
+       APCL142    1  211
+                     219
+       APCL143    1  209
+                     209
+       APCL144    1  211
+                     211
+       APCL145    1  211
+                     211
+     }
+     SampleName="9"
+     SampleSize=20
+     SampleData=     {
+       APCL100    1  207
+                     231
+       APCL101    1  213
+                     231
+       APCL102    1  211
+                     211
+       APCL103    1  211
+                     211
+       APCL104    1  213
+                     217
+       APCL105    1  211
+                     231
+       APCL106    1  211
+                     211
+       APCL107    1  221
+                     231
+       APCL108    1  213
+                     231
+       APCL111    1  217
+                     219
+       APCL88     1  215
+                     231
+       APCL89     1  211
+                     223
+       APCL90     1  209
+                     217
+       APCL91     1  219
+                     219
+       APCL92     1  211
+                     225
+       APCL93     1  211
+                     215
+       APCL94     1  213
+                     219
+       APCL95     1  211
+                     213
+       APCL96     1  211
+                     215
+       APCL97     1  211
+                     231
+     }
+     SampleName="10"
+     SampleSize=20
+     SampleData=     {
+       APCL199    1  209
+                     231
+       APCL200    1  211
+                     211
+       APCL201    1  211
+                     217
+       APCL202    1  207
+                     221
+       APCL203    1  211
+                     219
+       APCL204    1  211
+                     217
+       APCL205    1  211
+                     219
+       APCL206    1  213
+                     231
+       APCL207    1  209
+                     213
+       APCL208    1  209
+                     211
+       APCL212    1  211
+                     213
+       APCL217    1  211
+                     211
+       APCL218    1  211
+                     215
+       APCL219    1  219
+                     247
+       APCL220    1  211
+                     213
+       APCL221    1  211
+                     249
+       APCL222    1  211
+                     231
+       APCL223    1  231
+                     231
+       APCL224    1  201
+                     211
+       APCL225    1  211
+                     215
+     }
+     SampleName="11"
+     SampleSize=20
+     SampleData=     {
+       APCL162    1  ?
+                     ?
+       APCL163    1  207
+                     213
+       APCL165    1  217
+                     231
+       APCL166    1  211
+                     217
+       APCL171    1  211
+                     219
+       APCL172    1  215
+                     219
+       APCL173    1  211
+                     211
+       APCL176    1  211
+                     211
+       APCL177    1  211
+                     249
+       APCL182    1  211
+                     231
+       APCL187    1  211
+                     219
+       APCL190    1  211
+                     217
+       APCL191    1  207
+                     211
+       APCL192    1  209
+                     219
+       APCL193    1  211
+                     231
+       APCL194    1  211
+                     211
+       APCL195    1  211
+                     215
+       APCL196    1  209
+                     219
+       APCL197    1  211
+                     219
+       APCL198    1  211
+                     211
+     }
+     SampleName="13"
+     SampleSize=20
+     SampleData=     {
+       APCL240    1  211
+                     213
+       APCL241    1  211
+                     211
+       APCL242    1  213
+                     231
+       APCL243    1  211
+                     231
+       APCL244    1  231
+                     249
+       APCL245    1  211
+                     211
+       APCL246    1  207
+                     209
+       APCL247    1  211
+                     231
+       APCL248    1  217
+                     231
+       APCL249    1  211
+                     213
+       APCL250    1  ?
+                     ?
+       APCL251    1  211
+                     213
+       APCL252    1  213
+                     221
+       APCL253    1  213
+                     217
+       APCL254    1  211
+                     231
+       APCL255    1  213
+                     219
+       APCL256    1  211
+                     249
+       APCL257    1  213
+                     215
+       APCL258    1  209
+                     211
+       APCL259    1  213
+                     247
+     }
+     SampleName="14"
+     SampleSize=21
+     SampleData=     {
+       APCL467    1  221
+                     231
+       APCL468    1  211
+                     217
+       APCL469    1  217
+                     231
+       APCL470    1  213
+                     215
+       APCL471    1  215
+                     217
+       APCL472    1  211
+                     231
+       APCL473    1  211
+                     213
+       APCL474    1  209
+                     211
+       APCL475    1  211
+                     249
+       APCL476    1  211
+                     215
+       APCL477    1  213
+                     215
+       APCL478    1  205
+                     215
+       APCL479    1  211
+                     219
+       APCL480    1  209
+                     211
+       APCL481    1  211
+                     249
+       APCL482    1  211
+                     247
+       APCL483    1  209
+                     217
+       APCL484    1  213
+                     217
+       APCL485    1  211
+                     231
+       APCL486    1  211
+                     211
+       APCL487    1  209
+                     249
+     }
+     SampleName="15"
+     SampleSize=21
+     SampleData=     {
+       APCL488    1  211
+                     217
+       APCL489    1  211
+                     249
+       APCL490    1  211
+                     217
+       APCL491    1  211
+                     217
+       APCL492    1  211
+                     219
+       APCL493    1  209
+                     213
+       APCL494    1  209
+                     221
+       APCL495    1  207
+                     213
+       APCL496    1  209
+                     211
+       APCL497    1  219
+                     221
+       APCL498    1  ?
+                     ?
+       APCL499    1  211
+                     231
+       APCL500    1  211
+                     213
+       APCL501    1  211
+                     231
+       APCL502    1  209
+                     219
+       APCL503    1  211
+                     211
+       APCL504    1  217
+                     231
+       APCL506    1  209
+                     231
+       APCL507    1  ?
+                     ?
+       APCL508    1  209
+                     221
+       APCL509    1  211
+                     213
+     }
+     SampleName="16"
+     SampleSize=20
+     SampleData=     {
+       APCL532    1  211
+                     211
+       APCL533    1  211
+                     219
+       APCL534    1  211
+                     213
+       APCL535    1  207
+                     213
+       APCL536    1  211
+                     217
+       APCL537    1  211
+                     215
+       APCL538    1  209
+                     217
+       APCL539    1  217
+                     219
+       APCL540    1  211
+                     219
+       APCL541    1  209
+                     211
+       APCL542    1  209
+                     209
+       APCL543    1  211
+                     231
+       APCL544    1  209
+                     219
+       APCL545    1  209
+                     211
+       APCL546    1  219
+                     231
+       APCL547    1  211
+                     211
+       APCL549    1  211
+                     217
+       APCL550    1  209
+                     215
+       APCL551    1  207
+                     213
+       APCL552    1  211
+                     211
+     }
+     SampleName="17"
+     SampleSize=20
+     SampleData=     {
+       APCL511    1  211
+                     231
+       APCL512    1  213
+                     231
+       APCL513    1  211
+                     231
+       APCL514    1  213
+                     219
+       APCL515    1  207
+                     223
+       APCL516    1  219
+                     231
+       APCL517    1  207
+                     231
+       APCL518    1  231
+                     231
+       APCL519    1  209
+                     215
+       APCL520    1  217
+                     219
+       APCL521    1  209
+                     249
+       APCL522    1  209
+                     211
+       APCL523    1  211
+                     211
+       APCL524    1  213
+                     231
+       APCL525    1  209
+                     213
+       APCL526    1  205
+                     231
+       APCL527    1  201
+                     231
+       APCL528    1  211
+                     211
+       APCL529    1  211
+                     231
+       APCL531    1  211
+                     249
+     }
+     SampleName="18"
+     SampleSize=17
+     SampleData=     {
+       APCL306    1  211
+                     213
+       APCL307    1  219
+                     231
+       APCL308    1  211
+                     213
+       APCL309    1  213
+                     219
+       APCL310    1  211
+                     219
+       APCL311    1  213
+                     219
+       APCL312    1  211
+                     219
+       APCL313    1  213
+                     231
+       APCL314    1  211
+                     211
+       APCL315    1  209
+                     213
+       APCL316    1  213
+                     213
+       APCL317    1  213
+                     217
+       APCL318    1  211
+                     249
+       APCL319    1  219
+                     231
+       APCL320    1  199
+                     211
+       APCL321    1  209
+                     213
+       APCL322    1  211
+                     217
+     }
+     SampleName="19"
+     SampleSize=20
+     SampleData=     {
+       APCL286    1  199
+                     219
+       APCL287    1  219
+                     231
+       APCL288    1  211
+                     213
+       APCL289    1  207
+                     213
+       APCL290    1  219
+                     251
+       APCL291    1  209
+                     211
+       APCL292    1  211
+                     231
+       APCL293    1  211
+                     215
+       APCL294    1  213
+                     231
+       APCL295    1  211
+                     213
+       APCL296    1  211
+                     217
+       APCL297    1  213
+                     231
+       APCL298    1  211
+                     231
+       APCL299    1  211
+                     253
+       APCL300    1  209
+                     211
+       APCL301    1  213
+                     231
+       APCL302    1  211
+                     231
+       APCL303    1  211
+                     219
+       APCL304    1  221
+                     231
+       APCL305    1  207
+                     249
+     }
+     SampleName="20"
+     SampleSize=19
+     SampleData=     {
+       APCL264    1  211
+                     211
+       APCL265    1  213
+                     219
+       APCL266    1  211
+                     213
+       APCL267    1  211
+                     211
+       APCL268    1  209
+                     213
+       APCL269    1  213
+                     249
+       APCL270    1  211
+                     231
+       APCL271    1  205
+                     211
+       APCL272    1  213
+                     217
+       APCL273    1  211
+                     217
+       APCL274    1  211
+                     223
+       APCL275    1  211
+                     211
+       APCL279    1  211
+                     213
+       APCL280    1  209
+                     213
+       APCL281    1  209
+                     213
+       APCL282    1  211
+                     231
+       APCL283    1  213
+                     231
+       APCL284    1  211
+                     213
+       APCL285    1  199
+                     219
+     }
+     SampleName="22"
+     SampleSize=34
+     SampleData=     {
+       APCL343    1  209
+                     211
+       APCL344    1  211
+                     219
+       APCL345    1  ?
+                     ?
+       APCL346    1  211
+                     211
+       APCL347    1  217
+                     231
+       APCL348    1  209
+                     231
+       APCL349    1  209
+                     213
+       APCL350    1  211
+                     213
+       APCL351    1  ?
+                     ?
+       APCL352    1  211
+                     211
+       APCL353    1  211
+                     213
+       APCL354    1  211
+                     249
+       APCL355    1  209
+                     211
+       APCL356    1  213
+                     213
+       APCL357    1  209
+                     211
+       APCL358    1  211
+                     213
+       APCL359    1  211
+                     213
+       APCL360    1  211
+                     231
+       APCL361    1  209
+                     219
+       APCL362    1  ?
+                     ?
+       APCL365    1  231
+                     231
+       APCL366    1  211
+                     231
+       APCL367    1  209
+                     211
+       APCL368    1  211
+                     219
+       APCL369    1  213
+                     249
+       APCL370    1  211
+                     215
+       APCL371    1  205
+                     213
+       APCL372    1  211
+                     211
+       APCL373    1  219
+                     219
+       APCL374    1  207
+                     213
+       APCL375    1  219
+                     225
+       APCL376    1  217
+                     231
+       APCL377    1  211
+                     249
+       APCL378    1  211
+                     231
+     }
+     SampleName="23"
+     SampleSize=19
+     SampleData=     {
+       APCL399    1  209
+                     231
+       APCL400    1  211
+                     231
+       APCL401    1  211
+                     211
+       APCL402    1  209
+                     231
+       APCL403    1  211
+                     215
+       APCL404    1  213
+                     231
+       APCL405    1  217
+                     231
+       APCL406    1  207
+                     211
+       APCL407    1  213
+                     231
+       APCL408    1  209
+                     209
+       APCL409    1  209
+                     231
+       APCL410    1  209
+                     247
+       APCL411    1  205
+                     211
+       APCL412    1  ?
+                     ?
+       APCL413    1  211
+                     213
+       APCL414    1  211
+                     219
+       APCL416    1  201
+                     211
+       APCL417    1  211
+                     213
+       APCL418    1  211
+                     219
+     }
+     SampleName="24"
+     SampleSize=20
+     SampleData=     {
+       APCL379    1  211
+                     231
+       APCL380    1  213
+                     231
+       APCL381    1  209
+                     213
+       APCL382    1  211
+                     215
+       APCL383    1  ?
+                     ?
+       APCL384    1  211
+                     231
+       APCL385    1  211
+                     219
+       APCL386    1  211
+                     211
+       APCL387    1  231
+                     231
+       APCL388    1  211
+                     249
+       APCL389    1  209
+                     211
+       APCL390    1  211
+                     213
+       APCL391    1  213
+                     213
+       APCL392    1  211
+                     231
+       APCL393    1  213
+                     231
+       APCL394    1  211
+                     211
+       APCL395    1  207
+                     211
+       APCL396    1  211
+                     213
+       APCL397    1  209
+                     211
+       APCL398    1  217
+                     219
+     }
+     SampleName="25"
+     SampleSize=20
+     SampleData=     {
+       APCL445    1  209
+                     211
+       APCL446    1  211
+                     213
+       APCL447    1  211
+                     211
+       APCL448    1  211
+                     217
+       APCL449    1  211
+                     231
+       APCL450    1  213
+                     217
+       APCL451    1  219
+                     231
+       APCL452    1  211
+                     219
+       APCL453    1  209
+                     217
+       APCL454    1  213
+                     247
+       APCL455    1  ?
+                     ?
+       APCL456    1  213
+                     221
+       APCL457    1  211
+                     211
+       APCL458    1  209
+                     209
+       APCL459    1  231
+                     231
+       APCL460    1  219
+                     231
+       APCL461    1  209
+                     219
+       APCL462    1  209
+                     211
+       APCL463    1  211
+                     249
+       APCL464    1  213
+                     219
+     }
+     SampleName="27"
+     SampleSize=20
+     SampleData=     {
+       APCL419    1  207
+                     217
+       APCL420    1  211
+                     219
+       APCL421    1  219
+                     231
+       APCL422    1  211
+                     247
+       APCL423    1  201
+                     219
+       APCL424    1  209
+                     211
+       APCL425    1  211
+                     213
+       APCL426    1  209
+                     213
+       APCL427    1  211
+                     213
+       APCL428    1  213
+                     221
+       APCL429    1  211
+                     219
+       APCL430    1  211
+                     217
+       APCL431    1  211
+                     217
+       APCL432    1  207
+                     219
+       APCL433    1  211
+                     211
+       APCL434    1  217
+                     217
+       APCL435    1  223
+                     231
+       APCL436    1  209
+                     211
+       APCL437    1  211
+                     219
+       APCL438    1  ?
+                     ?
+     }
+[[Structure]]
+     StructureName="Aclarkii CebuLeyte APR_Cf29 Structure"
+     NbGroups=2
+     IndividualLevel=0
+     Group=Cebu {
+                 "7"
+                 "8"
+                 "9"
+                 "10"
+                 "11"
+                 "13"
+                 "14"
+                 "15"
+                 "16"
+                 "17"
+     }
+     Group=Leyte {
+                 "18"
+                 "19"
+                 "20"
+                 "22"
+                 "23"
+                 "24"
+                 "25"
+                 "27"
+     }

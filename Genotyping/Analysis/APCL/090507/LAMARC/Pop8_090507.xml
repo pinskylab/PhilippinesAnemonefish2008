@@ -1,0 +1,2140 @@
+<?xml version="1.0" ?>
+<lamarc version="2.1.3">
+    <format>
+        <convert-output-to-eliminate-zero>true</convert-output-to-eliminate-zero>
+    </format>
+    <data>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000000">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  12  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  12  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000001">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000002">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  ?  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  ?  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000003">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  19  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000004">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000005">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  12  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  16  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  16  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  12  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  12  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  13  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  15  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000006">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  26  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  26  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  26  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  27  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  10  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  26  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  17  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  26  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  7  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000007">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000008">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  11  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  9  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000009">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  ?  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  ?  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  8  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  ?  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  ?  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000010">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000011">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+        <region name="from Aclarkii_create_2009-05-07pop8.mig_00000012">
+            <population name="8">
+                <individual name="APCL126">
+                    <sample name="APCL126_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL126_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL135">
+                    <sample name="APCL135_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL135_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL131">
+                    <sample name="APCL131_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL131_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL130">
+                    <sample name="APCL130_0">
+                        <datablock type="Microsat">  1  </datablock>
+                    </sample>
+                    <sample name="APCL130_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL132">
+                    <sample name="APCL132_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL132_1">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL141">
+                    <sample name="APCL141_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL141_1">
+                        <datablock type="Microsat">  3  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL129">
+                    <sample name="APCL129_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL129_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL128">
+                    <sample name="APCL128_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL128_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL140">
+                    <sample name="APCL140_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL140_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL134">
+                    <sample name="APCL134_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL134_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL125">
+                    <sample name="APCL125_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL125_1">
+                        <datablock type="Microsat">  6  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL127">
+                    <sample name="APCL127_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL127_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL124">
+                    <sample name="APCL124_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL124_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL133">
+                    <sample name="APCL133_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL133_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL139">
+                    <sample name="APCL139_0">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                    <sample name="APCL139_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL136">
+                    <sample name="APCL136_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL136_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL145">
+                    <sample name="APCL145_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL145_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL143">
+                    <sample name="APCL143_0">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                    <sample name="APCL143_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL144">
+                    <sample name="APCL144_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL144_1">
+                        <datablock type="Microsat">  4  </datablock>
+                    </sample>
+                </individual>
+                <individual name="APCL142">
+                    <sample name="APCL142_0">
+                        <datablock type="Microsat">  2  </datablock>
+                    </sample>
+                    <sample name="APCL142_1">
+                        <datablock type="Microsat">  5  </datablock>
+                    </sample>
+                </individual>
+            </population>
+        </region>
+    </data>
+</lamarc>

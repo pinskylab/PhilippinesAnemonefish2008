@@ -1,0 +1,9 @@
+Useful popgen programs for dealing with microsatellite data:
+
+GeneMapper: for calling electropherograms
+CONVERT
+CREATE
+FSTAT for Fst calcs
+Formatomatic
+Genalex
+Genepop for basic stats

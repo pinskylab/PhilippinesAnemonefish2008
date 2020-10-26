@@ -1,0 +1,126 @@
+Cervus 3.0.3 - © Copyright Tristan Marshall 1998-2007
+Distributed by Field Genetics Ltd - www.fieldgenetics.com
+Licensed for non-commercial use only
+
+Simulation of parentage analysis completed on Thursday, May 21, 2009, at 06:57 pm
+
+
+**** Summary statistics ****
+
+Single parent:
+
+Delta is not meaningful for single parents in a parent pair analysis with unknown sexes
+
+Parent pair (sexes unknown):
+
+Level       Confidence (%)  Critical Delta  Assignments  Assignment Rate
+Strict       95.00            17.31            1360       14%
+Relaxed      80.00             9.00            2370       24%
+Unassigned                                     7630       76%
+Total                                         10000      100%
+
+
+**** Files  ****
+
+Input
+  Allele frequency file:          Aclarkii_2009-04-24-CERVUS-allelefreq.alf
+
+Output
+  Simulation summary file:        Aclarkii_create_2009-04-24-CERVUS-sim10kerr0prop0.5delta.txt
+  Simulation data file:           Aclarkii_create_2009-04-24-CERVUS-sim10kerr0prop0.5delta.sim
+  Histogram file:                 Aclarkii_create_2009-04-24-CERVUS-sim10kerr0prop0.5delta.csv
+
+
+**** Loci ****
+
+      1  A1_AC135
+      2  A1_AC157
+      3  A1_AC91
+      4  A1_ACH_B
+      5  A1_ACH_C
+      6  A1_ACH_D
+      7  A1_APR_Cf2
+      8  A1_APR_Cf
+      9  A1_APY_4
+     10  A1_APY_6
+     11  A1_NNG_00
+     12  A1_NNG_01
+     13  A1_NNG_02
+
+
+**** Simulation parameters ****
+
+Input
+  Number of offspring:                                    10000
+  Number of candidate parents:                             1000
+  Proportion of candidate parents sampled:                    0.5000000
+    Number of parent pairs:                              499500
+
+  Proportion of loci typed:                                   0.9887480
+  Proportion of loci mistyped:                                0.0000000
+  Error rate in likelihood calculations:                      0.0000000
+  Minimum number of typed loci:                               6
+
+Output
+  Confidence determined using:                            Delta
+  Relaxed confidence level:                                  80.00%
+  Strict confidence level:                                   95.00%
+
+
+**** Delta distributions ****
+
+Single parent:
+
+Delta is not meaningful for single parents in a parent pair analysis with unknown sexes
+
+Parent pair (sexes unknown):
+
+Identity of most likely candidate             N        Mean Delta  Standard Deviation
+True parent pair                                 2271   16.27        7.19
+Non-parent pair (true parent pair sampled)        132    1.03        0.66
+Non-parent pair (one true parent sampled)         693    9.07        6.85
+Non-parent pair (neither true parent sampled)     157    7.32        5.63
+None                                             6747
+Total                                           10000
+
+
+**** Breakdown of parentage assignments ****
+
+Single parent:
+
+Delta is not meaningful for single parents in a parent pair analysis with unknown sexes
+
+Parent pair (sexes unknown):
+
+Identity of most likely candidate             Confidence level                                None
+                                              Strict          Relaxed         Most likely
+True parent pair                                 1292 ( 95%)     1896 ( 80%)     2271 ( 70%)  
+Non-parent pair (true parent pair sampled)          0 (  0%)        0 (  0%)      132 (  4%)  
+Non-parent pair (one true parent sampled)          66 (  5%)      395 ( 17%)      693 ( 21%)  
+Non-parent pair (neither true parent sampled)       2 (  0%)       79 (  3%)      157 (  5%)  
+Total                                            1360            2370            3253            6747
+
+
+**** Table of confidence levels ****
+
+Single parent:
+
+Delta is not meaningful for single parents in a parent pair analysis with unknown sexes
+
+Parent pair (sexes unknown):
+
+Delta   .0     .1     .2     .3     .4     .5     .6     .7     .8     .9   
+   0  0.698  0.701  0.704  0.707  0.710  0.713  0.716  0.746  0.748  0.750  
+   1  0.752  0.754  0.755  0.758  0.771  0.771  0.772  0.773  0.774  0.774  
+   2  0.775  0.782  0.782  0.782  0.782  0.783  0.782  0.783  0.785  0.785  
+   3  0.786  0.787  0.787  0.787  0.787  0.787  0.787  0.788  0.788  0.788  
+   4  0.788  0.789  0.789  0.789  0.788  0.789  0.789  0.789  0.789  0.788  
+   5  0.788  0.789  0.789  0.789  0.789  0.789  0.789  0.789  0.790  0.790  
+   6  0.790  0.790  0.790  0.790  0.790  0.790  0.790  0.791  0.791  0.791  
+   7  0.791  0.791  0.792  0.792  0.792  0.792  0.792  0.792  0.794  0.794  
+   8  0.795  0.796  0.796  0.796  0.797  0.797  0.797  0.798  0.800  0.800  
+   9  0.800  0.800  0.801  0.802  0.803  0.803  0.803  0.804  0.805  0.806  
+  10  0.807                                                                 
+
+
+********************************************************************************

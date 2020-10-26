@@ -1,0 +1,60 @@
+Missing Data in file Aclarkii_2009-05-07 CebuLeyte_1pop.txt
+
+Population     Sample     Locus     Genotype     Comments
+       1          14         7        0000     Missing Data!                 
+       1          19         1        0000     Missing Data!                 
+       2           1        10        0000     Missing Data!                 
+       2          12        10        0000     Missing Data!                 
+       2          20         3        0000     Missing Data!                 
+       3           2         6        0000     Missing Data!                 
+       3           8        10        0000     Missing Data!                 
+       4          15        10        0000     Missing Data!                 
+       4          17         1        0000     Missing Data!                 
+       5           1         7        0000     Missing Data!                 
+       5           1        10        0000     Missing Data!                 
+       5          17         1        0000     Missing Data!                 
+       5          17        10        0000     Missing Data!                 
+       6           9        10        0000     Missing Data!                 
+       6          11         7        0000     Missing Data!                 
+       7           2         8        0000     Missing Data!                 
+       7           3        10        0000     Missing Data!                 
+       7           8        10        0000     Missing Data!                 
+       7          10         8        0000     Missing Data!                 
+       8           9         1        0000     Missing Data!                 
+       8          11         7        0000     Missing Data!                 
+       8          19         7        0000     Missing Data!                 
+       9           5        10        0000     Missing Data!                 
+       9          14         3        0000     Missing Data!                 
+      10           1        10        0000     Missing Data!                 
+      10          11        10        0000     Missing Data!                 
+      10          19        13        0000     Missing Data!                 
+      11           1        10        0000     Missing Data!                 
+      11           5         5        0000     Missing Data!                 
+      12           3         2        0000     Missing Data!                 
+      12          14        10        0000     Missing Data!                 
+      13           1         4        0000     Missing Data!                 
+      13           4        10        0000     Missing Data!                 
+      14           1        13        0000     Missing Data!                 
+      14           3         7        0000     Missing Data!                 
+      14           9         7        0000     Missing Data!                 
+      14          11         6        0000     Missing Data!                 
+      14          12         6        0000     Missing Data!                 
+      14          12        13        0000     Missing Data!                 
+      14          20         7        0000     Missing Data!                 
+      14          21        10        0000     Missing Data!                 
+      14          24         5        0000     Missing Data!                 
+      15           5         2        0000     Missing Data!                 
+      15          10         1        0000     Missing Data!                 
+      15          14         7        0000     Missing Data!                 
+      16           5         7        0000     Missing Data!                 
+      17          11         7        0000     Missing Data!                 
+      17          13        10        0000     Missing Data!                 
+      17          17         1        0000     Missing Data!                 
+      17          18         5        0000     Missing Data!                 
+      18           3        10        0000     Missing Data!                 
+      18          10         2        0000     Missing Data!                 
+      18          20         6        0000     Missing Data!                 
+      18          20         7        0000     Missing Data!                 
+      18          20        12        0000     Missing Data!                 
+
+Total of missing data:     55

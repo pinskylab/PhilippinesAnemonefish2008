@@ -1,0 +1,385 @@
+Sample File	Sample Name	Panel	Marker	Dye	Allele 1	Allele 2	Size 1	Size 2	Height 1	Height 2	Peak Area 1	Peak Area 2	Data Point 1	Data Point 2	ADO	AE	OS	SHP	OBA	SPA	SP	BIN	PHR	LPH	SPU	AN	BD	XTLK	GQ	UD1	UD2	UD3	
+G02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H01_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+B09_PRBI109.fsa	PRBI109	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	245		244.55		30962		199440.0		4098		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C05_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.53		9688		57879.0		4449		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E06_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_PRBI113.fsa	PRBI113	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.62		20233		123765.0		4466		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F01_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273		272.67		32730		213890.0		4443		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+E09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F04_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+A06_PRBI137.fsa	PRBI137	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.77	274.62	24517	18372	146226.0	107568.0	4480	4505	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D02_PRBI14.fsa	PRBI14	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275	277	274.62	276.46	15530	11269	94791.0	67398.0	4537	4562	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C12_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A01_PRBI147.fsa	PRBI147	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275	277	274.54	276.41	19708	14248	118992.0	84291.0	4465	4490	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.6939				
+E02_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D04_PRBI15.fsa	PRBI15	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.61		4643		28361.0		4473		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B04_PRBI151.fsa	PRBI151	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.58		24402		150267.0		4460		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B10_PRBI154.fsa	PRBI154	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.58		21376		133268.0		4493		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B12_PRBI155.fsa	PRBI155	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275	277	274.7	276.54	33277	23301	203320.0	142825.0	4522	4547	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D08_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.49		27678		178566.0		4432		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.974				
+E12_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A03_PRBI164.fsa	PRBI164	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	237		236.38		32281		317941.0		4001		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B08_PRBI168.fsa	PRBI168	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.71	274.58	31916	26917	203619.0	157955.0	4427	4452	false	false	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+D06_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.53		29499		179843.0		4439		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F11_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C01_PRBI17.fsa	PRBI17	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	277	272.88	276.5	1347	1582	7902.0	9824.0	4503	4552	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.3123				
+E01_PRBI174.fsa	PRBI174	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.93	274.77	7567	5472	44828.0	32703.0	4519	4544	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A12_PRBI175.fsa	PRBI175	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.52		32063		319318.0		4554		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_PRBI178.fsa	PRBI178	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.55		32238		261493.0		4522		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+C04_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.75	274.62	9015	6788	53718.0	40113.0	4436	4461	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E03_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C06_PRBI211.fsa	PRBI211	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.54		10216		61571.0		4438		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A07_PRBI230.fsa	PRBI230	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275	277	274.7	276.55	18901	13561	109185.0	81038.0	4483	4508	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A08_PRBI233.fsa	PRBI233	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI235.fsa	PRBI235	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.71	274.57	18258	13827	110073.0	82057.0	4461	4486	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F09_PRBI24.fsa	PRBI24	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D09_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.71	274.57	14619	11153	93179.0	70398.0	4440	4465	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F12_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E04_PRBI29.fsa	PRBI29	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E07_PRBI3.fsa	PRBI3	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F02_PRBI31.fsa	PRBI31	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F05_PRBI32.fsa	PRBI32	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F07_PRBI33.fsa	PRBI33	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B11_PRBI331.fsa	PRBI331	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.48		32606		286902.0		4533		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B01_PRBI332.fsa	PRBI332	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.55		32322		261986.0		4540		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.347				
+A10_PRBI337.fsa	PRBI337	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.58		32379		237207.0		4501		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.347				
+F10_PRBI34.fsa	PRBI34	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A11_PRBI340.fsa	PRBI340	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.85	274.74	31359	31359	244228.0	215021.0	4536	4562	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_PRBI341.fsa	PRBI341	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.61		28984		180726.0		4469		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D10_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275	277	274.58	276.37	19137	14344	117990.0	85452.0	4465	4489	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G01_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C11_PRBI42.fsa	PRBI42	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.86	274.7	33710	25396	207132.0	149393.0	4491	4516	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D11_PRBI45.fsa	PRBI45	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.51		32295		257146.0		4526		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C10_PRBI5.fsa	PRBI5	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275	277	274.58	276.45	25365	17593	153971.0	106214.0	4461	4486	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.6939				
+E05_PRBI51.fsa	PRBI51	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI6.fsa	PRBI6	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	277	272.9	276.57	1837	1637	11359.0	9935.0	4522	4572	false	false	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+D03_PRBI7.fsa	PRBI7	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.73	274.53	28036	20297	167248.0	118760.0	4453	4477	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	275		274.54		29560		180793.0		4451		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F03_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F08_PRBI74.fsa	PRBI74	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D05_PRBI75.fsa	PRBI75	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.77	274.57	6295	4710	36967.0	27191.0	4427	4451	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B07_PRBI76.fsa	PRBI76	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.8	274.66	10700	8130	63194.0	47984.0	4439	4464	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B05_PRBI77.fsa	PRBI77	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.8	274.66	20158	14351	120545.0	87283.0	4468	4493	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D12_PRBI78.fsa	PRBI78	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.86	274.63	33705	24558	207095.0	152533.0	4504	4528	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D07_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.77	274.57	13937	10822	86828.0	66011.0	4416	4440	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E11_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A04_PRBI84.fsa	PRBI84	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI86.fsa	PRBI86	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI87.fsa	PRBI87	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.85	274.69	32462	24287	199579.0	148907.0	4510	4535	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A09_PRBI98.fsa	PRBI98	AC1359,APR_Cf29,APY_65,NNG_012	AC1359	B	273	275	272.88	274.66	27213	20044	163034.0	120145.0	4480	4504	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H01_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+B09_PRBI109.fsa	PRBI109	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C05_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E06_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	187	199	187.04	198.48	2693	1562	16215.0	9304.0	3376	3519	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.6939				
+A05_PRBI113.fsa	PRBI113	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	185	187	185.25	187.18	5525	3071	33397.0	17247.0	3342	3366	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+F04_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+A06_PRBI137.fsa	PRBI137	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D02_PRBI14.fsa	PRBI14	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C12_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A01_PRBI147.fsa	PRBI147	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E02_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	187		187.14		8028		48489.0		3435		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D04_PRBI15.fsa	PRBI15	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B04_PRBI151.fsa	PRBI151	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI154.fsa	PRBI154	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B12_PRBI155.fsa	PRBI155	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D08_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E12_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	191	193	190.95	192.86	2472	1146	14641.0	6652.0	3454	3478	false	false	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+A03_PRBI164.fsa	PRBI164	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B08_PRBI168.fsa	PRBI168	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D06_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F11_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_PRBI17.fsa	PRBI17	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E01_PRBI174.fsa	PRBI174	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A12_PRBI175.fsa	PRBI175	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A02_PRBI178.fsa	PRBI178	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C04_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E03_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	193		192.75		1837		11283.0		3462		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C06_PRBI211.fsa	PRBI211	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A07_PRBI230.fsa	PRBI230	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A08_PRBI233.fsa	PRBI233	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI235.fsa	PRBI235	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F09_PRBI24.fsa	PRBI24	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D09_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F12_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E04_PRBI29.fsa	PRBI29	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	189	191	188.96	190.88	4092	2335	24529.0	12998.0	3409	3433	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E07_PRBI3.fsa	PRBI3	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	193	199	192.72	198.48	387	164	2427.0	1137.0	3447	3519	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_PRBI31.fsa	PRBI31	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F05_PRBI32.fsa	PRBI32	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F07_PRBI33.fsa	PRBI33	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B11_PRBI331.fsa	PRBI331	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B01_PRBI332.fsa	PRBI332	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A10_PRBI337.fsa	PRBI337	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI34.fsa	PRBI34	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A11_PRBI340.fsa	PRBI340	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B03_PRBI341.fsa	PRBI341	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G01_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C11_PRBI42.fsa	PRBI42	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D11_PRBI45.fsa	PRBI45	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C10_PRBI5.fsa	PRBI5	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E05_PRBI51.fsa	PRBI51	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI6.fsa	PRBI6	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D03_PRBI7.fsa	PRBI7	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	187	189	187.0	188.93	3435	1874	20345.0	10360.0	3370	3394	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+F03_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F08_PRBI74.fsa	PRBI74	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D05_PRBI75.fsa	PRBI75	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B07_PRBI76.fsa	PRBI76	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B05_PRBI77.fsa	PRBI77	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D12_PRBI78.fsa	PRBI78	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D07_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E11_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R	189	193	189.06	192.87	3256	1918	19657.0	11559.0	3426	3474	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.71				
+A04_PRBI84.fsa	PRBI84	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI86.fsa	PRBI86	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI87.fsa	PRBI87	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI98.fsa	PRBI98	AC1359,APR_Cf29,APY_65,NNG_012	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H01_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+B09_PRBI109.fsa	PRBI109	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C05_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E06_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_PRBI113.fsa	PRBI113	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F04_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+A06_PRBI137.fsa	PRBI137	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D02_PRBI14.fsa	PRBI14	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C12_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F06_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A01_PRBI147.fsa	PRBI147	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E02_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D04_PRBI15.fsa	PRBI15	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B04_PRBI151.fsa	PRBI151	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI154.fsa	PRBI154	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B12_PRBI155.fsa	PRBI155	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D08_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E12_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A03_PRBI164.fsa	PRBI164	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B08_PRBI168.fsa	PRBI168	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D06_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F11_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_PRBI17.fsa	PRBI17	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E01_PRBI174.fsa	PRBI174	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A12_PRBI175.fsa	PRBI175	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_PRBI178.fsa	PRBI178	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C04_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E03_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C06_PRBI211.fsa	PRBI211	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A07_PRBI230.fsa	PRBI230	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A08_PRBI233.fsa	PRBI233	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI235.fsa	PRBI235	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F09_PRBI24.fsa	PRBI24	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D09_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F12_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E04_PRBI29.fsa	PRBI29	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E07_PRBI3.fsa	PRBI3	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F02_PRBI31.fsa	PRBI31	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F05_PRBI32.fsa	PRBI32	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F07_PRBI33.fsa	PRBI33	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B11_PRBI331.fsa	PRBI331	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B01_PRBI332.fsa	PRBI332	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A10_PRBI337.fsa	PRBI337	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F10_PRBI34.fsa	PRBI34	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A11_PRBI340.fsa	PRBI340	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_PRBI341.fsa	PRBI341	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D10_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G01_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C11_PRBI42.fsa	PRBI42	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D11_PRBI45.fsa	PRBI45	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C10_PRBI5.fsa	PRBI5	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E05_PRBI51.fsa	PRBI51	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI6.fsa	PRBI6	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D03_PRBI7.fsa	PRBI7	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F03_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F08_PRBI74.fsa	PRBI74	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D05_PRBI75.fsa	PRBI75	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B07_PRBI76.fsa	PRBI76	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B05_PRBI77.fsa	PRBI77	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D12_PRBI78.fsa	PRBI78	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D07_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E11_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A04_PRBI84.fsa	PRBI84	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI86.fsa	PRBI86	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI87.fsa	PRBI87	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A09_PRBI98.fsa	PRBI98	AC1359,APR_Cf29,APY_65,NNG_012	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+G12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H01_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H03_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H04_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H05_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H06_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H07_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H08_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H09_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H10_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H11_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+H12_Null.fsa	Null	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+B09_PRBI109.fsa	PRBI109	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C05_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E06_PRBI112.fsa	PRBI112	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_PRBI113.fsa	PRBI113	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_PRBI114.fsa	PRBI114	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116		116.18		29037		208216.0		2579		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+C09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E09_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F04_PRBI115.fsa	PRBI115	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	0.0				
+A06_PRBI137.fsa	PRBI137	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D02_PRBI14.fsa	PRBI14	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C12_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F06_PRBI146.fsa	PRBI146	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A01_PRBI147.fsa	PRBI147	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C03_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E02_PRBI149.fsa	PRBI149	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D04_PRBI15.fsa	PRBI15	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B04_PRBI151.fsa	PRBI151	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI154.fsa	PRBI154	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B12_PRBI155.fsa	PRBI155	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D08_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E12_PRBI16.fsa	PRBI16	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A03_PRBI164.fsa	PRBI164	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B08_PRBI168.fsa	PRBI168	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D06_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F11_PRBI169.fsa	PRBI169	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	115.97	118.46	28226	28163	280847.0	264713.0	2559	2590	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_PRBI17.fsa	PRBI17	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E01_PRBI174.fsa	PRBI174	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A12_PRBI175.fsa	PRBI175	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A02_PRBI178.fsa	PRBI178	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C04_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E03_PRBI2.fsa	PRBI2	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C06_PRBI211.fsa	PRBI211	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A07_PRBI230.fsa	PRBI230	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A08_PRBI233.fsa	PRBI233	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B06_PRBI235.fsa	PRBI235	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F09_PRBI24.fsa	PRBI24	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	116.39	118.35	26466	27786	267993.0	254679.0	2543	2567	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D09_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F12_PRBI25.fsa	PRBI25	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	116.21	118.64	25492	28087	176984.0	143664.0	2555	2585	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E04_PRBI29.fsa	PRBI29	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E07_PRBI3.fsa	PRBI3	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_PRBI31.fsa	PRBI31	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	116.45	118.06	28371	28371	291328.0	271268.0	2577	2597	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F05_PRBI32.fsa	PRBI32	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	116.44	118.16	28077	27702	272171.0	247085.0	2531	2552	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F07_PRBI33.fsa	PRBI33	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	116.36	118.4	27847	26988	271716.0	245105.0	2543	2568	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B11_PRBI331.fsa	PRBI331	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B01_PRBI332.fsa	PRBI332	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A10_PRBI337.fsa	PRBI337	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI34.fsa	PRBI34	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116	118	116.18	118.63	24383	26039	162450.0	132190.0	2540	2570	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A11_PRBI340.fsa	PRBI340	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B03_PRBI341.fsa	PRBI341	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G01_PRBI35.fsa	PRBI35	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C11_PRBI42.fsa	PRBI42	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D11_PRBI45.fsa	PRBI45	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C10_PRBI5.fsa	PRBI5	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E05_PRBI51.fsa	PRBI51	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_PRBI6.fsa	PRBI6	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D03_PRBI7.fsa	PRBI7	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F03_PRBI72.fsa	PRBI72	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116		116.5		29284		339296.0		2536		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F08_PRBI74.fsa	PRBI74	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R	116		116.17		28029		181399.0		2536		false	false	1.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+D05_PRBI75.fsa	PRBI75	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B07_PRBI76.fsa	PRBI76	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B05_PRBI77.fsa	PRBI77	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D12_PRBI78.fsa	PRBI78	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D07_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E11_PRBI8.fsa	PRBI8	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A04_PRBI84.fsa	PRBI84	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_PRBI86.fsa	PRBI86	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B02_PRBI87.fsa	PRBI87	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI98.fsa	PRBI98	AC1359,APR_Cf29,APY_65,NNG_012	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				

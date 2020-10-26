@@ -1,0 +1,53 @@
+Genepop  version 4.0.9: Hardy-Weinberg test
+
+File: Aclarkii_2009-05-07 onepopCebuLeyte.txt (Title line:"Aclarkii onepop CebuLeyte, output by GenAlEx")
+
+Number of populations detected:    1
+Number of loci detected:           13
+
+
+Hardy-Weinberg exact test for up to four alleles.
+ (complete enumeration)
+
+Estimation of exact P-Values by the Markov chain method. 
+---------------------------------------------
+Markov chain parameters for all tests:
+Dememorization:              10000
+Batches:                     20
+Iterations per batch:        5000
+Hardy Weinberg: Probability test
+        ************************
+
+
+
+==========================================
+     Results by population
+==========================================
+
+
+ Pop : NA
+-----------------------------------------
+                             Fis estimates
+                            ---------------
+locus       P-val   S.E.    W&C     R&H     Steps 
+----------- ------- ------- ------- ------- ------
+AC1359      0.0392  0.0072   0.0396  0.1218  16849 switches
+AC1578      0.0473  0.0071   0.1167  0.0950  45889 switches
+AC915       0.6556    -     -0.0121 -0.0164   6745 matrices
+ACH_B6      0.7686  0.0244  -0.0093 -0.0063  26215 switches
+ACH_C1      0.8432  0.0135   0.0022  0.0075  31790 switches
+ACH_D1      0.7417  0.0438   0.0146  0.0016  12368 switches
+APR_Cf29    0.8722  0.0437  -0.0384 -0.0165   7661 switches
+APR_Cf8     0.2529    -      0.0342  0.0421 484484 matrices
+APY_45      0.6834  0.0332   0.0375  0.0012   7006 switches
+APY_65      0.2237  0.0427  -0.0172  0.0088   6424 switches
+NNG_004     0.3594    -      0.0264  0.0088    361 matrices
+NNG_012     0.1014    -      0.0594  0.0296 22246316 matrices
+NNG_028     0.4297  0.0505   0.0265  0.0041   6265 switches
+
+All (Fisher's method):
+ Chi2 :    29.9815
+ Df   :    26.0000
+ Prob :    0.2684
+
+Normal ending

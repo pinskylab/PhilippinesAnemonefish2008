@@ -1,0 +1,83 @@
+# fixed error in 090315 version: no longer set negative Fsts to zero
+# now reads Arlequin results from 090424
+
+#setwd("C:/Documents and Settings/Mollie Manier/Desktop/Users/Malin/Philippines 2008/Analysis/090313/Arlequin jackknife")
+setwd("/Users/mpinsky/Documents/Stanford/Philippines/2008/Genotyping/Analysis/090424/Arlequin jackknife")
+source("../../readArlFstBatch 090415.R")
+library(vegan)
+
+file = "FSTdist.sum"
+
+cebugeo= matrix(data=c(0,25,50,75,100,150,175,200,225,250,NA,0,25,50,75,125,150,175,200,225, 
+NA,NA,0,25,50,100,125,150,175,200,NA,NA,NA,0,25,75,100,125,150,175, 
+NA,NA,NA,NA,0,50,75,100,125,150,NA,NA,NA,NA,NA,0,25,50,75,100,NA,NA,NA,NA,NA,NA,0,25,50,75,
+NA,NA,NA,NA,NA,NA,NA,0,25,50,NA,NA,NA,NA,NA,NA,NA,NA,0,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,0), nrow=10)
+
+leytegeo = matrix(data=c(0,25,50,100,125,150,175,225,NA,0,25,75,100,125,150,200,
+NA,NA,0,50,75,100,125,175,NA,NA,NA,0,25,50,75,125,NA,NA,NA,NA,0,25,50,100,
+NA,NA,NA,NA,NA,0,25,75,NA,NA,NA,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,0), nrow=8)
+
+
+fsts = readArlFstBatch(file)
+
+mant = data.frame(Leyte_b = numeric(13), Leyte_r = numeric(13), Leyte_r2 = numeric(13), 
+Leyte_p = numeric(13), Cebu_b = numeric(13), Cebu_r = numeric(13), Cebu_r2 = numeric(13), Cebu_p = numeric(13))
+
+for(i in 1:13){
+	cebu = as.matrix(fsts[[i]][1:10,1:10])
+	cebu = cebu/(1-cebu) # linearize fst
+
+	leyte = as.matrix(fsts[[i]][11:18,11:18])
+	leyte = leyte/(1-leyte)
+
+	c = mantel(cebugeo, cebu, method="pearson")
+	l = mantel(leytegeo, leyte, method="pearson")
+
+	mant$Cebu_p[i] = c$signif
+	mant$Leyte_p[i] = l$signif
+
+	mant$Cebu_r[i] = c$statistic
+	mant$Leyte_r[i] = l$statistic
+}
+
+#windows(width=11, height=8)
+quartz(width=10, height=8)
+par(mfrow=c(3,5))
+par(mai=c(0.2,0.3,0.2,0.2))
+
+coefcebu = numeric()
+coefleyte = numeric()
+ylim = c(-0.015, 0.02)
+for(i in 1:13){
+	cebu = as.matrix(fsts[[i]][1:10,1:10])
+	cebu = cebu/(1-cebu) # linearize fst
+
+	leyte = as.matrix(fsts[[i]][11:18,11:18])
+	leyte = leyte/(1-leyte)
+
+	title = strsplit(strsplit(names(fsts)[i], "no")[[1]][2],".", fixed=T)[[1]][1]
+	plot(cebugeo, cebu, main=paste("W/out", title), xaxt="n", yaxt="s", pch=1, ylim=ylim)
+	points(leytegeo, leyte, pch=16)	
+
+	l = lm(cebu[1:100][!is.na(cebu[1:100])] ~ cebugeo[1:100][!is.na(cebugeo[1:100])])
+	lines(cebugeo[1:100][!is.na(cebu[1:100])], l$fitted.values, col="blue")
+	mant$Cebu_b[i] = l$coefficients[2]
+	mant$Cebu_r2[i] = summary(l)$r.squared
+
+	l = lm(leyte[1:100][!is.na(leyte[1:100])] ~ leytegeo[1:100][!is.na(leytegeo[1:100])])
+	lines(leytegeo[1:100][!is.na(leyte[1:100])], l$fitted.values, col="orange")
+	mant$Leyte_b[i] = l$coefficients[2]
+	mant$Leyte_r2[i] = summary(l)$r.squared
+}
+
+#par(mai=c(0.3,0.3,0.2,0.2))
+#hist(mantelrcebu^2)
+#hist(mantelrleyte^2)
+
+
+row.names(mant) = unlist(strsplit(unlist(strsplit(names(fsts), "CebuLeyte "))[seq(2,26,2)],".", fixed=T))[seq(1,25,2)]
+
+write.csv(mant, paste("MantelResults",Sys.Date(),".csv", sep=""))
+
+
+

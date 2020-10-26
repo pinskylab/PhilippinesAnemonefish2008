@@ -1,0 +1,1147 @@
+ Today is Wed Apr 22 08:06:01 Pacific Daylight Time 2009 
+
+ File C:/famoz/Aclarkii_create_2009-04-15-FAMOZ.txt open 
+
+
+ Missing data will be included in likelihood calculation (can be time consuming !).
+
+FaMoz In Progress !
+Number of loci: 13 
+Among them, cytoplasmic markers: 0 
+
+Exclusion at locus 1:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.196241 	0.347316 	0.515544
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.196241 	0.347316 	0.515544
+
+Exclusion at locus 2:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.100318 	0.250421 	0.413238
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.276873 	0.510761 	0.715740
+
+Exclusion at locus 3:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.005006 	0.050825 	0.096973
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.280493 	0.535627 	0.743305
+
+Exclusion at locus 4:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.600161 	0.751346 	0.906459
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.712313 	0.884532 	0.975988
+
+Exclusion at locus 5:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.369992 	0.552097 	0.745791
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.818755 	0.948281 	0.993896
+
+Exclusion at locus 6:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.630761 	0.774490 	0.921029
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.933077 	0.988337 	0.999518
+
+Exclusion at locus 7:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.502065 	0.672849 	0.856087
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.966677 	0.996184 	0.999931
+
+Exclusion at locus 8:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.190884 	0.335213 	0.485479
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.973038 	0.997463 	0.999964
+
+Exclusion at locus 9:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.280153 	0.447322 	0.628562
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.980591 	0.998598 	0.999987
+
+Exclusion at locus 10:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.292099 	0.464163 	0.651586
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.986261 	0.999249 	0.999995
+
+Exclusion at locus 11:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.021824 	0.096008 	0.167016
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.986560 	0.999321 	0.999996
+
+Exclusion at locus 12:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.157207 	0.263852 	0.396102
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.988673 	0.999500 	0.999998
+
+Exclusion at locus 13:
+Exclusion probabilities: 
+	single parent: 	paternity: 	pair parents:
+ 	0.338977 	0.517060 	0.713132
+Cumulative probabilities: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.992513 	0.999759 	0.999999
+
+
+Cumulated probabilities over all loci: 
+	single parent: 	paternity: 	pair parents: 
+ 	0.992513 	0.999759 	0.999999
+
+Loci sorted by decreasing exclusion probabilities: 
+Locus n°: 	single parent: 	paternity: 	parent pair:
+
+	 6 	0.630761 	0.774490 	0.921029
+	 4 	0.600161 	0.751346 	0.906459
+	 7 	0.502065 	0.672849 	0.856087
+	 5 	0.369992 	0.552097 	0.745791
+	 13 	0.338977 	0.517060 	0.713132
+	 10 	0.292099 	0.464163 	0.651586
+	 9 	0.280153 	0.447322 	0.628562
+	 1 	0.196241 	0.347316 	0.515544
+	 8 	0.190884 	0.335213 	0.485479
+	 12 	0.157207 	0.263852 	0.396102
+	 2 	0.100318 	0.250421 	0.413238
+	 11 	0.021824 	0.096008 	0.167016
+	 3 	0.005006 	0.050825 	0.096973
+
+Cumulated exclusions: 
+Locus n°: 	single parent: 	paternity: 	parent pair:
+
+	 6 	0.630761 	0.774490 	0.921029
+	 4 	0.852364 	0.943926 	0.992613
+	 7 	0.926487 	0.981655 	0.998937
+	 5 	0.953686 	0.991783 	0.999730
+	 13 	0.969385 	0.996032 	0.999922
+	 10 	0.978328 	0.997874 	0.999973
+	 9 	0.984399 	0.998825 	0.999990
+	 1 	0.987461 	0.999233 	0.999995
+	 8 	0.989854 	0.999490 	0.999997
+	 12 	0.991449 	0.999625 	0.999998
+	 2 	0.992307 	0.999719 	0.999999
+	 11 	0.992475 	0.999746 	0.999999
+	 3 	0.992513 	0.999759 	0.999999
+
+***Simulating offspring with genotyped parents or parents generated from allele frequencies***
+
+FaMoz In Progress !
+
+ Number of loci: 13
+ Of which 0 cytoplasmic markers
+ Number of parents: 216 number of simulated offspring: 10000
+
+***** Simulating offpring with genotyped parents *****
+
+ Simulation error 0.000000
+ Lod calculation error 0.000000, Heterozygote deficit 0.000000
+
+ Simulation step
+ End of simulation step 
+
+ Calculation step
+ End of calculation step 
+
+ The two most likely parents are the right parents 17725 times over 2*10000 simulated offspring (88.62 %)
+
+ The most likely parent pair is the right parent pair in 9621 simulations (96.21 %)
+ Single parent scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.36 	1.07 	1.78 	2.49 	3.20 	3.91 	4.62 	5.33 	6.04 	6.75 	7.46 	8.17 	8.88 	9.59 	10.30 	11.01 	11.72 	12.43 	13.14 	13.85 	14.56 	15.27 	15.98 	16.69 	17.40 	18.11 	18.82 	19.54 	20.25 	20.96 
+	 39	 33	 109	 361	 803	 1373	 1884	 2123	 2207	 2208	 2031	 1662	 1395	 1084	 812	 592	 443	 286	 191	 113	 79	 46	 41	 21	 17	 14	 12	 11	 7	 3
+	0.00 	0.00 	0.01 	0.02 	0.04 	0.07 	0.09 	0.11 	0.11 	0.11 	0.10 	0.08 	0.07 	0.05 	0.04 	0.03 	0.02 	0.01 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.01	0.03	0.07	0.14	0.23	0.34	0.45	0.56	0.66	0.74	0.81	0.87	0.91	0.94	0.96	0.97	0.98	0.99	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Parent pair scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.69 	2.06 	3.43 	4.81 	6.18 	7.55 	8.92 	10.30 	11.67 	13.04 	14.42 	15.79 	17.16 	18.53 	19.91 	21.28 	22.65 	24.03 	25.40 	26.77 	28.15 	29.52 	30.89 	32.26 	33.64 	35.01 	36.38 	37.76 
+	 22	 0	 0	 0	 0	 3	 15	 83	 246	 555	 892	 1213	 1388	 1448	 1228	 992	 742	 447	 319	 183	 96	 56	 34	 15	 11	 5	 4	 3
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.01 	0.02 	0.06 	0.09 	0.12 	0.14 	0.14 	0.12 	0.10 	0.07 	0.04 	0.03 	0.02 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.01	0.04	0.09	0.18	0.30	0.44	0.59	0.71	0.81	0.88	0.93	0.96	0.98	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Delta, true parents scores class names, class sizes, class frequencies and cumulated class frequencies 
+	-16.36 	-15.08 	-13.80 	-12.53 	-11.25 	-9.97 	-8.70 	-7.42 	-6.14 	-4.87 	-3.59 	-2.31 	-1.04 	0.24 	1.52 	2.80 	4.07 	5.35 	6.63 	7.90 	9.18 	10.46 	11.73 	13.01 	14.29 	15.56 	16.84 	18.12 	19.40 	20.67 
+	 6	 9	 17	 20	 33	 93	 156	 288	 494	 797	 1204	 1770	 2284	 852	 0	 31	 289	 934	 1810	 2160	 1801	 1250	 741	 348	 167	 77	 43	 22	 22	 7
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.01 	0.01 	0.02 	0.03 	0.04 	0.07 	0.10 	0.13 	0.05 	0.00 	0.00 	0.02 	0.05 	0.10 	0.12 	0.10 	0.07 	0.04 	0.02 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.00	0.00	0.01	0.02	0.04	0.06	0.11	0.18	0.28	0.40	0.45	0.45	0.45	0.47	0.52	0.63	0.75	0.85	0.92	0.96	0.98	0.99	0.99	1.00	1.00	1.00	1.00
+
+ Delta, true parent pairs scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	 20000	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0	 0
+	1.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+FaMoz In Progress !
+
+ Number of loci: 13
+ Of which 0 cytoplasmic markers
+ Number of parents: 216 number of simulated offspring: 10000
+
+***** Simulating offpring according to allele frequencies *****
+
+ Lod calculation error 0.000000, Heterozygote deficit 0.000000
+
+ Simulation step
+ End of simulation step 
+
+ Calculation step
+ End of calculation step 
+
+ Single parent scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.17 	0.52 	0.87 	1.21 	1.56 	1.90 	2.25 	2.60 	2.94 	3.29 	3.63 	3.98 	4.33 	4.67 	5.02 	5.36 	5.71 	6.06 	6.40 	6.75 	7.09 	7.44 	7.79 	8.13 	8.48 	8.82 	9.17 	9.52 	9.86 	10.21 
+	 9826	 212	 304	 424	 534	 675	 781	 925	 1014	 955	 891	 778	 664	 530	 418	 270	 231	 178	 132	 79	 67	 44	 26	 20	 6	 7	 2	 1	 3	 3
+	0.49 	0.01 	0.02 	0.02 	0.03 	0.03 	0.04 	0.05 	0.05 	0.05 	0.04 	0.04 	0.03 	0.03 	0.02 	0.01 	0.01 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.49	0.50	0.52	0.54	0.56	0.60	0.64	0.68	0.73	0.78	0.83	0.87	0.90	0.93	0.95	0.96	0.97	0.98	0.99	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Parent pair scores class names, class sizes, class frequencies and cumulated class frequencies 
+	0.31 	0.92 	1.54 	2.15 	2.77 	3.39 	4.00 	4.62 	5.23 	5.85 	6.46 	7.08 	7.70 	8.31 	8.93 	9.54 	10.16 	10.77 	11.39 	12.01 	12.62 	13.24 	13.85 	14.47 	15.08 	15.70 	16.31 	16.93 
+	 9843	 0	 0	 0	 0	 0	 0	 0	 0	 1	 0	 3	 6	 3	 9	 11	 24	 19	 17	 14	 15	 12	 9	 6	 4	 2	 1	 1
+	0.98 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.98	0.99	0.99	0.99	0.99	0.99	0.99	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Delta, wrong parents scores class names, class sizes, class frequencies and cumulated class frequencies 
+	-7.01 	-6.45 	-5.90 	-5.35 	-4.80 	-4.25 	-3.69 	-3.14 	-2.59 	-2.04 	-1.49 	-0.93 	-0.38 	0.17 	0.72 	1.27 	1.83 	2.38 	2.93 	3.48 	4.03 	4.58 	5.14 	5.69 	6.24 	6.79 	7.34 	7.90 	8.45 	9.00 	9.55 	10.10 
+	 1	 6	 11	 14	 35	 59	 102	 166	 267	 395	 628	 859	 1122	 30013	 152	 293	 451	 647	 868	 933	 897	 748	 494	 336	 233	 128	 74	 37	 18	 6	 2	 5
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.01 	0.01 	0.02 	0.02 	0.03 	0.75 	0.00 	0.01 	0.01 	0.02 	0.02 	0.02 	0.02 	0.02 	0.01 	0.01 	0.01 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.00	0.00	0.00	0.01	0.01	0.02	0.03	0.04	0.06	0.09	0.84	0.85	0.85	0.86	0.88	0.90	0.93	0.95	0.97	0.98	0.99	0.99	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+ Delta, wrong parent pairs scores class names, class sizes, class frequencies and cumulated class frequencies 
+	-4.96 	-4.26 	-3.55 	-2.85 	-2.14 	-1.44 	-0.73 	-0.03 	0.68 	1.38 	2.09 	2.79 	3.50 	4.20 	4.91 	5.61 	6.32 	7.02 	7.72 	8.43 	9.13 	9.84 	10.54 	11.25 	11.95 	12.66 	13.36 	14.07 	14.77 	15.48 	16.18 	16.89 
+	 1	 0	 1	 3	 3	 12	 23	 39800	 0	 0	 0	 0	 0	 0	 0	 0	 1	 3	 6	 4	 11	 24	 18	 23	 17	 18	 11	 12	 3	 3	 2	 1
+	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.99 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 
+	0.00	0.00	0.00	0.00	0.00	0.00	0.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00	1.00
+
+
+***Most likely parents and parent pair for each offspring ***
+
+FaMoz In Progress !
+
+ Number of loci: 13
+ Among them, number of cytoplasmic markers: 0
+ Number of parents: 216 offspring: 162
+
+ Lod calculation error: 0.000000, Heterozygote deficit: 0.000000
+ Number of best parent / pair displayed: 4
+
+ For each likely parent: 
+
+ -Parent name -Parent lod-score -Parent delta score
+ -Nb of missing allele in parent / nb of nuclear loci with a > 0 contribution in score 
+   / nb of parent-offspring mismatch among them
+
+ For each likely parent pair:
+
+ -Names of parents -Parent pair score -Parent pair delta score
+ -Nb of nuclear loci with a > 0 contribution in score / nb of pair-offspring mismatch among them
+
+ kid 1 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 2 : (0 missing data on 26 alleles)
+ 5 likely parent(s)
+ 2 	 44 	 2.01 	 2.01 	0/9/0 
+ 2 	 38 	 1.48 	 0.53 	0/8/0 
+ 2 	 93 	 1.18 	 0.84 	0/9/0 
+ 2 	 176 	 1.18 	 0.84 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 3 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 4 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 4 	 137 	 5.12 	 5.12 	0/10/0 
+ 4 	 15 	 2.61 	 2.52 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 5 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 6 : (0 missing data on 26 alleles)
+ 6 likely parent(s)
+ 6 	 34 	 5.31 	 5.31 	0/11/0 
+ 6 	 44 	 4.14 	 1.16 	0/9/0 
+ 6 	 198 	 3.06 	 2.25 	0/9/0 
+ 6 	 107 	 2.86 	 2.44 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 7 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 8 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 8 	 9 	 2.52 	 2.52 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 9 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 9 	 198 	 2.53 	 2.53 	0/8/0 
+ 9 	 187 	 0.53 	 2.00 	0/6/0 
+ 0 likely parent pair(s)
+
+ kid 10 : (1 missing data on 26 alleles)
+ 1 likely parent(s)
+ 10 	 14 	 5.27 	 5.27 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 11 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 12 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 13 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 14 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 14 	 105 	 4.85 	 4.85 	0/11/0 
+ 14 	 127 	 3.65 	 1.20 	0/10/0 
+ 14 	 91 	 2.52 	 2.33 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 15 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 15 	 107 	 3.45 	 3.45 	0/10/0 
+ 15 	 133 	 2.80 	 0.65 	0/7/0 
+ 15 	 39 	 2.18 	 1.27 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 16 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 16 	 103 	 6.91 	 6.91 	0/12/0 
+ 16 	 154 	 5.39 	 1.53 	0/11/0 
+ 16 	 180 	 0.73 	 6.18 	1/7/0 
+ 0 likely parent pair(s)
+
+ kid 17 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 17 	 16 	 4.48 	 4.48 	0/11/0 
+ 17 	 87 	 1.10 	 3.38 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 18 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 18 	 116 	 4.42 	 4.42 	0/10/0 
+ 18 	 18 	 4.03 	 0.39 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 19 : (0 missing data on 26 alleles)
+ 9 likely parent(s)
+ 19 	 157 	 3.72 	 3.72 	0/8/0 
+ 19 	 125 	 2.82 	 0.91 	1/9/0 
+ 19 	 38 	 2.49 	 1.24 	0/8/0 
+ 19 	 44 	 2.01 	 1.71 	0/9/0 
+ 2 likely parent pair(s)
+ 19 	 (59 125) 	 8.32 	 8.32 	9/0 
+ 19 	 (114 125) 	 7.64 	 0.68 	9/0 
+
+ kid 20 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 20 	 38 	 4.94 	 4.94 	0/10/0 
+ 20 	 211 	 3.68 	 1.26 	0/12/0 
+ 20 	 80 	 2.02 	 2.91 	0/10/0 
+ 20 	 87 	 0.17 	 4.77 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 21 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 21 	 7 	 6.64 	 6.64 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 22 : (1 missing data on 26 alleles)
+ 4 likely parent(s)
+ 22 	 166 	 3.41 	 3.41 	0/9/0 
+ 22 	 92 	 2.71 	 0.70 	0/8/0 
+ 22 	 130 	 2.55 	 0.86 	1/8/0 
+ 22 	 165 	 1.84 	 1.57 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 23 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 23 	 117 	 3.03 	 3.03 	2/6/0 
+ 0 likely parent pair(s)
+
+ kid 24 : (1 missing data on 26 alleles)
+ 6 likely parent(s)
+ 24 	 185 	 4.77 	 4.77 	0/12/0 
+ 24 	 3 	 3.85 	 0.92 	0/9/0 
+ 24 	 44 	 3.18 	 1.59 	0/11/0 
+ 24 	 211 	 2.58 	 2.19 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 25 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 26 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 27 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 28 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 29 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 29 	 87 	 3.00 	 3.00 	0/9/0 
+ 29 	 125 	 1.91 	 1.08 	1/7/0 
+ 29 	 93 	 1.17 	 1.83 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 30 : (1 missing data on 26 alleles)
+ 1 likely parent(s)
+ 30 	 55 	 7.66 	 7.66 	0/12/0 
+ 0 likely parent pair(s)
+
+ kid 31 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 32 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 33 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 34 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 34 	 1 	 2.52 	 2.52 	0/8/0 
+ 34 	 32 	 2.19 	 0.33 	1/9/0 
+ 34 	 117 	 1.95 	 0.57 	2/7/0 
+ 0 likely parent pair(s)
+
+ kid 35 : (2 missing data on 26 alleles)
+ 4 likely parent(s)
+ 35 	 128 	 2.80 	 2.80 	0/11/0 
+ 35 	 103 	 1.80 	 1.00 	0/9/0 
+ 35 	 37 	 1.74 	 1.06 	0/10/0 
+ 35 	 73 	 1.35 	 1.45 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 36 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 36 	 23 	 1.80 	 1.80 	1/8/0 
+ 0 likely parent pair(s)
+
+ kid 37 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 38 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 39 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 40 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 40 	 163 	 4.20 	 4.20 	3/8/0 
+ 0 likely parent pair(s)
+
+ kid 41 : (2 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 42 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 43 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 44 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 45 : (0 missing data on 26 alleles)
+ 5 likely parent(s)
+ 45 	 13 	 5.74 	 5.74 	0/10/0 
+ 45 	 2 	 2.54 	 3.20 	0/8/0 
+ 45 	 32 	 2.52 	 3.22 	1/9/0 
+ 45 	 117 	 1.49 	 4.26 	2/7/0 
+ 0 likely parent pair(s)
+
+ kid 46 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 46 	 45 	 4.64 	 4.64 	0/8/0 
+ 46 	 114 	 1.32 	 3.33 	1/7/0 
+ 0 likely parent pair(s)
+
+ kid 47 : (1 missing data on 26 alleles)
+ 7 likely parent(s)
+ 47 	 109 	 7.27 	 7.27 	0/12/0 
+ 47 	 16 	 3.58 	 3.70 	0/10/0 
+ 47 	 15 	 2.82 	 4.45 	0/10/0 
+ 47 	 187 	 2.44 	 4.84 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 48 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 48 	 5 	 3.93 	 3.93 	0/8/0 
+ 48 	 139 	 2.19 	 1.74 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 49 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 50 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 51 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 51 	 114 	 2.81 	 2.81 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 52 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 53 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 53 	 50 	 5.79 	 5.79 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 54 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 54 	 117 	 3.97 	 3.97 	2/8/0 
+ 0 likely parent pair(s)
+
+ kid 55 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 56 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 56 	 33 	 2.03 	 2.03 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 57 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 57 	 107 	 3.61 	 3.61 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 58 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 58 	 48 	 6.18 	 6.18 	0/10/0 
+ 58 	 87 	 3.87 	 2.31 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 59 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 60 : (0 missing data on 26 alleles)
+ 6 likely parent(s)
+ 60 	 37 	 3.78 	 3.78 	0/10/0 
+ 60 	 55 	 3.42 	 0.37 	0/10/0 
+ 60 	 107 	 3.32 	 0.46 	0/10/0 
+ 60 	 213 	 2.07 	 1.72 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 61 : (1 missing data on 26 alleles)
+ 15 likely parent(s)
+ 61 	 18 	 3.38 	 3.38 	0/12/0 
+ 61 	 38 	 2.95 	 0.43 	0/11/0 
+ 61 	 107 	 2.89 	 0.49 	0/8/0 
+ 61 	 52 	 2.78 	 0.60 	0/10/0 
+ 17 likely parent pair(s)
+ 61 	 (18 66) 	 7.62 	 7.62 	 11/0 
+ 61 	 (52 107) 	 7.22 	 0.40 	 10/0 
+ 61 	 (38 135) 	 6.88 	 0.75 	 11/0 
+ 61 	 (14 107) 	 6.57 	 1.05 	 9/0 
+
+ kid 62 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 62 	 68 	 4.82 	 4.82 	0/10/0 
+ 62 	 81 	 4.24 	 0.59 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 63 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 63 	 45 	 4.84 	 4.84 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 64 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 65 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 66 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 66 	 57 	 7.75 	 7.75 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 67 : (0 missing data on 26 alleles)
+ 7 likely parent(s)
+ 67 	 127 	 4.02 	 4.02 	0/12/0 
+ 67 	 100 	 3.22 	 0.80 	0/9/0 
+ 67 	 36 	 2.92 	 1.09 	0/11/0 
+ 67 	 87 	 1.97 	 2.05 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 68 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 68 	 66 	 4.54 	 4.54 	0/8/0 
+ 68 	 116 	 1.79 	 2.75 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 69 : (0 missing data on 26 alleles)
+ 7 likely parent(s)
+ 69 	 179 	 5.14 	 5.14 	0/11/0 
+ 69 	 87 	 3.94 	 1.20 	0/9/0 
+ 69 	 115 	 3.47 	 1.68 	0/9/0 
+ 69 	 52 	 2.73 	 2.41 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 70 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 70 	 79 	 16.73 	 16.73 	0/13/0 
+ 1 likely parent pair(s)
+ 70 	 (79 79) 	 28.76 	 28.76 	13/0 
+
+ kid 71 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 72 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 72 	 183 	 6.66 	 6.66 	0/11/0 
+ 72 	 68 	 4.92 	 1.74 	0/11/0 
+ 72 	 114 	 3.46 	 3.20 	1/9/0 
+ 72 	 145 	 2.02 	 4.64 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 73 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 73 	 81 	 7.14 	 7.14 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 74 : (1 missing data on 26 alleles)
+ 1 likely parent(s)
+ 74 	 127 	 3.79 	 3.79 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 75 : (1 missing data on 26 alleles)
+ 4 likely parent(s)
+ 75 	 163 	 3.15 	 3.15 	3/7/0 
+ 75 	 14 	 2.41 	 0.73 	0/8/0 
+ 75 	 216 	 1.31 	 1.83 	0/7/0 
+ 75 	 117 	 0.26 	 2.89 	2/5/0 
+ 1 likely parent pair(s)
+ 75 	 (14 163) 	 6.41 	 6.41 	8/0 
+
+ kid 76 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 76 	 23 	 2.03 	 2.03 	1/7/0 
+ 0 likely parent pair(s)
+
+ kid 77 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 78 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 78 	 114 	 3.07 	 3.07 	1/10/0 
+ 0 likely parent pair(s)
+
+ kid 79 : (1 missing data on 26 alleles)
+ 12 likely parent(s)
+ 79 	 138 	 4.64 	 4.64 	0/11/0 
+ 79 	 131 	 3.62 	 1.02 	0/10/0 
+ 79 	 172 	 3.45 	 1.19 	0/9/0 
+ 79 	 168 	 3.35 	 1.29 	0/10/0 
+ 5 likely parent pair(s)
+ 79 	 (131 168) 	 10.01 	 10.01 	 11/0 
+ 79 	 (37 138) 	 9.48 	 0.53 	 11/0 
+ 79 	 (131 182) 	 9.40 	 0.61 	 11/0 
+ 79 	 (107 138) 	 9.05 	 0.96 	 9/0 
+
+ kid 80 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 80 	 43 	 6.07 	 6.07 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 81 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 81 	 81 	 3.16 	 3.16 	0/9/0 
+ 81 	 95 	 3.06 	 0.09 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 82 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 82 	 176 	 4.14 	 4.14 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 83 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 83 	 94 	 3.71 	 3.71 	0/9/0 
+ 83 	 144 	 1.23 	 2.48 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 84 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 84 	 130 	 3.00 	 3.00 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 85 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 86 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 86 	 107 	 5.23 	 5.23 	0/11/0 
+ 86 	 93 	 3.77 	 1.45 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 87 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 88 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 88 	 85 	 6.94 	 6.94 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 89 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 90 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 90 	 201 	 4.43 	 4.43 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 91 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 92 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 93 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 93 	 91 	 0.36 	 0.36 	0/6/0 
+ 0 likely parent pair(s)
+
+ kid 94 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 94 	 56 	 2.80 	 2.80 	1/8/0 
+ 0 likely parent pair(s)
+
+ kid 95 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 95 	 173 	 4.59 	 4.59 	1/9/0 
+ 95 	 32 	 3.35 	 1.24 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 96 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 96 	 176 	 5.45 	 5.45 	0/11/0 
+ 96 	 74 	 4.60 	 0.85 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 97 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 97 	 28 	 6.31 	 6.31 	0/12/0 
+ 97 	 73 	 3.73 	 2.58 	0/9/0 
+ 97 	 87 	 1.01 	 5.30 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 98 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 99 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 99 	 5 	 2.36 	 2.36 	0/10/0 
+ 99 	 117 	 1.70 	 0.66 	2/7/0 
+ 99 	 113 	 1.69 	 0.68 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 100 : (0 missing data on 26 alleles)
+ 7 likely parent(s)
+ 100 	 30 	 5.75 	 5.75 	0/10/0 
+ 100 	 111 	 5.36 	 0.40 	0/11/0 
+ 100 	 176 	 3.97 	 1.78 	0/10/0 
+ 100 	 110 	 3.67 	 2.09 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 101 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 101 	 19 	 0.22 	 0.22 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 102 : (1 missing data on 26 alleles)
+ 2 likely parent(s)
+ 102 	 27 	 5.55 	 5.55 	0/9/0 
+ 102 	 12 	 2.21 	 3.34 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 103 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 103 	 131 	 4.42 	 4.42 	0/8/0 
+ 103 	 215 	 3.76 	 0.66 	0/8/0 
+ 103 	 172 	 1.05 	 3.37 	0/7/0 
+ 103 	 216 	 0.47 	 3.95 	0/6/0 
+ 0 likely parent pair(s)
+
+ kid 104 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 105 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 106 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 106 	 29 	 3.55 	 3.55 	0/10/0 
+ 106 	 5 	 2.88 	 0.67 	0/11/0 
+ 106 	 212 	 1.73 	 1.83 	0/9/0 
+ 106 	 139 	 1.61 	 1.94 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 107 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 108 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 108 	 109 	 3.58 	 3.58 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 109 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 109 	 154 	 4.07 	 4.07 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 110 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 111 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 112 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 112 	 131 	 4.12 	 4.12 	0/9/0 
+ 112 	 117 	 3.23 	 0.89 	2/9/0 
+ 0 likely parent pair(s)
+
+ kid 113 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 113 	 117 	 4.80 	 4.80 	2/8/0 
+ 0 likely parent pair(s)
+
+ kid 114 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 114 	 163 	 4.13 	 4.13 	3/8/0 
+ 114 	 107 	 1.77 	 2.37 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 115 : (1 missing data on 26 alleles)
+ 4 likely parent(s)
+ 115 	 62 	 2.88 	 2.88 	0/11/0 
+ 115 	 91 	 1.81 	 1.07 	0/8/0 
+ 115 	 130 	 1.77 	 1.11 	1/7/0 
+ 115 	 93 	 0.00 	 2.88 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 116 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 117 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 118 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 119 : (0 missing data on 26 alleles)
+ 7 likely parent(s)
+ 119 	 77 	 4.50 	 4.50 	1/11/0 
+ 119 	 154 	 3.38 	 1.13 	0/9/0 
+ 119 	 7 	 3.09 	 1.41 	0/9/0 
+ 119 	 51 	 2.94 	 1.56 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 120 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 120 	 163 	 6.86 	 6.86 	3/9/0 
+ 0 likely parent pair(s)
+
+ kid 121 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 122 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 122 	 190 	 3.63 	 3.63 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 123 : (1 missing data on 26 alleles)
+ 1 likely parent(s)
+ 123 	 66 	 1.90 	 1.90 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 124 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 124 	 138 	 6.05 	 6.05 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 125 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 126 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 127 : (0 missing data on 26 alleles)
+ 7 likely parent(s)
+ 127 	 94 	 2.28 	 2.28 	0/8/0 
+ 127 	 191 	 1.94 	 0.33 	0/7/0 
+ 127 	 185 	 1.89 	 0.38 	0/9/0 
+ 127 	 131 	 1.53 	 0.75 	0/6/0 
+ 0 likely parent pair(s)
+
+ kid 128 : (1 missing data on 26 alleles)
+ 6 likely parent(s)
+ 128 	 103 	 2.85 	 2.85 	0/9/0 
+ 128 	 14 	 2.63 	 0.22 	0/8/0 
+ 128 	 52 	 2.34 	 0.51 	0/9/0 
+ 128 	 92 	 2.04 	 0.81 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 129 : (1 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 130 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 130 	 177 	 5.76 	 5.76 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 131 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 132 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 133 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 133 	 114 	 1.72 	 1.72 	1/8/0 
+ 0 likely parent pair(s)
+
+ kid 134 : (1 missing data on 26 alleles)
+ 1 likely parent(s)
+ 134 	 177 	 0.34 	 0.34 	0/6/0 
+ 0 likely parent pair(s)
+
+ kid 135 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 136 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 136 	 187 	 7.95 	 7.95 	0/9/0 
+ 136 	 96 	 5.24 	 2.71 	0/9/0 
+ 136 	 190 	 0.45 	 7.51 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 137 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 137 	 52 	 5.16 	 5.16 	0/8/0 
+ 137 	 63 	 2.97 	 2.19 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 138 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 139 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 139 	 204 	 2.10 	 2.10 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 140 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 140 	 41 	 4.20 	 4.20 	0/9/0 
+ 140 	 100 	 1.97 	 2.23 	0/9/0 
+ 140 	 34 	 1.88 	 2.32 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 141 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 142 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 143 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 143 	 139 	 1.38 	 1.38 	0/6/0 
+ 0 likely parent pair(s)
+
+ kid 144 : (1 missing data on 26 alleles)
+ 6 likely parent(s)
+ 144 	 155 	 6.09 	 6.09 	0/9/0 
+ 144 	 57 	 5.72 	 0.37 	0/11/0 
+ 144 	 87 	 2.84 	 3.25 	0/9/0 
+ 144 	 216 	 2.34 	 3.75 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 145 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 145 	 138 	 5.04 	 5.04 	0/10/0 
+ 145 	 195 	 4.91 	 0.13 	0/10/0 
+ 145 	 202 	 4.47 	 0.57 	1/8/0 
+ 145 	 46 	 3.89 	 1.15 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 146 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 146 	 200 	 4.23 	 4.23 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 147 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 148 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 148 	 127 	 2.54 	 2.54 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 149 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 150 : (0 missing data on 26 alleles)
+ 1 likely parent(s)
+ 150 	 63 	 7.06 	 7.06 	1/11/0 
+ 0 likely parent pair(s)
+
+ kid 151 : (1 missing data on 26 alleles)
+ 1 likely parent(s)
+ 151 	 114 	 3.18 	 3.18 	1/9/0 
+ 0 likely parent pair(s)
+
+ kid 152 : (0 missing data on 26 alleles)
+ 3 likely parent(s)
+ 152 	 34 	 2.77 	 2.77 	0/10/0 
+ 152 	 80 	 1.39 	 1.39 	0/9/0 
+ 152 	 187 	 0.34 	 2.44 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 153 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 153 	 68 	 6.25 	 6.25 	0/11/0 
+ 153 	 3 	 5.28 	 0.97 	0/9/0 
+ 153 	 33 	 4.41 	 1.84 	0/11/0 
+ 153 	 93 	 2.14 	 4.11 	0/8/0 
+ 0 likely parent pair(s)
+
+ kid 154 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 155 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 155 	 195 	 6.27 	 6.27 	0/9/0 
+ 155 	 141 	 4.28 	 1.99 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 156 : (0 missing data on 26 alleles)
+ 4 likely parent(s)
+ 156 	 29 	 3.78 	 3.78 	0/9/0 
+ 156 	 23 	 1.81 	 1.97 	1/9/0 
+ 156 	 107 	 1.71 	 2.07 	0/8/0 
+ 156 	 39 	 1.19 	 2.59 	0/7/0 
+ 0 likely parent pair(s)
+
+ kid 157 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 157 	 134 	 5.18 	 5.18 	0/10/0 
+ 157 	 71 	 4.54 	 0.64 	0/11/0 
+ 0 likely parent pair(s)
+
+ kid 158 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 159 : (0 missing data on 26 alleles)
+ 2 likely parent(s)
+ 159 	 91 	 3.58 	 3.58 	0/9/0 
+ 159 	 81 	 2.34 	 1.24 	0/9/0 
+ 0 likely parent pair(s)
+
+ kid 160 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)
+
+ kid 161 : (1 missing data on 26 alleles)
+ 2 likely parent(s)
+ 161 	 177 	 1.33 	 1.33 	0/8/0 
+ 161 	 33 	 1.23 	 0.10 	0/10/0 
+ 0 likely parent pair(s)
+
+ kid 162 : (0 missing data on 26 alleles)
+ 0 likely parent(s)
+ 0 likely parent pair(s)

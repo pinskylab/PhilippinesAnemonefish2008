@@ -1,0 +1,3 @@
+Below are the mean, median, and 95% credible limits for the posterior distribution of Ne from OneSamp
+mean  median    lower95%CL   upper95%CL
+23.27017 23.14838 19.55421 29.96347

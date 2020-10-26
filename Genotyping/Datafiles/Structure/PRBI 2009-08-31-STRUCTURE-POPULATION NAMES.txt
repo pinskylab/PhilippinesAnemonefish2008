@@ -1,0 +1,13 @@
+POPULATION ID		STRUCTURE ID
+Pop-1		1
+Pop-2		2
+Pop-3		3
+Pop-4		4
+Pop-5		5
+Pop-6		6
+Pop-7		7
+Pop-8		8
+Pop-9		9
+Pop-10		10
+Pop-11		11
+Pop-12		12

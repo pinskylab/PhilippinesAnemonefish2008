@@ -1,0 +1,6 @@
+                   Output from the program
+
+ Estimating Ne and m jointly, assuming an infinite source
+
+**************** Likelihood estimates ***************
+   PARAMETER      POINT_EST         +95%CI         -95%CI

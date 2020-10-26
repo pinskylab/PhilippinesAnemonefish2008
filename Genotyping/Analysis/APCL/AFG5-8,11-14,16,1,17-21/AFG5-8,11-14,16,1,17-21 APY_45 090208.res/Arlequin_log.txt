@@ -1,0 +1,212 @@
+Core Routine Directory: C:/Program Files/Arlequin 3.11/
+Random number generator initialized with lidum=-865155
+Reading project profile section...
+done !
+Opening next project...
+C:/Documents and Settings/Mollie Manier/Desktop/Users/Malin/Philippines 2008/Genotyping/AFG5-8,11-14,16,1,17-21/AFG5-8,11-14,16,1,17-21 APY_45 090208.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (08/02/09 at 23:03:47)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+	Project file, Line #8 : Keyword "CompDistMatrix" is now obsolete. Please set this parameter directly throug the interface
+
+	Reading Samples section ...
+	Reading Handumon ... 
+	done ! (0 ms)
+
+	Reading Santander ... 
+	done ! (0 ms)
+
+	Reading Boljoon ... 
+	done ! (0 ms)
+
+	Reading Argao ... 
+	done ! (0 ms)
+
+	Reading Carcar ... 
+	done ! (0 ms)
+
+	Reading Minglanilla ... 
+	done ! (0 ms)
+
+	Reading Danao ... 
+	done ! (0 ms)
+
+	Reading Sogod ... 
+	done ! (0 ms)
+
+	Reading Tabogon ... 
+	done ! (0 ms)
+
+	Reading Daanbantayan ... 
+	done ! (0 ms)
+
+	Reading Malapascua ... 
+	done ! (0 ms)
+
+	Reading Pintuyan ... 
+	done ! (0 ms)
+
+	Reading Padre Burgos ... 
+	done ! (0 ms)
+
+	Reading Maasin ... 
+	done ! (0 ms)
+
+	Reading Inopacan ... 
+	done ! (0 ms)
+
+	Reading Baybay ... 
+	done ! (0 ms)
+
+	Reading Albuera ... 
+	done ! (0 ms)
+
+	Reading Ormoc ... 
+	done ! (0 ms)
+
+	Reading Palompon ... 
+	done ! (0 ms)
+
+	done reading Samples section! (0 ms)
+	Reading genetic structure ...
+	Warning: Keyword "IndividualLevel" defined on line 868 is obsolete. Activation of this option is now made through the interface.
+	done reading genetic structure! (0 ms)
+done ! (0 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 16 ms
+  done!
+  check selected settings...
+  done!
+	Converting phenotypic to haplotypic data ...
+	done ! (0 ms)
+
+Skipping microsat repeat length detection
+		Computing distance matrix ...
+	Transferring haplotypes to temporary population ...
+	done ! (0 ms)
+	Computing distances ...
+		Beginning distance computations ...
+		done ! (0 ms)
+	done ! (0 ms)
+	Transferring distances to global distance matrix ...
+	done ! (0 ms)
+		done ! (0 ms)
+
+		Computing F statistics ...
+	Computing pairwise Fst's ... 
+
+1297 ms to compute pairwise differences and test significance
+
+All FST distances have been computed and written to file
+
+	done ! (1297 ms)
+		done ! (1328 ms)
+
+Population 'Handumon' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Santander' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Boljoon' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Argao' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Carcar' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Minglanilla' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Danao' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Sogod' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Tabogon' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Daanbantayan' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Malapascua' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Pintuyan' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Padre Burgos' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Maasin' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Inopacan' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Baybay' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Albuera' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Ormoc' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population 'Palompon' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (08/02/09 at 23:03:48))
+Total computing time for this run : 0h 0m 1s 360 ms
+////////////////////////////////////////////////////////////////////
+
+Successful run of C:/Documents and Settings/Mollie Manier/Desktop/Users/Malin/Philippines 2008/Genotyping/AFG5-8,11-14,16,1,17-21/AFG5-8,11-14,16,1,17-21 APY_45 090208.arp

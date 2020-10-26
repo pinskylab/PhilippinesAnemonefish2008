@@ -1,0 +1,201 @@
+Core Routine Directory: C:/Program Files/Arlequin 3.11/
+Random number generator initialized with lidum=1740164
+Reading project profile section...
+done !
+Opening next project...
+C:/Documents and Settings/Mollie Manier/Desktop/Users/Malin/Philippines 2008/Analysis/090313/Arlequin singleloci/Aclarkii_2009-03-13 CebuLeyte ACH_A7.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 4 (15/03/09 at 18:03:00)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: Aclarkii CebuLeyte AC915
+Reading input file ...
+	Project file, Line #10 : Keyword "CompDistMatrix" is now obsolete. Please set this parameter directly throug the interface
+
+	Reading Samples section ...
+	Reading 7 ... 
+	done ! (0 ms)
+
+	Reading 8 ... 
+	done ! (0 ms)
+
+	Reading 9 ... 
+	done ! (16 ms)
+
+	Reading 10 ... 
+	done ! (0 ms)
+
+	Reading 11 ... 
+	done ! (0 ms)
+
+	Reading 13 ... 
+	done ! (0 ms)
+
+	Reading 14 ... 
+	done ! (0 ms)
+
+	Reading 15 ... 
+	done ! (0 ms)
+
+	Reading 16 ... 
+	done ! (0 ms)
+
+	Reading 17 ... 
+	done ! (0 ms)
+
+	Reading 18 ... 
+	done ! (0 ms)
+
+	Reading 19 ... 
+	done ! (0 ms)
+
+	Reading 20 ... 
+	done ! (0 ms)
+
+	Reading 22 ... 
+	done ! (0 ms)
+
+	Reading 23 ... 
+	done ! (0 ms)
+
+	Reading 24 ... 
+	done ! (0 ms)
+
+	Reading 25 ... 
+	done ! (0 ms)
+
+	Reading 27 ... 
+	done ! (0 ms)
+
+	done reading Samples section! (16 ms)
+	Reading genetic structure ...
+	Warning: Keyword "IndividualLevel" defined on line 830 is obsolete. Activation of this option is now made through the interface.
+	done reading genetic structure! (0 ms)
+done ! (16 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 0 ms
+  done!
+  check selected settings...
+  done!
+	Converting phenotypic to haplotypic data ...
+	done ! (0 ms)
+		Computing distance matrix ...
+	Transferring haplotypes to temporary population ...
+	done ! (0 ms)
+	Computing distances ...
+		Beginning distance computations ...
+		done ! (0 ms)
+	done ! (0 ms)
+	Transferring distances to global distance matrix ...
+	done ! (0 ms)
+		done ! (0 ms)
+
+	Computing pairwise Fst's ... 
+
+1141 ms to compute pairwise differences and test significance
+
+All FST distances have been computed and written to file
+
+	done ! (1141 ms)
+		done ! (1141 ms)
+
+Population '7' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '8' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '9' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '10' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '11' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '13' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '14' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '15' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '16' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '17' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '18' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '19' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '20' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '22' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '23' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '24' : 
+		Beginning distance computations ...
+		done ! (15 ms)
+done in 15 ms
+
+Population '25' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+Population '27' : 
+		Beginning distance computations ...
+		done ! (0 ms)
+done in 0 ms
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 4 (15/03/09 at 18:03:01))
+Total computing time for this run : 0h 0m 1s 172 ms
+////////////////////////////////////////////////////////////////////
+
+Successful run of C:/Documents and Settings/Mollie Manier/Desktop/Users/Malin/Philippines 2008/Analysis/090313/Arlequin singleloci/Aclarkii_2009-03-13 CebuLeyte ACH_A7.arp

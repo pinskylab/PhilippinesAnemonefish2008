@@ -1,0 +1,63 @@
+                   Output from the program
+
+ Estimating Ne and m jointly, assuming an infinite source
+
+**************** Likelihood estimates ***************
+   PARAMETER      POINT_EST         +95%CI         -95%CI
+          Ne     7.6118E+01     1.2453E+02     4.5985E+01
+           m     9.9907E-01  >  1.0000E+00         0.4969
+
+Relative profile log-likelihood as a function of Ne
+              Ne          Log(L)
+           45.98         -2.0000
+           48.12         -1.6561
+           50.12         -1.3771
+           52.62         -1.0789
+           54.62         -0.8751
+           57.62         -0.6193
+           60.62         -0.4160
+           65.62         -0.1779
+           68.62         -0.0872
+           71.12         -0.0377
+           73.12         -0.0134
+           76.12          0.0000
+           79.12         -0.0114
+           82.12         -0.0449
+           85.12         -0.0983
+           90.12         -0.2271
+           95.12         -0.4003
+          100.12         -0.6126
+          105.12         -0.8588
+          108.12         -1.0201
+          111.12         -1.1897
+          114.12         -1.3659
+          117.12         -1.5468
+          120.12         -1.7304
+          124.53         -2.0000
+
+Relative profile log-likelihood as a function of  m
+               m          Log(L)
+          0.4969         -2.0000
+          0.5308         -1.7973
+          0.5682         -1.5825
+          0.6057         -1.3791
+          0.6432         -1.1874
+          0.6806         -1.0080
+          0.7181         -0.8412
+          0.7805         -0.5917
+          0.8430         -0.3783
+          0.9117         -0.1849
+          0.9554         -0.0840
+          0.9772         -0.0399
+          0.9928         -0.0104
+          0.9991          0.0000
+
+**************** Moment     estimates ***************
+
+ NO valid MT estimate of Ne, MT_m=        0.88
+ Ne<0 indicates an infinitely large estimate of Ne
+
+
+
+ Program started:  Date(d/m/y)=30/03/2009,  Time(s/m/hr)=55/05/11
+ Program finished: Date(d/m/y)=30/03/2009,  Time(s/m/hr)=05/06/11

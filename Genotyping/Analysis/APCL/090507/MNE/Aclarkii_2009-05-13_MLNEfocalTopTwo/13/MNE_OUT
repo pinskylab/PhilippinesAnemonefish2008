@@ -1,0 +1,62 @@
+                   Output from the program
+
+ Estimating Ne and m jointly, assuming an infinite source
+
+**************** Likelihood estimates ***************
+   PARAMETER      POINT_EST         +95%CI         -95%CI
+          Ne     6.4546E+01     1.4913E+02     3.6129E+01
+           m     9.9957E-01  >  1.0000E+00         0.2260
+
+Relative profile log-likelihood as a function of Ne
+              Ne          Log(L)
+           36.13         -2.0000
+           38.55         -1.5698
+           41.05         -1.1987
+           43.05         -0.9493
+           45.55         -0.6909
+           47.55         -0.5226
+           52.55         -0.2263
+           55.55         -0.1171
+           58.55         -0.0477
+           61.55         -0.0106
+           64.55          0.0000
+           67.55         -0.0114
+           70.55         -0.0413
+           73.55         -0.0869
+           78.55         -0.1922
+           85.55         -0.3913
+           91.55         -0.6010
+           97.55         -0.8324
+          103.55         -1.0582
+          109.55         -1.2534
+          115.55         -1.4164
+          125.55         -1.6359
+          135.55         -1.8102
+          149.13         -2.0000
+
+Relative profile log-likelihood as a function of  m
+               m          Log(L)
+          0.2260         -2.0000
+          0.2749         -1.7248
+          0.3124         -1.5322
+          0.3498         -1.3542
+          0.3873         -1.1896
+          0.4498         -0.9433
+          0.4998         -0.7699
+          0.5748         -0.5465
+          0.6497         -0.3645
+          0.7372         -0.2013
+          0.7997         -0.1155
+          0.8621         -0.0540
+          0.9246         -0.0161
+          0.9996          0.0000
+
+**************** Moment     estimates ***************
+
+ NO valid MT estimate of Ne, MT_m=        0.78
+ Ne<0 indicates an infinitely large estimate of Ne
+
+
+
+ Program started:  Date(d/m/y)=14/05/2009,  Time(s/m/hr)=25/53/16
+ Program finished: Date(d/m/y)=14/05/2009,  Time(s/m/hr)=01/55/16

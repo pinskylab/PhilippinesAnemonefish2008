@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx
+ version="1.0"
+ creator="GPSMan" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/2"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/2 http://www.topografix.com/GPX/Private/TopoGrafix/0/2/topografix.xsd">
+ <author>an author</author>
+ <email>an_email@somewhere</email>
+ <url>an_url</url>
+ <urlname>a_url_name</urlname>
+<time>2008-09-13T20:26:02Z</time>
+<wpt lat="50.9828833" lon="-1.4639000">
+ <ele>35.9</ele>
+ <name>WP-000000001</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="10.2281043" lon="124.2489406">
+ <name>001</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-AUG-08 1:52:21PM</cmt>
+</wpt>
+<wpt lat="25.0617834" lon="121.6402667">
+ <ele>38.1</ele>
+ <name>WP-000000002</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="9.8690934" lon="123.5966077">
+ <ele>10.2</ele>
+ <name>Argao1</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-SEP-08 3:32:54PM</cmt>
+</wpt>
+<wpt lat="10.2662715" lon="124.1358910">
+ <name>WP-000000003</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-08 7:55:31AM</cmt>
+</wpt>
+<wpt lat="10.2987992" lon="124.2056771">
+ <name>WP-000000000</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-08 7:52:08AM</cmt>
+</wpt>
+<wpt lat="38.8555500" lon="-94.7990167">
+ <ele>325.0</ele>
+ <name>Garmin</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+</gpx>

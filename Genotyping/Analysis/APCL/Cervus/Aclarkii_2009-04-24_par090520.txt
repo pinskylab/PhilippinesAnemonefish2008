@@ -1,0 +1,94 @@
+Cervus 3.0.3 - © Copyright Tristan Marshall 1998-2007
+Distributed by Field Genetics Ltd - www.fieldgenetics.com
+Licensed for non-commercial use only
+
+Parentage analysis completed on Wednesday, May 20, 2009, at 09:56 am
+
+
+**** Summary statistics ****
+
+Single parent:
+
+Level       Confidence (%)  Critical LOD    Assignments         Assignment rate
+                                            Observed Expected   Observed Expected
+Strict      95.00             7.83                1  (     71)    0%     ( 22%)
+Relaxed     80.00             5.86               18  (    142)    6%     ( 44%)
+Unassigned                                      304  (    180)   94%     ( 56%)
+Total                                           322  (    322)  100%     (100%)
+
+Parent pair (sexes unknown):
+
+Level       Confidence (%)  Critical LOD    Assignments         Assignment rate
+                                            Observed Expected   Observed Expected
+Strict      95.00            18.97                0  (     17)    0%     ( 11%)
+Relaxed     80.00            12.89                0  (     45)    0%     ( 28%)
+Unassigned                                      161  (    116)  100%     ( 72%)
+Total                                           161  (    161)  100%     (100%)
+
+
+**** Number of individuals tested ****
+
+Offspring (total):                                          161
+  Tested (typed at 6 or more loci):                         161
+  Not tested (typed at fewer than 6 loci):                    0
+
+Candidate parents (total):                                  215
+  Tested (typed at 6 or more loci):                         215
+  Not tested (typed at fewer than 6 loci):                    0
+  Average number of candidate parents per offspring:        215
+  Average proportion of sampled candidate parents:            1.0000000
+
+Average candidate parent pairs per offspring:             23005
+
+
+**** Files  ****
+
+Input
+  Offspring file:         Aclarkii_2009-04-24-CERVUS-OFFSPRING.txt
+  Candidate parent file:  Aclarkii_2009-04-24-CERVUS-PARENTS.txt
+  Genotype file:          Aclarkii_2009-04-24-CERVUS-GENOTYPES.txt
+  Allele frequency file:  Aclarkii_2009-04-24-CERVUS-allelefreq.alf
+  Simulation data file:   Aclarkii_create_2009-04-24-CERVUS-sim10kerr0prop0.5.sim
+
+Output
+  Parentage summary file: Aclarkii_2009-04-24_par090520.txt
+  Parentage data file:    Aclarkii_2009-04-24_par090520.csv
+
+
+**** Loci ****
+
+      1  A1_AC135
+      2  A1_AC157
+      3  A1_AC91
+      4  A1_ACH_B
+      5  A1_ACH_C
+      6  A1_ACH_D
+      7  A1_APR_Cf2
+      8  A1_APR_Cf
+      9  A1_APY_4
+     10  A1_APY_6
+     11  A1_NNG_00
+     12  A1_NNG_01
+     13  A1_NNG_02
+
+
+**** Simulation parameters ****
+
+Input
+  Number of offspring:                                    10000
+  Number of candidate parents:                             1000
+  Proportion of candidate parents sampled:                    0.5000000
+    Number of parent pairs:                              499500
+
+  Proportion of loci typed:                                   0.9887480
+  Proportion of loci mistyped:                                0.0000000
+  Error rate in likelihood calculations:                      0.0000000
+  Minimum number of typed loci:                               6
+
+Output
+  Confidence determined using:                              LOD
+  Relaxed confidence level:                                  80.00%
+  Strict confidence level:                                   95.00%
+
+
+********************************************************************************

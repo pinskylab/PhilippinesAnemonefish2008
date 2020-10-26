@@ -1,0 +1,35 @@
+                   Output from the program
+
+ Estimating Ne only, assuming a single isolated population (m==0)
+
+**************** Likelihood estimates ***************
+   PARAMETER      POINT_EST         +95%CI         -95%CI
+          Ne     4.1646E+02  >  1.0000E+04     6.8592E+01
+
+Relative profile log-likelihood as a function of Ne
+              Ne          Log(L)
+           68.59         -2.0000
+           73.73         -1.7136
+           77.33         -1.5110
+           82.72         -1.2997
+           89.92         -1.0494
+          100.71         -0.7935
+          115.09         -0.5557
+          153.46         -0.2405
+          203.10         -0.0916
+          238.95         -0.0459
+          283.20         -0.0186
+          416.46          0.0000
+          684.87         -0.0130
+         1176.40         -0.0354
+         6922.09         -0.0755
+        10000.00         -0.0785
+
+**************** Moment     estimates ***************
+
+MT_Ne=      234.27
+
+
+
+ Program started:  Date(d/m/y)=13/04/2009,  Time(s/m/hr)=26/39/17
+ Program finished: Date(d/m/y)=13/04/2009,  Time(s/m/hr)=05/41/17

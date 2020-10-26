@@ -1,0 +1,14 @@
+5/7/2012
+	Belatedly starting digital notes for analyzing the 2008 data. 
+		- processPhils2012-05-07.R
+		- Modify to add lat/long for every anemone. 
+		- output GPSSurvey.anemlatlong2012-05-07.csv
+		- re-format manually: GPSSurvey.anemlatlong2012-05-07 for GPSBabel.csv
+			- deleted any rows that lat/lon = NA (could dig deeper, but not worth it right now. I figured out approximations for some of these in 2008, see script)
+		- GPSBabel outputs GPSSurvey.anemlatlong2012-05-07.kml
+		- Added to Google Earth as 2008 anemones (white dots)
+		
+6/1/2014
+	Created GPSSurvey.anemlatlong2012-05-07 for QGIS.csv
+		added column headers to GPSSurvey.anemlatlong2012-05-07 for GPSBabel.csv
+		converted to Unix (LF) text format

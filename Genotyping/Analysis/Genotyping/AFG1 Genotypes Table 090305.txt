@@ -1,0 +1,385 @@
+Sample File	Sample Name	Run Name	Panel	Marker	Dye	Allele 1	Allele 2	Size 1	Size 2	Height 1	Height 2	Peak Area 1	Peak Area 2	Data Point 1	Data Point 2	ADO	AE	OS	SHP	OBA	SPA	SP	BIN	PHR	LPH	SPU	AN	BD	XTLK	GQ	UD1	UD2	UD3	
+F01_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	AC1359	B	243	249	243.15	249.05	1531	1085	10184.0	7291.0	4130	4204	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F03_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G01_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	AC1359	B	245		245.29		10838		68923.0		4223		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G03_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H01_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	AC1359	B	243		243.36		1510		9509.0		4229		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+H03_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	AC1359	B	243	245	243.23	245.23	8253	6719	51688.0	40896.0	4120	4145	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A03_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	AC1359	B	243	245	242.76	244.81	3038	3026	19135.0	18686.0	4160	4186	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A04_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B02_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	AC1359	B	243		242.74		6417		40640.0		4144		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B04_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	AC1359	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B01_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	AC1359	B	243	245	242.98	245.06	4431	3786	27483.0	22851.0	4102	4128	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	AC1359	B	243	249	243.06	249.04	6145	4759	38133.0	29254.0	4112	4187	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C03_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C02_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	AC1359	B	245	247	244.63	246.69	4540	3613	26847.0	21071.0	4178	4204	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C04_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D02_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	AC1359	B	243	249	242.75	248.74	7748	6226	46741.0	38582.0	4191	4267	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D04_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E02_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	AC1359	B	243		242.83		1284		8023.0		4184		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E04_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	AC1359	B	243		242.82		3364		22839.0		4165		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F04_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	AC1359	B	243		242.89		2648		17185.0		4227		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G04_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H02_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	AC1359	B	243	249	242.96	248.92	2590	1883	15923.0	11569.0	4266	4343	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+H04_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D01_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	AC1359	B	243	245	243.12	245.18	9134	7575	55274.0	45214.0	4176	4202	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+D03_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E01_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	AC1359	B	243		243.24		8939		56350.0		4151		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E03_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	AC1359	B											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F05_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	252	254	252.68	254.35	4913	4114	33358.0	27168.0	4210	4233	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G05_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.46		16531		112371.0		4276		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H05_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.52		8036		54933.0		4275		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A06_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.19		4586		31766.0		4296		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B06_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.05		6130		40707.0		4298		false	false	0.0	0.0	0.0	1.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.4383				
+B05_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.39		15465		101971.0		4266		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C05_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.35		13458		89154.0		4231		false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C06_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.03		13837		90693.0		4250		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D06_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		253.96		9217		58414.0		4241		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E06_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254	258	254.02	257.52	3988	2468	25135.0	15147.0	4253	4301	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F06_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	252	254	252.11	254.08	4816	5449	29787.0	32549.0	4230	4257	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G06_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.04		20156		135285.0		4306		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+H06_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254	258	253.6	257.83	4183	4524	25557.0	28364.0	4325	4384	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D05_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	252	254	252.41	253.72	7061	6613	45673.0	39287.0	4196	4214	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E05_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat58_AFG1_APCL	AC1578	B	254		254.35		7343		48280.0		4241		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+H07_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H09_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H11_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A08_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A10_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A12_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B08_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B10_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B12_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G07_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G09_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G11_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A07_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A09_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A11_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C08_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C10_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C12_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C07_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C09_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C11_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D07_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D09_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D11_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D08_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D10_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D12_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E08_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E10_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E12_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F08_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F10_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F12_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G08_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G10_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G12_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B07_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B09_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B11_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H08_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H10_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H12_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E07_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E09_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E11_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F07_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F09_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F11_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	AC915	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F01_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F03_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	APR_Cf29	R	213	219	213.25	219.17	1836	1125	11698.0	6879.0	3747	3820	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G01_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G03_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H01_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H03_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A03_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A04_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211	231	210.9	231.15	2362	2073	14611.0	12934.0	3727	3977	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B02_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B04_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211		211.05		4699		30864.0		3731		false	false	0.0	-2.0	-2.0	-2.0	-2.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.9				
+B01_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	APR_Cf29	R	219		219.24		3241		20833.0		3795		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C03_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211	213	211.24	213.2	1648	1237	10619.0	7843.0	3705	3729	false	false	0.0	-2.0	-2.0	-2.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9				
+C02_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C04_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	APR_Cf29	R	199	219	199.14	219.04	5605	2531	37096.0	16524.0	3587	3833	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D02_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D04_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211	213	211.0	212.93	6201	3788	41261.0	23120.0	3765	3789	false	false	0.0	-2.0	-2.0	-2.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9				
+E02_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E04_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211	219	211.08	218.9	2180	1163	14077.0	7138.0	3722	3818	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F04_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211	215	211.04	214.91	1630	1040	10549.0	6452.0	3749	3797	false	false	0.0	-2.0	-2.0	-2.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9				
+G02_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G04_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H02_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H04_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D03_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	APR_Cf29	R	211		211.21		4416		28540.0		3722		false	false	0.0	-2.0	-2.0	-2.0	-2.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.9				
+E01_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E03_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	APR_Cf29	R	215	231	215.15	231.4	1289	1319	8303.0	8689.0	3778	3979	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H07_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H09_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H11_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A08_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A10_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A12_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B08_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+B10_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B12_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G07_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G09_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G11_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A07_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A09_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A11_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C08_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C10_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C12_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C07_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C09_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C11_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D07_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D09_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D11_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D08_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D10_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D12_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E10_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E12_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F08_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F12_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G08_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G10_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G12_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B07_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B09_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B11_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H08_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H10_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H12_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E07_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E09_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E11_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F07_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F09_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F11_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APR_Cf29	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F05_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.43		20487		120321.0		3769		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+G05_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.4		30408		174340.0		3807		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+H05_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.51		17107		99558.0		3850		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+A05_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		218.42		32054		204061.0		3817		false	false	1.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+A06_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.2		32524		190991.0		3826		false	false	1.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+B06_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		218.13		891		5432.0		3841		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+B05_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		218.46		26705		165098.0		3811		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+C05_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		218.41		24729		155641.0		3779		false	false	1.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+C06_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		218.19		14205		88213.0		3798		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+D06_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.08		26998		152770.0		3777		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+E06_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.14		20992		117500.0		3788		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+F06_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.11		15738		90287.0		3790		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+G06_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.22		29005		166996.0		3837		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+H06_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.25		20861		122397.0		3863		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+D05_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.28		25924		148644.0		3758		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+E05_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_2	Y	?		217.29		23414		139177.0		3774		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+H07_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H09_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H11_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A08_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		274.76		5695		36264.0		4576		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.18				
+A10_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	130.59	155.71	72	62	479.0	372.0	2766	3063	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0				
+A12_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	247.89	248.83	2832	10261	15654.0	65661.0	4300	4312	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+B08_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	241.68	272.86	2087	1807	8177.0	10829.0	4111	4531	true	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0				
+B10_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	120.36	130.51	150	252	901.0	1376.0	2615	2740	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+B12_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	247.88	248.75	3447	13232	22260.0	84559.0	4273	4284	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.09				
+G07_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G09_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+G11_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		248.59		50		310.0		4289		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.09				
+A07_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		273.17		48		348.0		4538		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.09				
+A09_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	213.24	214.38	43	52	278.0	410.0	3780	3794	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.09				
+A11_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	246.01	246.95	43	47	255.0	313.0	4275	4287	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0				
+C08_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	173.13	241.32	79	162	492.0	1019.0	3246	4098	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.045				
+C10_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	120.42	130.5	53	48	479.0	336.0	2605	2729	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0				
+C12_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		251.23		49		375.0		4285		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.09				
+C07_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	242.05	273.15	2080	4228	8967.0	26875.0	4125	4548	false	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0405				
+C09_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	124.59	125.4	92	91	780.0	677.0	2647	2657	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	1.0	1.0	1.0	0.0	0.0	0.0				
+C11_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	248.27	249.21	3974	7358	23638.0	46607.0	4238	4250	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0				
+D07_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	117.71	273.13	1620	2661	9641.0	16166.0	2542	4489	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0				
+D09_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	120.48	130.56	157	304	972.0	1686.0	2597	2722	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0				
+D11_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	222.75	224.93	128	343	1000.0	3034.0	3886	3913	false	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.045				
+D08_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	241.56	274.63	1763	2341	6848.0	14755.0	4086	4529	false	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.081				
+D10_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	120.44	130.51	136	251	766.0	1419.0	2604	2728	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+D12_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	272.84	274.66	1715	1288	10545.0	7553.0	4515	4540	false	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.09				
+E10_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	130.51	155.68	211	82	1219.0	510.0	2732	3026	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0				
+E12_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	247.7	248.66	1256	4482	7226.0	29088.0	4201	4213	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+F08_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	272.85	274.71	1203	924	7196.0	5412.0	4560	4586	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.18				
+F10_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	120.46	130.56	213	363	1243.0	1993.0	2593	2717	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+F12_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	247.73	249.77	4503	3650	26520.0	22276.0	4249	4275	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.18				
+G08_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	241.63	272.87	6205	5597	24782.0	33461.0	4136	4559	true	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0				
+G10_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	130.57	161.41	820	707	4760.0	4489.0	2765	3133	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+G12_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	249.84	250.72	5181	14320	33727.0	92639.0	4289	4301	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.09				
+B07_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		274.93		7908		50362.0		4538		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.18				
+B09_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		214.52		2103		9337.0		3779		false	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.09				
+B11_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	248.35	249.37	7884	8799	48324.0	58920.0	4275	4288	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0				
+H08_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		274.83		6781		43179.0		4638		false	false	1.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.09				
+H10_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		214.25		35		261.0		3851		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.09				
+H12_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	247.97	248.91	5779	16502	37443.0	107613.0	4284	4296	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.09				
+E07_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	273.07	274.93	253	741	1567.0	4656.0	4512	4538	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.09				
+E09_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	124.58	125.55	40	42	340.0	255.0	2651	2663	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0				
+E11_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	224.97	253.36	36	69	199.0	457.0	3928	4289	false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.045				
+F07_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		275.02		2995		19102.0		4556		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.18				
+F09_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?	?	130.62	161.42	299	191	1624.0	1206.0	2708	3073	true	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+F11_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_3GATA	B	?		251.13		15957		107118.0		4289		false	false	0.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.18				
+H07_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H09_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		235.06		63		387.0		4105		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0187				
+H11_PRBI146.fsa	PRBI146	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A08_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	218.67	260.92	206	320	1285.0	2007.0	3840	4384	false	false	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+A10_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	249.61	267.45	1506	1076	9666.0	6920.0	4254	4502	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+A12_PRBI161.fsa	PRBI161	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.67	254.98	7546	1258	41803.0	7259.0	3942	4397	false	false	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+B08_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		241.6		8759		27606.0		4110		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+B10_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		249.45		3074		19090.0		4212		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+B12_PRBI184.fsa	PRBI184	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.51	254.89	7757	1190	44228.0	6682.0	3915	4368	false	false	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+G07_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		221.01		69		420.0		3863		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0219				
+G09_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	243.59	250.14	120	131	852.0	856.0	4157	4240	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1249				
+G11_PRBI186.fsa	PRBI186	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A07_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A09_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A11_PRBI2.fsa	PRBI2	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		222.78		71		409.0		3981		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0219				
+C08_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		242.2		83		537.0		4109		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0219				
+C10_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		249.36		2840		18162.0		4198		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+C12_PRBI211.fsa	PRBI211	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		222.08		73		224.0		3915		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0219				
+C07_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		242.13		8974		28985.0		4126		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0281				
+C09_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	245.6	249.92	3027	1948	19724.0	12664.0	4139	4193	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+C11_PRBI22.fsa	PRBI22	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		220.86		6722		40148.0		3894		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+D07_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	239.97	261.12	153	344	1020.0	2241.0	4045	4323	false	false	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+D09_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	250.0	263.81	1971	1179	12132.0	7634.0	4205	4397	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+D11_PRBI23.fsa	PRBI23	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.92	259.23	8173	1153	46237.0	6882.0	3851	4356	false	false	1.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0347				
+D08_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		241.64		9034		27279.0		4087		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0281				
+D10_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	247.46	251.61	2672	1622	16498.0	9960.0	4175	4229	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+D12_PRBI260.fsa	PRBI260	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E08_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		241.64		312		1327.0		4097		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+E10_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+E12_PRBI323.fsa	PRBI323	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	227.12	250.0	305	123	1894.0	1127.0	3943	4230	false	false	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0173				
+F08_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F10_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F12_PRBI325.fsa	PRBI325	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.57	226.1	2771	1922	15967.0	12089.0	3893	3975	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+G08_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		241.47		8423		20065.0		4134		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0281				
+G10_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	218.66	229.77	718	249	4486.0	1549.0	3862	4001	true	false	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0				
+G12_PRBI363.fsa	PRBI363	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	220.71	227.27	3375	2519	19924.0	15901.0	3922	4004	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+B07_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	218.84	261.09	318	116	2147.0	658.0	3803	4345	false	false	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+B09_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	240.27	242.43	1536	898	8713.0	4704.0	4098	4125	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+B11_PRBI4.fsa	PRBI4	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		219.87		12849		72917.0		3917		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+H08_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	218.77	260.94	377	494	2332.0	3194.0	3895	4443	false	false	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+H10_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H12_PRBI465.fsa	PRBI465	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.73	260.96	5995	709	34172.0	4354.0	3927	4464	false	false	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+E07_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		218.95		107		548.0		3806		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	1.0	0.0	0.0	0.0	0.0	0.0281				
+E09_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		250.0		393		2518.0		4206		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+E11_PRBI51.fsa	PRBI51	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.97	262.41	838	102	4915.0	642.0	3866	4416	false	false	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+F07_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	219.02	261.14	339	108	2159.0	812.0	3820	4362	false	false	0.0	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+F09_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?	?	243.45	250.0	2139	1437	13428.0	9163.0	4102	4184	false	false	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+F11_PRBI71.fsa	PRBI71	Pinsky_APG1_120908	MSAT53_2_AFG1_PRBI	APY_44	Y	?		220.88		5298		33054.0		3906		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+F05_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	19	213.92	229.22	12800	5280	76305.0	30994.0	3726	3914	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G05_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.99	224.84	19861	16960	119589.0	104393.0	3765	3899	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H05_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	214.03	225.0	13539	7957	80548.0	47445.0	3807	3943	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A05_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.88	224.8	12058	9491	78375.0	61359.0	3761	3896	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A06_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	13	213.73	215.91	19292	14247	110234.0	81515.0	3783	3810	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B06_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.7	224.79	13192	11826	80567.0	72140.0	3786	3924	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B05_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.91	224.84	27805	16569	164455.0	97916.0	3755	3890	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C05_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12		213.83		31887		231509.0		3723		false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C06_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	17	19	224.5	228.85	7837	5629	47256.0	31794.0	3876	3930	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D06_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.67	224.7	19416	16894	114742.0	100546.0	3735	3871	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E06_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.73	224.74	14594	10911	85921.0	65196.0	3746	3882	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F06_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	19		228.8		5096		30209.0		3935		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G06_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.76	224.75	25295	18052	154116.0	111659.0	3794	3931	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H06_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	12	17	213.87	224.8	18278	11890	110870.0	73038.0	3821	3957	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D05_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	17	19	224.7	229.08	18124	12835	105921.0	73299.0	3849	3903	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E05_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_45	G	17		224.83		31545		198126.0		3867		false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F05_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		159.52		511		3356.0		3041		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+G05_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H05_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+A05_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		217.86		644		3755.0		3810		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+A06_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		217.76		802		5318.0		3833		false	false	1.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0312				
+B06_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		158.58		1051		7424.0		3085		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+B05_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		158.65		1782		11708.0		3054		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+C05_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		216.45		545		6884.0		3755		false	false	1.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0694				
+C06_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		158.49		776		5189.0		3047		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+D06_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		158.49		1081		7003.0		3041		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+E06_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		159.45		536		3290.0		3061		false	false	0.0	0.0	0.0	0.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.1388				
+F06_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		159.45		667		4468.0		3062		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+G06_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H06_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?		159.53		622		3817.0		3128		false	false	0.0	0.0	0.0	1.0	0.0	1.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+D05_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R	?	?	158.64	217.77	534	529	3658.0	3373.0	3021	3764	false	false	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0625				
+E05_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat58_AFG1_APCL	APY_55	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+F01_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	APY_65	G	256	264	256.42	264.33	10358	6911	70316.0	47380.0	4305	4415	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F03_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G01_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G03_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H01_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H03_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	APY_65	G	252	256	252.52	256.48	2052	1663	15698.0	13105.0	4240	4295	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A03_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	APY_65	G	252	258	252.16	258.2	6756	4974	45562.0	33337.0	4282	4366	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A04_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B02_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	APY_65	G	252		252.1		7266		46922.0		4265		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B04_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B01_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	APY_65	G	256	258	256.37	258.33	10835	8012	71373.0	54490.0	4278	4305	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	APY_65	G	256		256.37		19841		128747.0		4287		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C03_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C02_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C04_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D02_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	APY_65	G	252		252.16		7323		47327.0		4313		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D04_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E02_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	APY_65	G	252		252.23		4990		31559.0		4306		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E04_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F04_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G04_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H02_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H04_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D01_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	APY_65	G	258	264	258.44	264.29	17787	13544	119865.0	89970.0	4381	4463	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+D03_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E01_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	APY_65	G	252	256	252.51	256.53	17567	13509	114048.0	89406.0	4271	4327	false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E03_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	APY_65	G											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F01_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	NNG_012	R	112		111.96		2799		20419.0		2503		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F03_APCL131.fsa	APCL131	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G01_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	NNG_012	R	114	116	114.27	116.23	2309	1848	15558.0	11844.0	2578	2603	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G03_APCL166.fsa	APCL166	Pinsky_APG1_120908	Msat53	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H01_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+H03_APCL199.fsa	APCL199	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A01_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	NNG_012	R	112	116	112.0	116.12	5382	4093	35361.0	26429.0	2493	2545	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A03_APCL21.fsa	APCL21	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+A02_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	NNG_012	R	112	118	111.95	118.2	4106	2807	28109.0	18466.0	2526	2605	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+A04_APCL243.fsa	APCL243	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B02_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	NNG_012	R	112	116	111.91	116.11	5388	4157	37107.0	27110.0	2516	2569	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+B04_APCL264.fsa	APCL264	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B01_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	NNG_012	R	112	118	111.93	118.12	5255	3790	37528.0	25600.0	2482	2560	false	false	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+B03_APCL27.fsa	APCL27	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+C01_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	NNG_012	R	112	116	111.97	116.27	5273	4108	35151.0	26872.0	2491	2545	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C03_APCL28.fsa	APCL28	Pinsky_APG1_120908	Msat53	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+C02_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	NNG_012	R	112	116	111.9	116.02	4635	3527	30159.0	23356.0	2525	2577	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+C04_APCL285.fsa	APCL285	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D02_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	NNG_012	R	116		116.02		4146		27050.0		2610		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+D04_APCL308.fsa	APCL308	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E02_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	NNG_012	R	112	116	111.96	116.23	4194	3375	27521.0	22091.0	2550	2604	false	false	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+E04_APCL344.fsa	APCL344	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+F02_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	NNG_012	R	112		111.95		18199		128109.0		2534		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+F04_APCL382.fsa	APCL382	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+G02_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	NNG_012	R	112		111.9		5396		36495.0		2578		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.8766				
+G04_APCL402.fsa	APCL402	Pinsky_APG1_120908	Msat53	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+H02_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	NNG_012	R	112		112.04		3896		26202.0		2601		false	false	0.0	0.0	0.0	0.0	0.0	0.0	-2.0	0.0	0.0	0.0	0.0	0.0	0.7889				
+H04_APCL419.fsa	APCL419	Pinsky_APG1_120908	Msat53	NNG_012	R											false	false	0.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	1.0	-2.0	-2.0	0.0				
+D01_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	NNG_012	R	116		116.21		6038		41526.0		2593		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+D03_APCL52.fsa	APCL52	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E01_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	NNG_012	R	116		116.17		8755		57334.0		2573		false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				
+E03_APCL88.fsa	APCL88	Pinsky_APG1_120908	Msat53	NNG_012	R											false	true	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	1.0				

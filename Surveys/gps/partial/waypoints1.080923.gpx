@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx
+ version="1.0"
+ creator="GPSMan" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/2"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/2 http://www.topografix.com/GPX/Private/TopoGrafix/0/2/topografix.xsd">
+ <author>an author</author>
+ <email>an_email@somewhere</email>
+ <url>an_url</url>
+ <urlname>a_url_name</urlname>
+<time>2008-09-24T05:18:36Z</time>
+<wpt lat="9.4191243" lon="123.3481089">
+ <name>Santander3</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-AUG-08 4:23:27PM</cmt>
+</wpt>
+<wpt lat="10.0130552" lon="123.9769618">
+ <ele>8.3</ele>
+ <name>WP-000000035</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 2:14:03PM</cmt>
+</wpt>
+<wpt lat="44.4993779" lon="-124.0845244">
+ <ele>-0.1</ele>
+ <name>WP-000000097</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>09-APR-08 11:59:26PM</cmt>
+</wpt>
+<wpt lat="10.0114153" lon="123.9804947">
+ <ele>8.3</ele>
+ <name>WP-000000036</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 3:40:20PM</cmt>
+</wpt>
+<wpt lat="44.4929499" lon="-124.0840499">
+ <ele>23.4</ele>
+ <name>WP-000000098</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 9:40:29PM</cmt>
+</wpt>
+<wpt lat="9.9866728" lon="123.8799824">
+ <ele>10.5</ele>
+ <name>WP-000000037</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 10:25:12AM</cmt>
+</wpt>
+<wpt lat="43.6668166" lon="-124.2054666">
+ <ele>45.8</ele>
+ <name>WP-000000099</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 9:55:39PM</cmt>
+</wpt>
+<wpt lat="9.9888143" lon="123.8784397">
+ <ele>12.6</ele>
+ <name>WP-000000038</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 11:44:27AM</cmt>
+</wpt>
+<wpt lat="42.8408761" lon="-124.5648165">
+ <name>WP-000000100</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>09-APR-08 10:15:07AM</cmt>
+</wpt>
+<wpt lat="10.0200940" lon="123.9585884">
+ <ele>12.1</ele>
+ <name>WP-000000039</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 2:43:57PM</cmt>
+</wpt>
+<wpt lat="10.0274293" lon="123.9767919">
+ <ele>14.5</ele>
+ <name>WP-000000040</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-AUG-07 8:46:02AM</cmt>
+</wpt>
+<wpt lat="44.3180348" lon="-124.1089058">
+ <ele>0.8</ele>
+ <name>WP-000000102</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>09-APR-08 11:28:06PM</cmt>
+</wpt>
+<wpt lat="44.3174833" lon="-124.1053666">
+ <ele>33.3</ele>
+ <name>WP-000000101</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 9:48:14PM</cmt>
+</wpt>
+<wpt lat="10.0310419" lon="123.9708102">
+ <ele>9.0</ele>
+ <name>WP-000000041</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-AUG-07 10:24:30AM</cmt>
+</wpt>
+<wpt lat="10.0207449" lon="123.9892135">
+ <ele>11.2</ele>
+ <name>WP-000000042</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-AUG-07 1:06:34PM</cmt>
+</wpt>
+<wpt lat="9.0768389" lon="123.2736850">
+ <ele>19.8</ele>
+ <name>WP-000000043</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>12-AUG-07 10:14:09AM</cmt>
+</wpt>
+<wpt lat="9.0795559" lon="123.2680683">
+ <name>WP-000000044</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>13-AUG-07 7:07:17AM</cmt>
+</wpt>
+<wpt lat="9.0746319" lon="123.2682696">
+ <ele>14.1</ele>
+ <name>WP-000000045</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>12-AUG-07 4:16:33PM</cmt>
+</wpt>
+<wpt lat="9.0738295" lon="123.2702598">
+ <ele>12.1</ele>
+ <name>WP-000000046</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>13-AUG-07 1:31:47PM</cmt>
+</wpt>
+<wpt lat="9.0745846" lon="123.2707831">
+ <ele>8.3</ele>
+ <name>WP-000000047</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>13-AUG-07 6:35:38PM</cmt>
+</wpt>
+<wpt lat="9.0944177" lon="123.1828577">
+ <ele>12.9</ele>
+ <name>WP-000000048</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>14-AUG-07 3:48:01PM</cmt>
+</wpt>
+<wpt lat="9.1689027" lon="123.2489335">
+ <ele>4.0</ele>
+ <name>WP-000000050</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>15-AUG-07 10:18:58AM</cmt>
+</wpt>
+<wpt lat="9.1219471" lon="123.2135746">
+ <ele>8.3</ele>
+ <name>WP-000000049</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>14-AUG-07 4:50:57PM</cmt>
+</wpt>
+<wpt lat="9.2171219" lon="123.2866156">
+ <ele>14.3</ele>
+ <name>WP-000000051</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>15-AUG-07 2:05:24PM</cmt>
+</wpt>
+<wpt lat="9.1667362" lon="123.2470653">
+ <ele>21.8</ele>
+ <name>WP-000000052</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-AUG-07 9:46:58AM</cmt>
+</wpt>
+<wpt lat="9.1629836" lon="123.2455886">
+ <ele>18.4</ele>
+ <name>WP-000000053</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-AUG-07 9:53:49AM</cmt>
+</wpt>
+<wpt lat="9.1163109" lon="123.2108266">
+ <ele>7.1</ele>
+ <name>WP-000000054</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-AUG-07 12:32:35PM</cmt>
+</wpt>
+<wpt lat="9.1654717" lon="123.2463288">
+ <name>WP-000000055</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-07 8:07:59AM</cmt>
+</wpt>
+<wpt lat="9.2726516" lon="123.6492064">
+ <ele>15.0</ele>
+ <name>WP-000000056</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-07 10:41:30AM</cmt>
+</wpt>
+<wpt lat="9.2846569" lon="123.6412517">
+ <ele>19.6</ele>
+ <name>WP-000000057</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-07 2:46:04PM</cmt>
+</wpt>
+<wpt lat="9.2857457" lon="123.6404249">
+ <ele>6.9</ele>
+ <name>WP-000000058</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-07 2:43:53PM</cmt>
+</wpt>
+<wpt lat="9.1912670" lon="123.6559773">
+ <ele>6.6</ele>
+ <name>WP-000000060</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>18-AUG-07 12:12:29PM</cmt>
+</wpt>
+<wpt lat="9.2147178" lon="123.6868332">
+ <ele>14.3</ele>
+ <name>WP-000000059</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>18-AUG-07 10:08:10AM</cmt>
+</wpt>
+<wpt lat="9.2981324" lon="123.6008968">
+ <ele>16.7</ele>
+ <name>WP-000000061</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>18-AUG-07 5:05:21PM</cmt>
+</wpt>
+<wpt lat="9.2881436" lon="123.6386819">
+ <ele>7.8</ele>
+ <name>WP-000000062</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>19-AUG-07 10:42:32AM</cmt>
+</wpt>
+<wpt lat="9.2994663" lon="123.6208379">
+ <ele>12.9</ele>
+ <name>WP-000000063</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>19-AUG-07 1:53:51PM</cmt>
+</wpt>
+<wpt lat="9.2964769" lon="123.5998934">
+ <ele>9.0</ele>
+ <name>WP-000000064</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>19-AUG-07 4:05:40PM</cmt>
+</wpt>
+<wpt lat="9.2407564" lon="123.5728186">
+ <ele>13.1</ele>
+ <name>WP-000000065</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>20-AUG-07 1:41:03PM</cmt>
+</wpt>
+<wpt lat="9.2704276" lon="123.5983967">
+ <ele>12.9</ele>
+ <name>WP-000000066</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>20-AUG-07 3:34:53PM</cmt>
+</wpt>
+<wpt lat="10.0141043" lon="125.0152152">
+ <ele>6.1</ele>
+ <name>WP-000000067</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>22-AUG-07 2:16:26PM</cmt>
+</wpt>
+<wpt lat="10.0301382" lon="125.0076098">
+ <ele>17.4</ele>
+ <name>WP-000000068</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>22-AUG-07 4:27:49PM</cmt>
+</wpt>
+<wpt lat="10.0488793" lon="124.9624322">
+ <ele>6.9</ele>
+ <name>WP-000000070</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>23-AUG-07 2:23:17PM</cmt>
+</wpt>
+<wpt lat="10.0327523" lon="124.9952070">
+ <ele>11.4</ele>
+ <name>WP-000000069</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>23-AUG-07 11:40:57AM</cmt>
+</wpt>
+<wpt lat="10.0043986" lon="125.0244825">
+ <ele>7.1</ele>
+ <name>WP-000000071</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-AUG-07 8:04:45AM</cmt>
+</wpt>
+<wpt lat="10.0165087" lon="123.9915662">
+ <ele>10.0</ele>
+ <name>112</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 9:57:40PM</cmt>
+</wpt>
+<wpt lat="9.9568700" lon="125.0693173">
+ <ele>9.5</ele>
+ <name>WP-000000072</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-AUG-07 8:41:51AM</cmt>
+</wpt>
+<wpt lat="10.0166340" lon="123.9911603">
+ <ele>10.7</ele>
+ <name>113</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 10:04:08PM</cmt>
+</wpt>
+<wpt lat="10.0113751" lon="125.0281927">
+ <ele>13.1</ele>
+ <name>WP-000000073</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-AUG-07 10:36:41AM</cmt>
+</wpt>
+<wpt lat="10.0172534" lon="123.9913182">
+ <ele>11.4</ele>
+ <name>114</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 10:24:18PM</cmt>
+</wpt>
+<wpt lat="10.0417493" lon="125.0261158">
+ <ele>5.9</ele>
+ <name>WP-000000074</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-AUG-07 12:42:28PM</cmt>
+</wpt>
+<wpt lat="10.0174469" lon="123.9910676">
+ <ele>11.9</ele>
+ <name>115</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 10:28:36PM</cmt>
+</wpt>
+<wpt lat="10.0650554" lon="125.1357129">
+ <ele>5.7</ele>
+ <name>WP-000000075</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>25-AUG-07 2:26:45PM</cmt>
+</wpt>
+<wpt lat="10.0189756" lon="123.9898725">
+ <ele>12.6</ele>
+ <name>116</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 10:51:10PM</cmt>
+</wpt>
+<wpt lat="10.0693985" lon="125.1342644">
+ <ele>8.5</ele>
+ <name>WP-000000076</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>25-AUG-07 3:23:10PM</cmt>
+</wpt>
+<wpt lat="10.0191815" lon="123.9896259">
+ <ele>11.4</ele>
+ <name>117</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 10:55:53PM</cmt>
+</wpt>
+<wpt lat="10.0658118" lon="125.1357391">
+ <ele>14.1</ele>
+ <name>WP-000000077</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>25-AUG-07 12:41:01PM</cmt>
+</wpt>
+<wpt lat="10.0202885" lon="123.9892815">
+ <ele>11.4</ele>
+ <name>118</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 11:12:50PM</cmt>
+</wpt>
+<wpt lat="10.0572255" lon="125.1419431">
+ <ele>16.5</ele>
+ <name>WP-000000078</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>26-AUG-07 8:17:49AM</cmt>
+</wpt>
+<wpt lat="10.0197431" lon="123.9889982">
+ <ele>9.7</ele>
+ <name>119</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 11:33:45PM</cmt>
+</wpt>
+<wpt lat="9.9627533" lon="125.2361512">
+ <ele>9.5</ele>
+ <name>WP-000000080</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>26-AUG-07 1:16:08PM</cmt>
+</wpt>
+<wpt lat="10.0160419" lon="125.1954154">
+ <ele>17.2</ele>
+ <name>WP-000000079</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>26-AUG-07 10:29:04AM</cmt>
+</wpt>
+<wpt lat="10.0152033" lon="123.9929427">
+ <name>120</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-AUG-07 6:26:56AM</cmt>
+</wpt>
+<wpt lat="10.0610929" lon="125.1347371">
+ <ele>24.9</ele>
+ <name>WP-000000081</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>26-AUG-07 8:06:15AM</cmt>
+</wpt>
+<wpt lat="10.1905598" lon="124.1955360">
+ <ele>10.7</ele>
+ <name>WP-000000010</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 12:50:19PM</cmt>
+</wpt>
+<wpt lat="9.0819248" lon="123.2674690">
+ <ele>14.3</ele>
+ <name>122</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>11-AUG-07 7:58:01PM</cmt>
+</wpt>
+<wpt lat="9.0832378" lon="123.2678061">
+ <ele>14.8</ele>
+ <name>121</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>11-AUG-07 7:28:49PM</cmt>
+</wpt>
+<wpt lat="10.0592674" lon="125.0235534">
+ <ele>11.9</ele>
+ <name>WP-000000082</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>27-AUG-07 9:59:07AM</cmt>
+</wpt>
+<wpt lat="10.1754225" lon="124.1724537">
+ <ele>10.0</ele>
+ <name>WP-000000011</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:41:01PM</cmt>
+</wpt>
+<wpt lat="9.0789444" lon="123.2675816">
+ <ele>9.5</ele>
+ <name>123</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>11-AUG-07 9:06:26PM</cmt>
+</wpt>
+<wpt lat="10.0125718" lon="123.9810107">
+ <ele>12.9</ele>
+ <name>095</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 9:08:50PM</cmt>
+</wpt>
+<wpt lat="10.1766085" lon="124.1756273">
+ <ele>11.2</ele>
+ <name>WP-000000012</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:37:09PM</cmt>
+</wpt>
+<wpt lat="42.8408828" lon="-124.5648191">
+ <ele>8.1</ele>
+ <name>125</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 11:49:15PM</cmt>
+</wpt>
+<wpt lat="10.0127073" lon="123.9799293">
+ <ele>13.3</ele>
+ <name>096</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 9:20:00PM</cmt>
+</wpt>
+<wpt lat="10.1763791" lon="124.1740424">
+ <ele>12.4</ele>
+ <name>WP-000000013</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:10:53PM</cmt>
+</wpt>
+<wpt lat="43.3066342" lon="-124.4023114">
+ <ele>-7.3</ele>
+ <name>WP-000000083</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>11-APR-08 3:39:42AM</cmt>
+</wpt>
+<wpt lat="10.0125365" lon="123.9791507">
+ <ele>13.6</ele>
+ <name>097</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 9:29:47PM</cmt>
+</wpt>
+<wpt lat="10.1763013" lon="124.1736758">
+ <ele>13.1</ele>
+ <name>WP-000000014</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:16:18PM</cmt>
+</wpt>
+<wpt lat="9.8665977" lon="123.5902299">
+ <ele>17.7</ele>
+ <name>Argao2</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-SEP-08 3:49:19PM</cmt>
+</wpt>
+<wpt lat="10.0128571" lon="123.9786650">
+ <ele>12.1</ele>
+ <name>098</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 9:35:25PM</cmt>
+</wpt>
+<wpt lat="10.1762868" lon="124.1736480">
+ <ele>12.6</ele>
+ <name>WP-000000015</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:17:41PM</cmt>
+</wpt>
+<wpt lat="9.8448952" lon="123.5673509">
+ <name>Argao3</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-SEP-08 8:35:49AM</cmt>
+</wpt>
+<wpt lat="10.0130147" lon="123.9784228">
+ <ele>11.7</ele>
+ <name>099</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 9:38:41PM</cmt>
+</wpt>
+<wpt lat="10.1762435" lon="124.1735915">
+ <ele>11.2</ele>
+ <name>WP-000000016</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:21:31PM</cmt>
+</wpt>
+<wpt lat="42.8408804" lon="-124.5648200">
+ <ele>7.8</ele>
+ <name>WP-000000084</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 11:49:22PM</cmt>
+</wpt>
+<wpt lat="10.0132705" lon="123.9772453">
+ <ele>9.5</ele>
+ <name>100</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 9:50:52PM</cmt>
+</wpt>
+<wpt lat="10.1766850" lon="124.1754589">
+ <name>WP-000000000</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>30-JUL-07 9:47:10PM</cmt>
+</wpt>
+<wpt lat="10.1759454" lon="124.1730819">
+ <ele>11.7</ele>
+ <name>WP-000000017</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:31:50PM</cmt>
+</wpt>
+<wpt lat="43.3039999" lon="-124.4014500">
+ <ele>60.7</ele>
+ <name>WP-000000085</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 10:01:20PM</cmt>
+</wpt>
+<wpt lat="10.0118632" lon="123.9791195">
+ <ele>8.3</ele>
+ <name>102</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 10:20:34PM</cmt>
+</wpt>
+<wpt lat="10.0122885" lon="123.9783542">
+ <ele>9.3</ele>
+ <name>101</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 10:11:21PM</cmt>
+</wpt>
+<wpt lat="10.1765586" lon="124.1745336">
+ <name>WP-000000001</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>28-JUL-07 9:11:34PM</cmt>
+</wpt>
+<wpt lat="10.1765644" lon="124.1748998">
+ <ele>9.7</ele>
+ <name>WP-000000018</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:54:49PM</cmt>
+</wpt>
+<wpt lat="42.8379000" lon="-124.5588166">
+ <ele>92.2</ele>
+ <name>WP-000000086</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 10:03:36PM</cmt>
+</wpt>
+<wpt lat="10.0117207" lon="123.9795210">
+ <ele>10.0</ele>
+ <name>103</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 10:25:48PM</cmt>
+</wpt>
+<wpt lat="10.1764559" lon="124.1764418">
+ <name>WP-000000002</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>28-JUL-07 9:13:40PM</cmt>
+</wpt>
+<wpt lat="10.1766213" lon="124.1755962">
+ <ele>16.0</ele>
+ <name>WP-000000019</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:40:16PM</cmt>
+</wpt>
+<wpt lat="10.1766201" lon="124.1754721">
+ <ele>15.0</ele>
+ <name>WP-000000020</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:44:00PM</cmt>
+</wpt>
+<wpt lat="10.4986078" lon="124.0334128">
+ <name>WP-000000088</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>20-SEP-08 7:36:34AM</cmt>
+</wpt>
+<wpt lat="45.4703333" lon="-123.9679833">
+ <ele>-4.4</ele>
+ <name>WP-000000087</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>04-APR-08 6:35:35AM</cmt>
+</wpt>
+<wpt lat="10.0116495" lon="123.9802573">
+ <ele>10.0</ele>
+ <name>104</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 10:32:31PM</cmt>
+</wpt>
+<wpt lat="10.2446386" lon="124.1226951">
+ <ele>20.1</ele>
+ <name>WP-000000003</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>29-JUL-07 9:17:44AM</cmt>
+</wpt>
+<wpt lat="10.1766240" lon="124.1753806">
+ <ele>10.7</ele>
+ <name>WP-000000021</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:45:46PM</cmt>
+</wpt>
+<wpt lat="44.8348666" lon="-124.0554833">
+ <ele>14.1</ele>
+ <name>WP-000000089</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>04-APR-08 6:46:06AM</cmt>
+</wpt>
+<wpt lat="10.0112813" lon="123.9813720">
+ <ele>9.0</ele>
+ <name>105</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 10:42:17PM</cmt>
+</wpt>
+<wpt lat="10.2497538" lon="124.1549138">
+ <ele>14.1</ele>
+ <name>WP-000000004</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>29-JUL-07 11:28:10AM</cmt>
+</wpt>
+<wpt lat="10.1766359" lon="124.1753263">
+ <ele>13.6</ele>
+ <name>WP-000000022</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:47:28PM</cmt>
+</wpt>
+<wpt lat="44.8359686" lon="-124.0592367">
+ <ele>-1.8</ele>
+ <name>WP-000000090</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>10-APR-08 2:40:32AM</cmt>
+</wpt>
+<wpt lat="10.0118416" lon="123.9822245">
+ <ele>9.3</ele>
+ <name>106</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 10:56:52PM</cmt>
+</wpt>
+<wpt lat="10.2552900" lon="124.2549119">
+ <ele>11.9</ele>
+ <name>WP-000000005</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>29-JUL-07 1:52:28PM</cmt>
+</wpt>
+<wpt lat="10.1766205" lon="124.1751591">
+ <ele>14.8</ele>
+ <name>WP-000000023</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:50:56PM</cmt>
+</wpt>
+<wpt lat="38.8555500" lon="-94.7990167">
+ <ele>325.0</ele>
+ <name>Garmin</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="10.0125043" lon="123.9810910">
+ <ele>7.8</ele>
+ <name>107</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 11:06:43PM</cmt>
+</wpt>
+<wpt lat="10.2206560" lon="124.2282917">
+ <ele>13.8</ele>
+ <name>WP-000000006</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>29-JUL-07 4:32:23PM</cmt>
+</wpt>
+<wpt lat="10.1765093" lon="124.1746220">
+ <ele>13.6</ele>
+ <name>WP-000000024</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:00:17PM</cmt>
+</wpt>
+<wpt lat="50.9828833" lon="-1.4639000">
+ <ele>35.9</ele>
+ <name>WP-000000091</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="10.0157888" lon="123.9924721">
+ <ele>13.6</ele>
+ <name>108</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 9:39:59PM</cmt>
+</wpt>
+<wpt lat="10.1787018" lon="124.1822919">
+ <ele>19.1</ele>
+ <name>WP-000000007</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>30-JUL-07 11:12:35AM</cmt>
+</wpt>
+<wpt lat="10.1764847" lon="124.1745730">
+ <ele>12.9</ele>
+ <name>WP-000000025</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:02:31PM</cmt>
+</wpt>
+<wpt lat="25.0617834" lon="121.6402667">
+ <ele>38.1</ele>
+ <name>WP-000000092</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="10.0159384" lon="123.9923269">
+ <ele>11.9</ele>
+ <name>109</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 9:43:50PM</cmt>
+</wpt>
+<wpt lat="10.1775369" lon="124.1792180">
+ <ele>15.0</ele>
+ <name>WP-000000008</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>30-JUL-07 4:20:19PM</cmt>
+</wpt>
+<wpt lat="10.1763644" lon="124.1741671">
+ <ele>11.7</ele>
+ <name>WP-000000026</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 10:07:50PM</cmt>
+</wpt>
+<wpt lat="10.1761276" lon="124.1764975">
+ <ele>14.8</ele>
+ <name>HandumnMPAPost</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>30-JUL-07 5:17:33PM</cmt>
+</wpt>
+<wpt lat="10.0159972" lon="123.9922509">
+ <ele>13.6</ele>
+ <name>110</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 9:45:54PM</cmt>
+</wpt>
+<wpt lat="10.2302121" lon="124.2430923">
+ <ele>20.3</ele>
+ <name>WP-000000009</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-JUL-07 9:22:53AM</cmt>
+</wpt>
+<wpt lat="10.1770126" lon="124.1785836">
+ <ele>12.1</ele>
+ <name>WP-000000027</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>02-AUG-07 8:59:16AM</cmt>
+</wpt>
+<wpt lat="10.1726506" lon="124.1775692">
+ <ele>23.4</ele>
+ <name>HandumonPSFHse</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-JUL-07 7:17:11PM</cmt>
+</wpt>
+<wpt lat="10.0161201" lon="123.9920933">
+ <ele>12.4</ele>
+ <name>111</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>07-AUG-07 9:49:12PM</cmt>
+</wpt>
+<wpt lat="10.1762363" lon="124.1772784">
+ <ele>12.6</ele>
+ <name>WP-000000028</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>02-AUG-07 10:13:00AM</cmt>
+</wpt>
+<wpt lat="44.1339000" lon="-124.1207666">
+ <ele>45.5</ele>
+ <name>WP-000000093</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>08-APR-08 9:52:30PM</cmt>
+</wpt>
+<wpt lat="10.1895230" lon="124.0818002">
+ <ele>-4.9</ele>
+ <name>WP-000000029</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>03-AUG-07 12:25:04PM</cmt>
+</wpt>
+<wpt lat="10.0931392" lon="123.9940973">
+ <ele>14.8</ele>
+ <name>WP-000000030</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>05-AUG-07 9:07:38AM</cmt>
+</wpt>
+<wpt lat="45.4718070" lon="-123.9721476">
+ <ele>0.4</ele>
+ <name>WP-000000095</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>10-APR-08 4:26:25AM</cmt>
+</wpt>
+<wpt lat="10.1294325" lon="124.8508633">
+ <name>WP-000000094</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>23-SEP-08 4:25:55AM</cmt>
+</wpt>
+<wpt lat="10.0552973" lon="123.9765610">
+ <ele>12.1</ele>
+ <name>WP-000000031</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>05-AUG-07 12:06:36PM</cmt>
+</wpt>
+<wpt lat="44.6068499" lon="-124.0715499">
+ <ele>9.7</ele>
+ <name>WP-000000096</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>04-APR-08 6:49:56AM</cmt>
+</wpt>
+<wpt lat="10.0318833" lon="123.9702499">
+ <name>WP-000000032</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>05-AUG-07 3:35:14PM</cmt>
+</wpt>
+<wpt lat="9.4251800" lon="123.3544899">
+ <name>Santander</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-AUG-08 8:55:18AM</cmt>
+</wpt>
+<wpt lat="10.0119927" lon="123.9906695">
+ <ele>1.1</ele>
+ <name>WP-000000033</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>05-AUG-07 9:37:50PM</cmt>
+</wpt>
+<wpt lat="9.4159223" lon="123.3429526">
+ <name>Santander2</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>31-AUG-08 4:16:03PM</cmt>
+</wpt>
+<wpt lat="10.0116391" lon="123.9792699">
+ <ele>15.7</ele>
+ <name>WP-000000034</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-AUG-07 8:29:04AM</cmt>
+</wpt>
+</gpx>

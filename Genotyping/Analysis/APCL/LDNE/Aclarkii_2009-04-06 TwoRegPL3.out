@@ -1,0 +1,40 @@
+     Output From Program LDNe by Robin Waples and Chi Do
+            Version 1.31   Modified December 2007
+            Date: 04/06/2009, Time: 11:45:06
+
+            Input File: Aclarkii_2009-04-06 TwoReg.gen
+            Mating Model is monogamy
+
+Lowest Allele Frequency Used =   0.05000   0.02000   0.01000
+------------------------------------------------------------
+Population 1[7]
+---------------
+Harmonic Mean Sample Size =        194.6     193.2     192.4
+Independent Comparisons =          1316      2600      3390
+OverAll r^2 =                    0.00537   0.00512   0.00517
+Expected r^2 Sample =            0.00522   0.00526   0.00528
+Estimated Ne^ =                   4635.3   -4830.2   -5664.3
+
+95% CIs for Ne^
+* Parametric                      1149.3    4376.3    4851.8
+                                Infinite  Infinite  Infinite
+
+* JackKnife on Loci                831.4    2746.0    2984.1
+                                Infinite  Infinite  Infinite
+
+------------------------------------------------------------
+Population 2[18]
+----------------
+Harmonic Mean Sample Size =        160.3     159.4     159.3
+Independent Comparisons =          1277      2392      3180
+OverAll r^2 =                    0.00684   0.00685   0.00660
+Expected r^2 Sample =            0.00636   0.00640   0.00640
+Estimated Ne^ =                   1398.1    1478.0    3336.0
+
+95% CIs for Ne^
+* Parametric                       638.9     776.5    1239.6
+                                Infinite    8537.6  Infinite
+
+* JackKnife on Loci                531.3     666.1    1034.0
+                                Infinite  Infinite  Infinite
+

@@ -1,0 +1,14 @@
+50000 34 13 2 10000 2 8 2 12 0.001 0.01 400 2
+#iterations
+#num samples
+#num polymorphic loci (or Numloci for 2 sample case)
+#min generation size
+#max generation size
+#min generations
+#max generations
+#theta min
+#theta max
+#mrate min
+#mrate max
+#Baseline
+#base pair size

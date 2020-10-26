@@ -1,0 +1,34 @@
+                   Output from the program
+
+ Estimating Ne only, assuming a single isolated population (m==0)
+
+**************** Likelihood estimates ***************
+   PARAMETER      POINT_EST         +95%CI         -95%CI
+          Ne     9.9988E+03  >  1.0000E+04     5.1333E+01
+
+Relative profile log-likelihood as a function of Ne
+              Ne          Log(L)
+           51.33         -2.0000
+           53.44         -1.8705
+           57.90         -1.6434
+           64.58         -1.3883
+           71.26         -1.1809
+           80.16         -0.9921
+           95.01         -0.7634
+          126.68         -0.4998
+          168.91         -0.3311
+          278.03         -0.1695
+          468.07         -0.0877
+         1037.19         -0.0334
+         2258.35         -0.0126
+         9998.78          0.0000
+
+**************** Moment     estimates ***************
+
+ Estimate of Ne INFINITE
+ Ne<0 indicates an infinitely large estimate of Ne
+
+
+
+ Program started:  Date(d/m/y)=13/04/2009,  Time(s/m/hr)=38/08/17
+ Program finished: Date(d/m/y)=13/04/2009,  Time(s/m/hr)=35/12/17

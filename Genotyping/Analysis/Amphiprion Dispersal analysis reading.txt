@@ -1,0 +1,266 @@
+ANALYZING DISPERSAL DATA
+
+Rousset et al 2001 book chapter in Dispersal
+	reviews methods of getting dispersal distance. 
+	doesn't get much beyond Dsigma^2
+	
+Rousset 1999 Theor Bio
+
+Dispersal book. Clobert ed.
+	evolutionary and population consequences of dispersal are discussed
+	
+Sumner, Rousset, Moritz et al 2002 skinks. Mol Ecol
+	- mark-recapture to calc meters/month dispersal
+	- regress ar (interindividual multilocus estimate) with distance to get Dsigma^2 (139 indivs, 10 microsats in Genepop)
+	- very low r^2!
+	- calcu De and sigma^2 from Dsigma2 using demographic estimates of D or sigma
+	- calc inbreeding De from adult sex ratio and age structure see Rousset 1999). ignores variance in reproductive success.
+	-Appendix 1: The square parent offspring distance is dX2 = x2 + y2,  with the axial square parent offspring distance being x2 on one axis and y2 on the other. The parameter σ2 of our genetical model is the mean axial square parent offspring distance, E[x2] on one axis and E[y2] on the other, and the mean square parent offspring distance is E[dX2] = E[x2] + E[y2]. Assuming E[y2] = E[x2], we have E[dX2] = 2E[x2] = 2σ2. In other words, the noncentral second moment of parent−offspring Euclidean distance is 2σ2 (see also Crawford 1984; Rousset 1997).
+	- more loci rather than more indivs is better for increased precision (Rousset 2000)
+	
+Buonaccorsi et al. 2004 Molecular genetic structure suggests limited larval dispersal in grass rockﬁsh, Sebastesrastrelliger. Marine Biology
+	- Grass rockfish: livebearing, lives in shallows 0-46m (kelp, seagrass)
+	- population crash from live-fish trade and power plant entrainment
+	- 8 sites over 1300 kms, 405 indivs, 6 msats
+	- Regress FST against distance
+	- Use De of 100, 1000 or 10000 to estimate sigma
+	- Chebyshev inequality to calc probability of dispersing more than a given distance
+	- mean dispersal about 10km
+	- also calc for copper rockfish (Buonaccorsi et al 2002): with similar estimates. Copper est. may be less precise because larger spatial scale and therefore higher variance in demographic parameters
+	- allele discovery curves
+	
+Buonaccorsi et al 2002 copper rockfish. CJFAS.
+	- 235 samples (?), 1000s of kms
+	- find isolation by distance, but don't convert to dispersal (see Bunoaccorsi et al 2004)
+	
+Ehrich & Stenseth 2001 lemmings. Heredity
+	- sampling at small (11km transect), medium (10-30km), and large (300 and 600km) scales
+	- interpret IBD slope using guess at De of 1 indiv/ha
+
+Robledo-Arnuncio et al. 2006 Genetics
+	- indirect method to estimate pollen dispersal curve, independent of male density
+	- sample from seeds and from mothers: analyze to get male gamete
+	- also see TwoGener method
+	
+Smouse et al 2001 
+	- TwoGener method
+	- analysis of genetic distances among male gametes
+		- use heterogeneity of pollen donors sampled by females separated spatially
+	- sample from seeds and from mothers: analyze to get male gamete
+
+Ruggiero et al 2005 Mol Ecol
+	- clonal, dioecious angiosperm
+	- Use De/D ratio of 0.1 (expect 0.1-0.5, no data)
+
+Vekemans & Hardy 2004 spatial genetic structure in plants - Mol Ecol
+	- Sp statistic from slope of interindividual genetic distance against geographic dist
+	- De depends on variance in reproductive success among individuals and through time. First approx from D * Ne/N if D is relatively constant through time
+	- Ne/N ~ 4/(2(1-F1)+1+F1)V) where V is variance in reproductive success (0.1-0.5 in plants)
+	
+Hedrick 2005 Large variance in reproductive success and the Ne/N ratio. Evolution
+	- Fish and marine orgs may have Type III survivorship curves (very high fecundity and mortality in early life stages) and high correlation in survival of all offspring from a particular set of parents (sweepstakes)
+	- Ideal case:  progeny have equal prob of coming from each parent (creates Poisson distribution of # progeny from each parent, mean = 2, variance = 2)
+	- Ne = (4N-2)/(V+2) where V = variance in # offspring per parent
+	- or Ne/N ~ 4/(V+2)
+	- V = sum(x_k(k-kbar)^2) where x_k is proportion of parents with k offspring
+	- Low Ne/N if 100 parents contribute all progeny in pop of 10,000
+	- If multi-year generations and little overlap in breeders in each year, then Ne/N = TNb/N where T is generation time and Nb is # breeders
+	- similar to Waples (2002)
+	
+Waples 2002
+	- If there is family-correlated survival, then Ne/N = S, where S is the survival proportion
+	- similar to the Hedgecock effect
+	
+Bekkevold et al 2002 male reproductive competition in cod. Mol Ecol
+	- cod are like lekking species (?) with male dominance hierarchies
+	- highly skewed male success in fertilization
+	- multiple males fertilize most egg batches, but success in males is correlated to size
+	- had cages of ~8 cod, collect tissue samples from males and females, did parentage analysis on eggs from spawnings
+	
+Araki, Waples, et al. 2007 effective population size in steelhead. Mol Ecol
+	- >15000 indivs genotypes at 8 msats over 13 run years, use parentage to assign returning salmon to spawners in previous years, calc # offspring per parent
+	- estimate Vk and k directly. Vk/2 = 5.8-17.3
+	- Ne/N = 0.2-0.4
+	- reproductive success distribution madeled well by a two-stage proces: each parent contributes Gi offspring (Gi distributed according to gamma) and each offspring have equal chance of surviving (Poisson dist)
+	- Nb (# breeders) much more stable over time than Nanad (# anadromous), sometimes Nb>Nanad (influence of non-anadromous trout)
+	- variance in reproductive success (52-79%) had much stronger effect on Ne than did sex ratio (2-5%) or variance among years (19-22%)
+	- "genetic compensation" at low population sizes: Ne/N increases
+		-from less competition for mates or spawning sites. This would predict positive correlation between Vk/k and anadromous run size: not found.
+		-from increased breeding with resident fish: predicts proportion anadromous decreases with run size: found
+		
+Turner et al 2002 Genetics
+	- 967 red drum from seven bays across 4 cohorts. 8 msat loci
+	- temporal method to estimate Ne (short-term)
+	- Migrate to estimate Ne (long-term)
+	- demographic model of Ne/N from sex ratio, generation time, maturation time, life span, variance in life span, variance in reproductive success among indivs, variance in reproductive success among demes
+	- get Ne/N empirically, solve for variance
+	- Ncensus from northern Gulf, though spp distributed more widely
+
+Fontaine et al 2007 Rise of oceanographic barriers  in continuous populations of a cetacean: the genetic structure of harbour porpoises in Old World waters. BMC Biology 5:30
+	- habour porpoise from northern Europe, Spain and Black sea
+	- Structure, Geneland, and Isolation by Distance analyses
+
+
+Wright, S. 1969 Evolution and genetics of populations. Vol 2 the Theory of Gene Frequencies.  University of Chicago Press: Chicago.
+	- N = 3.545sigma*d (p. 302)
+	- "Effective N is thus equivalent to the otherwise effective number along a strip 3.545sigma long. About 92.4% of the actual parents of central individuals would fall within +/- sigma*d*sqrt(pi)." (normal distribution, linear habitat, d = density per unit distance) p.303
+	- so: sigma = N/(3.545*d)
+	- y = y0exp(-bX^(1/a)) was useful to describe leptokurtic kernels for flies and pollen. a=1 to 2 is common (some leptokurtosis). y0 = b^a/(2*gamma(a+1)). sigma^2 = b^(-2a)*gamma(3a)/gamma(a)
+	- leptokurtic distributions have a smaller multiplier (<3.545). Multipler = 1.46 for a=2 where kurtosis = 22.2 (extreme: multipler = 0.676 for a = 3 where kurtosis = 104). 
+
+
+Kawata 1995 Population size in a continuously distributed population. Evolution
+	- lattice model incorporating a realistic individual behavior to avoid clumping. calc heterozygosity over whole area.
+	- one locus, two alleles
+	- over 15 generations, neighborhood size (4piDsigma2) matches inbreeding effective size very closely (calc from decline of heterozygosity with no mutation)
+	- inbreeding and variance effectve population size (over 500 generations) increase in a continuously distributed population as the area of the population increases, even if the area is greater than the neighborhood area. But, inbreeding size is greater than neighborhood size an less than total number of individuals in the total area.
+	- Fig 3a: heterozygosity decreases more slowly as the area increases, even as density and dispersal dist stay constant. Not apparent over 20 gens, but apparent over 500 gens.
+	- Kawata 1997 Researches on Population Ecology is somewhat similar but a bit more complicated (barriers plus continuous)
+	
+Kawata 2001 J Theor Biol
+	- mutation load vs. habitat size and shape
+	- (similar to mutation - drift balance)
+	- larger sizes go extinct more slowly, as do shapes more square than long
+	- investigated squares up to 16sigma on each side
+
+Watts et al. 2006 Mol Ecol
+	- direct and indirect estimates of dispersal in damselfly
+	- used information on life-time mating success (Purse & Thompson 2005) to calculate variance in reproductive success -> Ne/N ratio -> effective density from field mark-recapture studies
+	- use both population- and individual-based isolation by distance curves
+
+
+
+CONVERT SIZE TO AGE
+	- Von Bertalanffy growth curve
+	- Buechler 2005 dissertation estimates Linf, k, t0 for A. akindynos, P. biaculeatus, and A. melanopus
+	- Ochi paper looks at size and age directly for A. clarkii?
+	
+
+
+
+ABC
+Approximate Bayesian Computation approach?
+	- fit magnitude and slope of FST (rather than Rousset method that only uses slope)
+	- run by Eric Anderson
+
+
+
+
+LIFE TABLES
+	- Mortality 14% per year in A. percula in Papua New Guinea (Buston 2003 Marine Biology)
+	- Mortality <5% per year in A. percula for Rank 1 individuals (Buston 2003 Mar Bio)
+	- Mortality ~4x higher for rank 5 indivs compared to rank 1 indivs (Buston 2003 Mar Bio)
+	- Group size increases linearly with anemone diameter (Buston 2003 Behavioral Ecology)
+	- 1.5 yrs for largest male to become female after dominant female is lost (A. frenatus, Okinawa, Japan) (Hattori 1991 JJI)
+	- all breeding females were > 75mm SL (A. frenatus, Okinawa) (Hattori 1991)
+	- 70% of 34 groups were breeding, others were not (A. frenatus, Okinawa) (Hattori 1991)
+	- A. clarkii: breeding females 79-94mm, males 73-89mm (Shikoku, Hattori & Yanagisawa 1991)
+	- A. clarkii: females 78-95mm, males 75-90mm (Ochi 1989)
+	- A. clarkii: smallest spawning males: 78.6mm +/- 0.7 SE (Ochi 1986)
+	- A. clarkii: smallest spawning females: 90mm. Smallest males: 85mm (Okinawa, Japan) (Hirose 1995)
+	- A. clarkii: 1 year-old fish were <5cm (mostly <4.5cm) in Shikoku, Japan. Growth stopped over-winter Nov-May (Ochi 1986)
+	- A. clarkii: just-settled fish were 0.7cm in Shikoku, Japan (Ochi 1986)
+	- breeding groups inhabited larger anemones and had a larger sum of body sizes than did nonbreeding groups (A. frenatus, Okinawa)(Hattori 1991)
+	- Females produced 0.25 - 2.5 clutches per month June - October (A. frenatus, Okinawa) (Hattori 1991)
+	- Females produced 0.25 to 2.25 clutches per month early June-early October (A. clarkii, Shikoku) (Hattori & Yanagisawa 1991)
+	- Females produced 0.5 - 2.25 clutches per month June - October (A clarkii, Shikoku, Japan) (Ochi 1989)
+	- A. clarkii: mean annual clutch size 13700 eggs (Shikoku) (Ochi 1989)
+	- A. clarkii: mean annual clutch size 8000-17500 eggs, May-September in 6-8 spawnings (Miyaki-jima, Japan) (Bell 1976)
+	- Recruitment to artificially cleared anemones stopped after two fish present (A. frenatus, Okinawa) (Hattori 1991)
+	- 20-408 days for non-breeder to begin breeding (A. clarkii, Shikoku, Japan) (Hattori & Yanagisawa 1991 Env Biol Fish)
+	- tail color corresponds to gonadal state in A. clarkii: orange tails are breeding males, white tails breeding females, while creamy white, clear or striped are non-breeders (Shikoku) (Hattori & Yanagisawa 1991)
+	- A. clarkii also on Parasicyonis maxima (Shikoku, Japan) (Hattori & Yanagisawa 1991)
+	- A. clarkii pairs that form with one breeder usually start breeding within 2 months (Shikoku) (Hattori & Yanagisawa 1991)
+	- A. clarkii color change takes 30-100 days (Shikoku) (Hattori & Yanagisawa 1991)
+	- Lifespan of at least 6-10 years in some species (Fautin 1992 book)
+
+REPRODUCTIVE VARIANCE
+	- Jones et al. 2005: 15 females of 33 total produced the 23 self-recruiting larvae (9 produced 9, 13 produced 4, 1 produced 1, 5 produced 4, 5 produced 4) (A. polymnus)
+	- Planes et al. 2009 (plus pers. comm.): Out of 270 anemone couple we had:
+		- 193 of the 270 (71%) that produced 0 New recruits that self recruited.
+		- 53 (20%) that produced 1 New recruits that self recruited.
+		- 18 (7%) that produced 2 New recruits that self recruited.
+		- 5 (2%) that produced 3 New recruits that self recruited.
+		- 1 (0.4%) that produced 4 New recruits that self recruited.
+
+POPULATION DENSITY
+	- A. clarkii Cebu/Leyte: 0.53 or 0.55 fish/100 m2
+	- A. clarkii Cebu/Leyte: 0.21 or 0.096 adults/100 m2
+	- A clarkii: 2 fish/100 m2 in MPA or about 0.15 fish/100 m2 outside MPA (Shuman et al. 2005, Olango, Philippines)
+	- A clarkii: 1.8 fish/100 m2 (Elliott & Mariscal 2001, PNG)
+	- A clarkii: 1.2 breeding pairs/100 m2 (Hattori & Yanagisawa 1991 or Ochi 1986 or Ochi 1985, Murote Beach, Japan)
+	- A clarkii: 3.2 fish/100 m2 (Ochi 1986, Murote Beach, Japan)
+	- A clarkii: 0.036 breeding pairs/100 m2 (Hirose 1995, Okinawa, Japan)
+	- A clarkii: 0.25 fish/100 m2 (Moyer 1980, Miyake-jima, Japan)
+	- A clarkii: 0.36 adults/100 m2 (Hattori 1994, Sesoko Island, Okinawa, Japan)
+	- A clarkii: 0.0036 fish/100 m2 (Frisch & Hobbs 2009, Keppel Islands, Australia)
+	
+	- A latezonatus: 0.033 breeding pairs/100 m2 (Richardson et al 1997, Julian Rocks, Australia)
+	- A latezonatus:  11 fish/100 m2 (Richardson 1999, North Solitary Island, Australia)
+
+	- A akindynos: 0.097 breeding pairs/100 m2 (Richardson et al 1997, Julian Rocks, Australia)
+	- A akindynos: 28 fish/100 m2 (Richardson 1999, North Solitary Island, Australia)
+	- A akindynos: 0.034 fish/100 m2 (Frisch & Hobbs 2009, Keppel Islands, Australia)
+	
+	- P biaculeatus: 0.41 adults/100 m2 (Srinivasan et al 1999, Lizard Island, Australia)
+	- P biaculeatus: 0.39 adults/100 m2 (Srinivasan et al 1999, Kimbe Bay, PNG)
+
+	- A melanopus: 0.30 adults/100 m2 (Srinivasan et al 1999, Lizard Island, Australia)
+	- A melanopus: 0.1 adults/100 m2 (Srinivasan et al 1999, Kimbe Bay, PNG)
+	- A melanopus: 0.042 fish/100 m2 (Frisch & Hobbs 2009, Keppel Islands, Australia)
+	
+	- A bicinctus: 0.163 fish/100 m2 (Chadwick & Arvedlund 2005, Gulf of Aqaba and northern Red Sea, Egypt)
+	- A bicinctus: 1.511 fish/100 m2 (Chadwick & Arvedlund 2005, Eilat, Israel)
+
+	- Heteractis crispa: 0.5 anems/100 m2 in MPA or about 0.08 anems/100 m2 outside MPA (Shuman et al. 2005, Olango, Philippines)
+	- Heteractis crispa: about 0.8 anems/100 m2 (Elliott & Mariscal 2001, PNG)
+	- Heteractis crispa: 0.23 anems/100 m2 (Hattori 2002, Japan)
+	- Non-H crispa anems (7 spp): 0.23 anems/100 m2 in MPA or about 0.02 anems/100 m2 outside MPA (Shuman et al. 2005, Olango, Philippines)
+	- Heteractis magnifica: about 0.6 anems/ 100 m2 (Elliott & Mariscal 2001, PNG)
+	- Stichodactyla mertensii: about 0.3 anems/100 m2 (Elliott & Mariscal 2001, PNG)
+	- Parasicyonis maxima (hosts APCL): 5.7 anems/100 m2 (Hattori & Yanagisawa 1991, Japan)
+
+
+
+MICROSATELLITE MUTATION RATE
+	- 6.5 x 10-4 for a locus in salmon (from parent-offspring transmission) (Banks et al 1999 J Heredity)
+	- 10-2 to 10-5 is a typical range in animals (Weber & Wong 1993 Hum Mol Genet)
+	- 10-4 assumed for Sparus aurata (sea bream) (Dermitzakis et al 1998 Genetics)
+	- 10-5 to 10-3 assumed for Sciaenops ocellatus (red drum) (Turner et al 2002 Genetics)
+	- 5 x 10-4 is average (Selkoe & Toonen 2006 Ecol Lett)
+	- 5 x 10-4 in common carp (Cyprinus carpio) from F1 pedigree analysis (Yue et al. 2007 Genetica)
+	- 1.5 x 10-4 in zebrafish (Danio rerio) from pedigree (Shimoda et al 1999 Genomics)
+	
+	
+LARVAL LIFE
+	- 7-11 day pre-transition count in A. clarkii = 7-11 day PLD (Thresher et al 1989 Copeia)
+	- Lab-reared A. clarkii settled to anemone 7-10 days after hatching (Thresher et al 1989 Copeia), suggesting that 7 days is the pre-competency period. However, anemone was provided only after 5 days (might settlement be sooner if anem was present earlier?)
+	- width of pre-transition otolith lines decreases after 35-37 days in Semicossyphus pulcher (sheephead), suggesting that larvae not competent to settle until this point (Cowen 1991 MEPS)
+	- slower growth makes for longer PLD between different sites in Microspathodon dorsalis (Pomacentrid) (Wellington & Victor 1992 Mar Bio): Mexico is shorter than Cocos and Galapagos (inshore vs. offshore)
+	- A. melanopus: 8-14 day PLD on GBR, 15-22 days on Palau (Bay et al. 2006 J Fish Bio). Generally high variability in PLDs among locations for Pomacentrids and other reef fish
+	- Labrids: larvae in spring grow faster and settle sooner (42d) than larvae in fall (55-57d) (Searcy & Sponaugle 2000 MEPS)
+	
+	
+
+OCEANOGRAPHY
+	
+Siegel et al 2003 MEPS
+	- predict dispersal kernel from flow field, pre-competency period, and the competency period
+	- current velocity fluctuations often greater than mean
+	- transport by quasi-random trajectories, not by advection-diffusion (turbulence = stirring vs. diffusion = mixing)
+	- "stochastic Lagrangian simulations"
+		- velocity is updated in each step by applying a small random impule
+		- Need:
+			- mean velocity components (U and V, along- and cross-shore)
+			- amplitude of fluctuating currents (sigmaU and sigmaV)
+			- Lagrangian decorrelation time (tL, often 2-4 days, tL(y) = 3-2.5exp(-2y), where y = distance offshore (km))
+			- competency period (Tm)
+	- PLD 0-5 days: sigma = 15km for U=5 cm/s and sigmaU = 15 cm/s
+	- PLD 6-8 wks: sigma = 219 km for U=5 cm/s and sigmaU = 15 cm/s
+	- about 3/4 of larvae lost from system
+	- sigmaD = 2.238 * sigmaU * sqrt(Tm) (stdev of kernel) sigmaU in km/day
+		- sigmaD for 11.5 days = 
+	- xd = 0.994*Tm * U (drift: displacement of kernel mode from 0)
+	- small Peclet number: fluctuating componenets of flow are most important
+	- because of Lagrangian decorrelation times, trajectories in the coastal ocean reset themselves every 3 days
+	- how does sigmaD increase if we don't account for xd?

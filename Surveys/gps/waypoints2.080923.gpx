@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx
+ version="1.0"
+ creator="GPSMan" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/2"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/2 http://www.topografix.com/GPX/Private/TopoGrafix/0/2/topografix.xsd">
+ <author>an author</author>
+ <email>an_email@somewhere</email>
+ <url>an_url</url>
+ <urlname>a_url_name</urlname>
+<time>2008-09-24T05:20:39Z</time>
+<wpt lat="38.8555500" lon="-94.7990167">
+ <ele>325.0</ele>
+ <name>Garmin</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="10.2281043" lon="124.2489406">
+ <name>001</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>24-AUG-08 1:52:21PM</cmt>
+</wpt>
+<wpt lat="50.9828833" lon="-1.4639000">
+ <ele>35.9</ele>
+ <name>WP-000000001</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="9.6276483" lon="123.4804361">
+ <name>002</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>15-SEP-08 6:49:59PM</cmt>
+</wpt>
+<wpt lat="10.2662715" lon="124.1358910">
+ <name>WP-000000003</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-08 7:55:31AM</cmt>
+</wpt>
+<wpt lat="25.0617834" lon="121.6402667">
+ <ele>38.1</ele>
+ <name>WP-000000002</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt></cmt>
+</wpt>
+<wpt lat="10.2422351" lon="123.7861688">
+ <ele>31.6</ele>
+ <name>003</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:31:08AM</cmt>
+</wpt>
+<wpt lat="10.2423735" lon="123.7865376">
+ <ele>25.8</ele>
+ <name>004</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:31:56AM</cmt>
+</wpt>
+<wpt lat="10.2423714" lon="123.7865459">
+ <ele>23.9</ele>
+ <name>005</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:32:13AM</cmt>
+</wpt>
+<wpt lat="10.2423676" lon="123.7865520">
+ <ele>22.0</ele>
+ <name>006</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:32:23AM</cmt>
+</wpt>
+<wpt lat="10.2423658" lon="123.7865562">
+ <ele>21.0</ele>
+ <name>007</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:32:27AM</cmt>
+</wpt>
+<wpt lat="10.2423631" lon="123.7865562">
+ <ele>20.8</ele>
+ <name>008</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:32:43AM</cmt>
+</wpt>
+<wpt lat="10.2423639" lon="123.7865510">
+ <ele>22.7</ele>
+ <name>009</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:33:00AM</cmt>
+</wpt>
+<wpt lat="10.2423682" lon="123.7865531">
+ <ele>22.5</ele>
+ <name>010</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:33:32AM</cmt>
+</wpt>
+<wpt lat="10.2423700" lon="123.7865566">
+ <ele>22.0</ele>
+ <name>011</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:33:38AM</cmt>
+</wpt>
+<wpt lat="10.2423692" lon="123.7865621">
+ <ele>20.8</ele>
+ <name>012</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:33:47AM</cmt>
+</wpt>
+<wpt lat="10.2444009" lon="123.7924192">
+ <ele>29.4</ele>
+ <name>013</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:34:48AM</cmt>
+</wpt>
+<wpt lat="10.2442927" lon="123.7943103">
+ <ele>36.4</ele>
+ <name>014</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:35:23AM</cmt>
+</wpt>
+<wpt lat="10.2435633" lon="123.7945374">
+ <ele>35.0</ele>
+ <name>015</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>16-SEP-08 7:35:34AM</cmt>
+</wpt>
+<wpt lat="9.8690934" lon="123.5966077">
+ <ele>10.2</ele>
+ <name>Argao1</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>06-SEP-08 3:32:54PM</cmt>
+</wpt>
+<wpt lat="10.2987992" lon="124.2056771">
+ <name>WP-000000000</name>
+ <symbol>flag_pin_blue</symbol>
+ <cmt>17-AUG-08 7:52:08AM</cmt>
+</wpt>
+</gpx>

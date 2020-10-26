@@ -1,0 +1,30 @@
+Premnas biaculeatus 2008 analysis notes
+
+2012-07-04
+	Should have started these electronic notes long ago
+	
+	Basic Isolation-By-Distance
+		- see mantelFst 100510.R
+		- exclude population 19 (Padre Burgos), an outlier
+		- m = 1.040682e-04 [7.004779e-05, 1.546115e-04] (RMA)
+		- r2 = 0.284 (RMA)
+		- p = 0.0109 (mantel)
+		- made PRIB IBD wout19 PPT 2012-07-04.pdf
+		
+		- Compare to
+			Cebu: m = 8.546242e-05 [6.352793e-05, 1.149703e-04]
+				(or 8.47e-5 in published paper)
+				180 adults/km
+			Leyte: m = 0.0001897515 [0.0001366422, 0.0002635029]
+				(or 1.89e-4 in published paper)
+				80 adults/km
+				
+				see APCL IBD PPT 2012-07-04.pdf
+				see PRBI IBD wout19 wAPCL PPT 2012-07-04.pdf
+				
+			Given PRBI density of 53 adults/km, would have expected a slope of 
+				180*8.546242e-05/53 = 0.0002902497 (Cebu)
+				80*0.0001897515/53 = 0.0002864174 (Leyte)
+				Mean: 0.0002883335
+				
+				see APCL IBD wPRBIexpectation PPT 2012-07-04.pdf
